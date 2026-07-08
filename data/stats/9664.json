@@ -18,6 +18,10 @@
     {
       "type": "시험과목 및 배점",
       "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}□ 시험과목 및 방법 구 분시 험 과 목배점비율문항수시험시간시험방법제1차 시험1. 국사(근현대사 포함)2. 관광자원해설3. 관광법규4. 관광학개론30%20%20%30%15101015100분(09::30~11::10)객 관 식4지선택형제2차 시험국가관, 사명감 등 정신자세, 전문지식과 응용능력, 예의&middot;품행 및 성실성, 의사발표의 정확성과 논리성 등면 접 형"
+    },
+    {
+      "type": "취득방법",
+      "content": "① 시 행 처 : 한국산업인력공단\n② 관련학과 : 관련 학과"
     }
   ],
   "stats": {

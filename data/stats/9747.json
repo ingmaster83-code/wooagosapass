@@ -33,6 +33,10 @@
     {
       "type": "시험과목 및 배점",
       "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2} 구분교시시험 과목문항수시험시간제1차 시험1&#9312; 검수에 관한 일반적 지식&#9313; 영어각 25분항(총 50문항)50분(09:00 ~ 10:20)제2차 시험-○ 면접시험(1차 시험과목 전반)"
+    },
+    {
+      "type": "취득방법",
+      "content": "① 시 행 처 : 한국산업인력공단\n② 관련학과 : 관련 학과"
     }
   ],
   "stats": {

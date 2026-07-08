@@ -33,6 +33,10 @@
     {
       "type": "시험과목 및 배점",
       "content": "BODY {\tMARGIN: 0px; FONT-FAMILY: Malgun Gothic; COLOR: #000000; FONT-SIZE: 10pt}P {\tLINE-HEIGHT: 1.2; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px}LI {\tLINE-HEIGHT: 1.2; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px}□ 시험과목 및 방법구 분교시시 험 과 목문항수시험시간시험방법제1차 시험11. 전문분야의 해당과목2. 감정에 관한 일반적 지식3. 선박에 의한 유류오염손해배상에 관한 일반지식4. 영어각 25문항(총 100문항)100분(09:30~11:10)객 관 식4지택일형제2차 시험-o 면접시험(1차 시험과목 전반)면접"
+    },
+    {
+      "type": "취득방법",
+      "content": "① 시 행 처 : 한국산업인력공단\n② 관련학과 : 관련 학과"
     }
   ],
   "stats": {

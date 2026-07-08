@@ -22,6 +22,10 @@
     {
       "type": "취득방법",
       "content": "BODY {\tMARGIN: 0px; FONT-FAMILY: 굴림; COLOR: #000000; FONT-SIZE: 10pt}P {\tLINE-HEIGHT: 1.2; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px}LI {\tLINE-HEIGHT: 1.2; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px}&lt;관광진흥법 제38조> 관광종사원의 자격을 취득하려는 자는 문화체육부장관이 실시하는 시험에 합격한 후 문화체육부장관에게 등록하여야 한다."
+    },
+    {
+      "type": "출제경향",
+      "content": "관광통역안내사 시험은 관광자원해설, 관광법규, 관광학개론, 외국어(영·일·중·불·독·스·러·아 등) 과목으로 구성됩니다. 면접에서는 해당 외국어 구사 능력과 관광 안내 실무 능력을 평가합니다."
     }
   ],
   "stats": {

@@ -33,6 +33,14 @@
     {
       "type": "시험과목 및 배점",
       "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}"
+    },
+    {
+      "type": "출제경향",
+      "content": "행정사 시험은 민법(계약), 행정법, 행정학, 민사소송법 등 행정 업무 처리에 필요한 법률 지식을 평가합니다. 2차에서는 법령 적용 능력과 서류 작성 능력을 평가합니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "① 시 행 처 : 한국산업인력공단\n② 관련학과 : 관련 학과\n④ 검정방법\n   - 필기 : 1차 객관식 / 2차 주관식 논술형·기입형\n⑤ 합격기준\n   - 필기 : 1차: 100점 만점, 과목당 40점 이상, 평균 60점 이상 / 2차: 100점 만점, 과목당 40점 이상, 평균 60점 이상"
     }
   ],
   "stats": {

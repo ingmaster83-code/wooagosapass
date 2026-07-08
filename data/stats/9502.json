@@ -14,6 +14,10 @@
     {
       "type": "취득방법",
       "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}일반경비지도사 내용 참조"
+    },
+    {
+      "type": "출제경향",
+      "content": "경비지도사 시험은 경비업법, 범죄학, 경호학, 시설경비론 등 경비 분야의 법적·실무적 지식을 평가합니다."
     }
   ],
   "stats": {

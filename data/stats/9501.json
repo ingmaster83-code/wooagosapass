@@ -22,6 +22,10 @@
     {
       "type": "취득방법",
       "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}경비업법 제11조(경비지도사의 시험 등) &#9312;경비지도사는 제10조제1항 각호의 1에 해당하지 아니하는 자로서 경찰청장이 시행하는 경비지도사시험에 합격하고 행정안전부령으로 정하는 교육을 받은 자이어야 한다(경찰청장이 정하는 전문기관 또는 단체에서 실시하는 44시간의 기본교육 이수자에 한하여 경찰청장 명의로 자격증 교부)"
+    },
+    {
+      "type": "출제경향",
+      "content": "경비지도사 시험은 경비업법, 범죄학, 경호학, 시설경비론 등 경비 분야의 법적·실무적 지식을 평가합니다."
     }
   ],
   "stats": {
