@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://wooagosapass.wooahouse.com/sitemap.xml
+
+#DaumWebMasterTool:4a9a2f48e4086f9872463b16581d09e2e198493bc9acbea61a9d9e74e3e87e71:5OHFs/qHHlfCvAas17iLzw==
