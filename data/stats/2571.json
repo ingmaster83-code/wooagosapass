@@ -3,7 +3,7 @@
   "name": "대기환경산업기사",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-06-23",
+  "updated": "2026-07-31",
   "schedule": [
     {
       "round": "제1회",
@@ -68,7 +68,69 @@
     }
   ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2461,
+        "passers": 747,
+        "passRate": 30.4
+      },
+      {
+        "year": 2022,
+        "applicants": 2073,
+        "passers": 530,
+        "passRate": 25.6
+      },
+      {
+        "year": 2023,
+        "applicants": 1741,
+        "passers": 495,
+        "passRate": 28.4
+      },
+      {
+        "year": 2024,
+        "applicants": 1327,
+        "passers": 398,
+        "passRate": 30.0
+      },
+      {
+        "year": 2025,
+        "applicants": 1133,
+        "passers": 286,
+        "passRate": 25.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 941,
+        "passers": 416,
+        "passRate": 44.2
+      },
+      {
+        "year": 2022,
+        "applicants": 837,
+        "passers": 263,
+        "passRate": 31.4
+      },
+      {
+        "year": 2023,
+        "applicants": 794,
+        "passers": 214,
+        "passRate": 27.0
+      },
+      {
+        "year": 2024,
+        "applicants": 636,
+        "passers": 247,
+        "passRate": 38.8
+      },
+      {
+        "year": 2025,
+        "applicants": 497,
+        "passers": 159,
+        "passRate": 32.0
+      }
+    ]
   }
 }
