@@ -3,7 +3,7 @@
   "name": "비계기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-08-01",
   "schedule": [],
   "fee": {
     "written": "47300",
@@ -13,46 +13,19 @@
   "info": [
     {
       "type": "출제경향",
-      "content": "비계기능사 필기시험은 해당 직종의 기초 기술 이론과 실무 지식을 평가합니다. 실기시험은 실제 작업 수행 능력을 평가합니다. 기출문제 중심으로 학습하고 실기는 충분한 반복 연습이 필요합니다."
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}비계기능사 - 비계설치 및 해체에 관한 지식을 토대로 하여 주어진 도면을 보고 비계공사용 장비와 공구를 적절히 사용하여 띠장을 기둥에 견고히 결속하고 기둥과 띠장을 연속으로 설치할 수 있는능력을 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: 굴림; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}비계기능사 출제기준 입니다. 메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
     },
     {
       "type": "취득방법",
-      "content": "① 시 행 처 : 한국산업인력공단\n② 관련학과 : 대학의 건축공학, 토목공학, 도시공학, 환경공학 등 관련 학과\n④ 검정방법\n   - 필기 : 객관식 4지 택일형 (60문항, 60분)\n   - 실기 : 작업형 (시험시간 표준시간 기준)\n⑤ 합격기준\n   - 필기 : 100점을 만점으로 하여 60점 이상\n   - 실기 : 100점을 만점으로 하여 60점 이상"
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 시험과목 - 실기 :비계시공작업 &#9314; 검정방법- 실기 : 작업형(5시간정도, 100점) &#9315; 합격기준- 실기 : 100점을 만점으로 하여 60점 이상 안전등급(Safety Level) : 4등급▼   위험경고주의관심 &bull; 시험장소 구분 실외 &bull; 주요 장비라쳇렌치, 임팩트렌치,수평측정기등 &bull; 보호구 안전모, 안전대, 안전화 등 - 보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될 수 있습니다.- 반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2024,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2025,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,
