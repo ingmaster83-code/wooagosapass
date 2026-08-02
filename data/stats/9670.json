@@ -3,23 +3,29 @@
   "name": "국가유산수리기술자(보존과학)",
   "series": "국가유산수리기술자",
   "field": "",
-  "updated": "2026-06-23",
-  "schedule": [],
-  "fee": {
-    "written": "30000",
-    "practical": "20000",
-    "raw": "1차 : 30000, 2차 : 20000"
-  },
-  "info": [
+  "updated": "2026-08-02",
+  "schedule": [
     {
-      "type": "출제경향",
-      "content": "국가유산수리기술자 시험은 문화재 보존·복원·수리에 필요한 전문 기술 이론 및 실무 능력을 평가합니다. 전통 건축 양식, 재료 특성, 수리 기법 등에 대한 깊은 이해가 요구됩니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "① 시 행 처 : 한국산업인력공단\n② 관련학과 : 관련 학과\n④ 검정방법\n   - 필기 : 객관식 및 주관식\n   - 실기 : 작업형 또는 구술형\n⑤ 합격기준\n   - 필기 : 100점을 만점으로 하여 60점 이상\n   - 실기 : 합격·불합격 판정"
+      "round": "제44회",
+      "written_reg_start": "2026-02-23",
+      "written_reg_end": "2026-02-27",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-05-13",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-26",
+      "prac_exam_start": "2026-07-25",
+      "prac_exam_end": "2026-07-25",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
     }
   ],
+  "fee": {
+    "written": "",
+    "practical": "",
+    "raw": ""
+  },
+  "info": [],
   "stats": {
     "written": [],
     "practical": []

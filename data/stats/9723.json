@@ -3,23 +3,29 @@
   "name": "해사행정사",
   "series": "행정사",
   "field": "",
-  "updated": "2026-06-23",
-  "schedule": [],
+  "updated": "2026-08-02",
+  "schedule": [
+    {
+      "round": "제14회",
+      "written_reg_start": "2026-04-13",
+      "written_reg_end": "2026-04-17",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-07-01",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-31",
+      "prac_exam_start": "2026-10-03",
+      "prac_exam_end": "2026-10-03",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "10000",
     "practical": "40000",
     "raw": "1차 : 10000, 2차 : 40000"
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "행정사 시험은 민법(계약), 행정법, 행정학, 민사소송법 등 행정 업무 처리에 필요한 법률 지식을 평가합니다. 2차에서는 법령 적용 능력과 서류 작성 능력을 평가합니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "① 시 행 처 : 한국산업인력공단\n② 관련학과 : 관련 학과\n④ 검정방법\n   - 필기 : 1차 객관식 / 2차 주관식 논술형·기입형\n⑤ 합격기준\n   - 필기 : 1차: 100점 만점, 과목당 40점 이상, 평균 60점 이상 / 2차: 100점 만점, 과목당 40점 이상, 평균 60점 이상"
-    }
-  ],
+  "info": [],
   "stats": {
     "written": [],
     "practical": []
