@@ -3,7 +3,7 @@
   "name": "원예기능사",
   "series": "기능사",
   "field": "농림어업",
-  "updated": "2026-06-23",
+  "updated": "2026-08-01",
   "schedule": [
     {
       "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
@@ -54,38 +54,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 353,
-        "passers": 122,
-        "passRate": 34.6
-      },
-      {
-        "year": 2022,
-        "applicants": 478,
-        "passers": 167,
-        "passRate": 34.9
-      },
-      {
-        "year": 2023,
-        "applicants": 604,
-        "passers": 201,
-        "passRate": 33.3
-      },
-      {
-        "year": 2024,
-        "applicants": 798,
-        "passers": 284,
-        "passRate": 35.6
-      },
-      {
-        "year": 2025,
-        "applicants": 1051,
-        "passers": 420,
-        "passRate": 40.0
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

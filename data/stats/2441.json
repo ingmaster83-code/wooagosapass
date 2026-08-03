@@ -3,7 +3,7 @@
   "name": "화재감식평가산업기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-06-23",
+  "updated": "2026-08-01",
   "schedule": [
     {
       "round": "제1회",
@@ -68,7 +68,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1919,
+        "passers": 1652,
+        "passRate": 86.1
+      },
+      {
+        "year": 2022,
+        "applicants": 2964,
+        "passers": 2511,
+        "passRate": 84.7
+      },
+      {
+        "year": 2023,
+        "applicants": 2718,
+        "passers": 2222,
+        "passRate": 81.8
+      },
+      {
+        "year": 2024,
+        "applicants": 2613,
+        "passers": 1851,
+        "passRate": 70.8
+      },
+      {
+        "year": 2025,
+        "applicants": 2827,
+        "passers": 1934,
+        "passRate": 68.4
+      }
+    ],
     "practical": [
       {
         "year": 2021,

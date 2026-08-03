@@ -3,7 +3,7 @@
   "name": "건축일반시공산업기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-07-31",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -57,6 +57,37 @@
         "passRate": 46.3
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 50,
+        "passers": 7,
+        "passRate": 14.0
+      },
+      {
+        "year": 2022,
+        "applicants": 57,
+        "passers": 32,
+        "passRate": 56.1
+      },
+      {
+        "year": 2023,
+        "applicants": 28,
+        "passers": 9,
+        "passRate": 32.1
+      },
+      {
+        "year": 2024,
+        "applicants": 25,
+        "passers": 8,
+        "passRate": 32.0
+      },
+      {
+        "year": 2025,
+        "applicants": 19,
+        "passers": 1,
+        "passRate": 5.3
+      }
+    ]
   }
 }

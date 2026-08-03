@@ -3,21 +3,40 @@
   "name": "조선선체기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-06-23",
-  "schedule": [],
+  "updated": "2026-07-31",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "19400",
-    "practical": "36000",
-    "raw": "1차 : 19400, 2차 : 36000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
       "type": "출제경향",
-      "content": "조선선체기사 필기시험은 해당 직무에 필요한 공학적 기초지식과 전문이론을 평가합니다. 실기시험은 현장 실무 능력을 중심으로 출제됩니다. 최근 출제 경향은 현장 적용 능력과 이론의 실무 연계를 강조하는 방향으로 출제됩니다."
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.- 실기시험은 복합형(필답+작업)으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다.*작업 :설계조건과 도면을 이용하여 선체설계 능력 평가"
+    },
+    {
+      "type": "출제기준",
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}조선선체기사 출제기준입니다.메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
     },
     {
       "type": "취득방법",
-      "content": "① 시 행 처 : 한국산업인력공단\n② 관련학과 : 대학의 기계공학, 자동차공학, 항공공학, 메카트로닉스공학 등 관련 학과\n④ 검정방법\n   - 필기 : 객관식 4지 택일형, 과목당 20문항 (과목당 30분)\n   - 실기 : 필답형 또는 작업형\n⑤ 합격기준\n   - 필기 : 100점을 만점으로 하여 과목당 40점 이상이고 전 과목 평균 60점 이상\n   - 실기 : 100점을 만점으로 하여 60점 이상"
+      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}&#9312; 시 행 처 : 한국산업인력공단&#9313; 관련학과 : 대학의 선박해양공학, 조선해양공학 관련학과&#9314; 시험과목 - 필기 1. 선박기본설계 2. 선형설계 및 계산 3. 선체구조 설계 4. 선체해석 - 실기 : 선체설계 실무&#9315; 검정방법 - 필기 : 객관식 4지 택일형, 과목당 20문항(과목당 30분) - 실기 : 복합형[필답(2시간, 60점) + 작업(3시간, 40점)]&#9316; 합격기준 - 필기 : 100점을 만점으로 하여 과목당 40점 이상, 전과목 평균 60점 이상 - 실기 : 100점을 만점으로 하여 60점 이상"
     }
   ],
   "stats": {

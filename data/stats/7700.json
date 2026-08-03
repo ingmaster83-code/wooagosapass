@@ -3,8 +3,37 @@
   "name": "수산양식기능사",
   "series": "기능사",
   "field": "농림어업",
-  "updated": "2026-06-23",
-  "schedule": [],
+  "updated": "2026-08-01",
+  "schedule": [
+    {
+      "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
+      "written_reg_start": "",
+      "written_reg_end": "",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "",
+      "prac_reg_start": "2026-05-11",
+      "prac_reg_end": "2026-05-14",
+      "prac_exam_start": "2026-06-13",
+      "prac_exam_end": "2026-06-24",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-03-16",
+      "written_reg_end": "2026-03-20",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-04-22",
+      "prac_reg_start": "2026-04-27",
+      "prac_reg_end": "2026-04-30",
+      "prac_exam_start": "2026-05-30",
+      "prac_exam_end": "2026-06-14",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "14500",
     "practical": "45700",
@@ -25,7 +54,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 44,
+        "passers": 22,
+        "passRate": 50.0
+      },
+      {
+        "year": 2022,
+        "applicants": 60,
+        "passers": 28,
+        "passRate": 46.7
+      },
+      {
+        "year": 2023,
+        "applicants": 57,
+        "passers": 20,
+        "passRate": 35.1
+      },
+      {
+        "year": 2024,
+        "applicants": 48,
+        "passers": 23,
+        "passRate": 47.9
+      },
+      {
+        "year": 2025,
+        "applicants": 120,
+        "passers": 46,
+        "passRate": 38.3
+      }
+    ],
     "practical": [
       {
         "year": 2021,

@@ -3,7 +3,7 @@
   "name": "응용지질기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-07-31",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -57,6 +57,37 @@
         "passRate": 44.8
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 213,
+        "passers": 111,
+        "passRate": 52.1
+      },
+      {
+        "year": 2022,
+        "applicants": 221,
+        "passers": 69,
+        "passRate": 31.2
+      },
+      {
+        "year": 2023,
+        "applicants": 313,
+        "passers": 132,
+        "passRate": 42.2
+      },
+      {
+        "year": 2024,
+        "applicants": 277,
+        "passers": 144,
+        "passRate": 52.0
+      },
+      {
+        "year": 2025,
+        "applicants": 262,
+        "passers": 169,
+        "passRate": 64.5
+      }
+    ]
   }
 }

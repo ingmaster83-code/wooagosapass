@@ -3,7 +3,7 @@
   "name": "교통기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-06-23",
+  "updated": "2026-07-31",
   "schedule": [
     {
       "round": "제1회",
@@ -53,18 +53,71 @@
     "practical": "22600",
     "raw": "1차 : 19400, 2차 : 22600"
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "교통기사 필기시험은 해당 직무에 필요한 공학적 기초지식과 전문이론을 평가합니다. 실기시험은 현장 실무 능력을 중심으로 출제됩니다. 최근 출제 경향은 현장 적용 능력과 이론의 실무 연계를 강조하는 방향으로 출제됩니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "① 시 행 처 : 한국산업인력공단\n② 관련학과 : 대학의 건축공학, 토목공학, 도시공학, 환경공학 등 관련 학과\n④ 검정방법\n   - 필기 : 객관식 4지 택일형, 과목당 20문항 (과목당 30분)\n   - 실기 : 필답형 또는 작업형\n⑤ 합격기준\n   - 필기 : 100점을 만점으로 하여 과목당 40점 이상이고 전 과목 평균 60점 이상\n   - 실기 : 100점을 만점으로 하여 60점 이상"
-    }
-  ],
+  "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1055,
+        "passers": 592,
+        "passRate": 56.1
+      },
+      {
+        "year": 2022,
+        "applicants": 922,
+        "passers": 522,
+        "passRate": 56.6
+      },
+      {
+        "year": 2023,
+        "applicants": 1151,
+        "passers": 660,
+        "passRate": 57.3
+      },
+      {
+        "year": 2024,
+        "applicants": 1008,
+        "passers": 536,
+        "passRate": 53.2
+      },
+      {
+        "year": 2025,
+        "applicants": 1171,
+        "passers": 658,
+        "passRate": 56.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 875,
+        "passers": 397,
+        "passRate": 45.4
+      },
+      {
+        "year": 2022,
+        "applicants": 823,
+        "passers": 335,
+        "passRate": 40.7
+      },
+      {
+        "year": 2023,
+        "applicants": 848,
+        "passers": 562,
+        "passRate": 66.3
+      },
+      {
+        "year": 2024,
+        "applicants": 759,
+        "passers": 313,
+        "passRate": 41.2
+      },
+      {
+        "year": 2025,
+        "applicants": 1033,
+        "passers": 494,
+        "passRate": 47.8
+      }
+    ]
   }
 }

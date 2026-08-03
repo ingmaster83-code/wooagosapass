@@ -3,12 +3,12 @@
   "name": "식품기술사",
   "series": "기술사",
   "field": "식품.가공",
-  "updated": "2026-06-23",
+  "updated": "2026-07-31",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
   },
   "info": [
     {
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 134,
+        "passers": 10,
+        "passRate": 7.5
+      },
+      {
+        "year": 2022,
+        "applicants": 139,
+        "passers": 31,
+        "passRate": 22.3
+      },
+      {
+        "year": 2023,
+        "applicants": 164,
+        "passers": 40,
+        "passRate": 24.4
+      },
+      {
+        "year": 2024,
+        "applicants": 183,
+        "passers": 17,
+        "passRate": 9.3
+      },
+      {
+        "year": 2025,
+        "applicants": 201,
+        "passers": 76,
+        "passRate": 37.8
+      }
+    ],
     "practical": [
       {
         "year": 2021,

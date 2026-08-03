@@ -3,7 +3,7 @@
   "name": "철도차량기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-06-23",
+  "updated": "2026-07-31",
   "schedule": [
     {
       "round": "제2회",
@@ -40,7 +40,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 11,
+        "passers": 6,
+        "passRate": 54.5
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 34,
+        "passers": 17,
+        "passRate": 50.0
+      },
+      {
+        "year": 2024,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 65,
+        "passers": 23,
+        "passRate": 35.4
+      }
+    ],
     "practical": [
       {
         "year": 2021,

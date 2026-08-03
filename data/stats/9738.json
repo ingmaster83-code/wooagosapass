@@ -3,7 +3,7 @@
   "name": "사회복지사 1급",
   "series": "사회복지사 1급",
   "field": "",
-  "updated": "2026-06-23",
+  "updated": "2026-08-02",
   "schedule": [
     {
       "round": "제24회",
@@ -21,16 +21,11 @@
     }
   ],
   "fee": {
-    "written": "25000",
+    "written": "",
     "practical": "",
-    "raw": "1차 : 25000,"
+    "raw": ""
   },
-  "info": [
-    {
-      "type": "취득방법",
-      "content": "① 시 행 처 : 한국산업인력공단\n② 관련학과 : 관련 학과"
-    }
-  ],
+  "info": [],
   "stats": {
     "written": [],
     "practical": []

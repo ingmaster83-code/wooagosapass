@@ -3,12 +3,12 @@
   "name": "기상기사",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-06-23",
+  "updated": "2026-07-31",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "33900",
+    "raw": "1차 : 19400, 2차 : 33900"
   },
   "info": [
     {

@@ -3,12 +3,12 @@
   "name": "설비보전기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-06-23",
+  "updated": "2026-07-31",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "68000",
+    "raw": "1차 : 19400, 2차 : 68000"
   },
   "info": [
     {
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 3357,
+        "passers": 1676,
+        "passRate": 49.9
+      },
+      {
+        "year": 2022,
+        "applicants": 5003,
+        "passers": 2303,
+        "passRate": 46.0
+      },
+      {
+        "year": 2023,
+        "applicants": 9369,
+        "passers": 4715,
+        "passRate": 50.3
+      },
+      {
+        "year": 2024,
+        "applicants": 13421,
+        "passers": 6332,
+        "passRate": 47.2
+      },
+      {
+        "year": 2025,
+        "applicants": 7543,
+        "passers": 2271,
+        "passRate": 30.1
+      }
+    ],
     "practical": [
       {
         "year": 2021,

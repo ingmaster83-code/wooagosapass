@@ -3,7 +3,7 @@
   "name": "항공기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-06-23",
+  "updated": "2026-08-01",
   "schedule": [
     {
       "round": "제3회",
@@ -25,18 +25,71 @@
     "practical": "22600",
     "raw": "1차 : 19400, 2차 : 22600"
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "항공기사 필기시험은 해당 직무에 필요한 공학적 기초지식과 전문이론을 평가합니다. 실기시험은 현장 실무 능력을 중심으로 출제됩니다. 최근 출제 경향은 현장 적용 능력과 이론의 실무 연계를 강조하는 방향으로 출제됩니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "① 시 행 처 : 한국산업인력공단\n② 관련학과 : 대학의 기계공학, 자동차공학, 항공공학, 메카트로닉스공학 등 관련 학과\n④ 검정방법\n   - 필기 : 객관식 4지 택일형, 과목당 20문항 (과목당 30분)\n   - 실기 : 필답형 또는 작업형\n⑤ 합격기준\n   - 필기 : 100점을 만점으로 하여 과목당 40점 이상이고 전 과목 평균 60점 이상\n   - 실기 : 100점을 만점으로 하여 60점 이상"
-    }
-  ],
+  "info": [],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 69,
+        "passers": 11,
+        "passRate": 15.9
+      },
+      {
+        "year": 2022,
+        "applicants": 61,
+        "passers": 11,
+        "passRate": 18.0
+      },
+      {
+        "year": 2023,
+        "applicants": 63,
+        "passers": 11,
+        "passRate": 17.5
+      },
+      {
+        "year": 2024,
+        "applicants": 53,
+        "passers": 13,
+        "passRate": 24.5
+      },
+      {
+        "year": 2025,
+        "applicants": 68,
+        "passers": 8,
+        "passRate": 11.8
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 17,
+        "passers": 1,
+        "passRate": 5.9
+      },
+      {
+        "year": 2022,
+        "applicants": 17,
+        "passers": 3,
+        "passRate": 17.6
+      },
+      {
+        "year": 2023,
+        "applicants": 17,
+        "passers": 1,
+        "passRate": 5.9
+      },
+      {
+        "year": 2024,
+        "applicants": 19,
+        "passers": 2,
+        "passRate": 10.5
+      },
+      {
+        "year": 2025,
+        "applicants": 19,
+        "passers": 5,
+        "passRate": 26.3
+      }
+    ]
   }
 }

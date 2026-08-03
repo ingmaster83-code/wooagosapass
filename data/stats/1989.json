@@ -3,12 +3,27 @@
   "name": "생물분류기사(동물)",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-06-23",
-  "schedule": [],
+  "updated": "2026-07-31",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "19400",
-    "practical": "21000",
-    "raw": "1차 : 19400, 2차 : 21000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -25,38 +40,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 312,
-        "passers": 163,
-        "passRate": 52.2
-      },
-      {
-        "year": 2022,
-        "applicants": 358,
-        "passers": 216,
-        "passRate": 60.3
-      },
-      {
-        "year": 2023,
-        "applicants": 414,
-        "passers": 239,
-        "passRate": 57.7
-      },
-      {
-        "year": 2024,
-        "applicants": 366,
-        "passers": 234,
-        "passRate": 63.9
-      },
-      {
-        "year": 2025,
-        "applicants": 511,
-        "passers": 320,
-        "passRate": 62.6
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,
