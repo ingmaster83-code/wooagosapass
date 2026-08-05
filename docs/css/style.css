@@ -40,6 +40,13 @@ img { max-width: 100%; }
 .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
 .section { padding: 40px 0; }
 .section + .section { padding-top: 0; }
+.layout-with-sidebar { display: flex; gap: 28px; align-items: flex-start; max-width: 1540px; margin: 0 auto; padding: 0 20px; }
+.layout-with-sidebar > main { flex: 1; min-width: 0; }
+.home-sidebar { width: 300px; flex-shrink: 0; position: sticky; top: 76px; padding-top: 24px; }
+@media (max-width: 1024px) {
+  .layout-with-sidebar { flex-direction: column; padding: 0; }
+  .home-sidebar { display: none; }
+}
 
 /* 4. Header */
 .site-header {
@@ -322,8 +329,7 @@ tbody tr:hover td { background: #FAFAFA; }
   border: 1px solid var(--border);
 }
 
-/* 11. Ad — 광고 승인 후 display:none 제거 */
-.ad-wrap { display: none; }
+/* 11. Ad */
 .ad-leaderboard { height: 90px; }
 .ad-rectangle { height: 280px; max-width: 336px; margin: 0 auto; }
 .ad-sidebar { height: 600px; }
