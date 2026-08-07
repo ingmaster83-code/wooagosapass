@@ -3,37 +3,8 @@
   "name": "그린전동자동차기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-07-31",
-  "schedule": [
-    {
-      "round": "제2회",
-      "written_reg_start": "2026-04-20",
-      "written_reg_end": "2026-04-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-06-10",
-      "prac_reg_start": "2026-06-22",
-      "prac_reg_end": "2026-06-25",
-      "prac_exam_start": "2026-07-18",
-      "prac_exam_end": "2026-08-05",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    },
-    {
-      "round": "제3회",
-      "written_reg_start": "2026-07-20",
-      "written_reg_end": "2026-07-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-09-09",
-      "prac_reg_start": "2026-09-21",
-      "prac_reg_end": "2026-09-28",
-      "prac_exam_start": "2026-10-24",
-      "prac_exam_end": "2026-11-13",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-08-07",
+  "schedule": [],
   "fee": {
     "written": "19400",
     "practical": "22600",
@@ -54,38 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
-    "practical": [
+    "written": [
       {
         "year": 2021,
-        "applicants": 33,
-        "passers": 0,
-        "passRate": 0.0
+        "applicants": 453,
+        "passers": 19,
+        "passRate": 4.2
       },
       {
         "year": 2022,
-        "applicants": 31,
-        "passers": 1,
-        "passRate": 3.2
+        "applicants": 310,
+        "passers": 22,
+        "passRate": 7.1
       },
       {
         "year": 2023,
-        "applicants": 54,
-        "passers": 2,
-        "passRate": 3.7
+        "applicants": 375,
+        "passers": 33,
+        "passRate": 8.8
       },
       {
         "year": 2024,
-        "applicants": 69,
-        "passers": 24,
-        "passRate": 34.8
+        "applicants": 214,
+        "passers": 31,
+        "passRate": 14.5
       },
       {
         "year": 2025,
-        "applicants": 57,
-        "passers": 7,
-        "passRate": 12.3
+        "applicants": 177,
+        "passers": 36,
+        "passRate": 20.3
       }
-    ]
+    ],
+    "practical": []
   }
 }
