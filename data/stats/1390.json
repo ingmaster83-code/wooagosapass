@@ -3,7 +3,7 @@
   "name": "지적기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-07-31",
+  "updated": "2026-08-08",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -25,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1804,
-        "passers": 852,
-        "passRate": 47.2
-      },
-      {
-        "year": 2022,
-        "applicants": 1677,
-        "passers": 837,
-        "passRate": 49.9
-      },
-      {
-        "year": 2023,
-        "applicants": 1661,
-        "passers": 718,
-        "passRate": 43.2
-      },
-      {
-        "year": 2024,
-        "applicants": 1359,
-        "passers": 560,
-        "passRate": 41.2
-      },
-      {
-        "year": 2025,
-        "applicants": 1142,
-        "passers": 451,
-        "passRate": 39.5
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

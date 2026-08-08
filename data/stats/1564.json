@@ -3,7 +3,7 @@
   "name": "산림기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-07-31",
+  "updated": "2026-08-08",
   "schedule": [
     {
       "round": "제1회",
@@ -49,9 +49,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -68,7 +68,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 5749,
+        "passers": 2083,
+        "passRate": 36.2
+      },
+      {
+        "year": 2022,
+        "applicants": 5057,
+        "passers": 2259,
+        "passRate": 44.7
+      },
+      {
+        "year": 2023,
+        "applicants": 5891,
+        "passers": 2915,
+        "passRate": 49.5
+      },
+      {
+        "year": 2024,
+        "applicants": 5991,
+        "passers": 2899,
+        "passRate": 48.4
+      },
+      {
+        "year": 2025,
+        "applicants": 6139,
+        "passers": 2947,
+        "passRate": 48.0
+      }
+    ],
     "practical": [
       {
         "year": 2021,

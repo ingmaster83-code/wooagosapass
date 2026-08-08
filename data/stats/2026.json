@@ -3,12 +3,12 @@
   "name": "용접산업기사",
   "series": "기사",
   "field": "재료",
-  "updated": "2026-07-31",
+  "updated": "2026-08-08",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "61900",
+    "raw": "1차 : 19400, 2차 : 61900"
   },
   "info": [
     {
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2033,
+        "passers": 1293,
+        "passRate": 63.6
+      },
+      {
+        "year": 2022,
+        "applicants": 2044,
+        "passers": 1253,
+        "passRate": 61.3
+      },
+      {
+        "year": 2023,
+        "applicants": 2112,
+        "passers": 1288,
+        "passRate": 61.0
+      },
+      {
+        "year": 2024,
+        "applicants": 2037,
+        "passers": 1212,
+        "passRate": 59.5
+      },
+      {
+        "year": 2025,
+        "applicants": 2064,
+        "passers": 1218,
+        "passRate": 59.0
+      }
+    ],
     "practical": [
       {
         "year": 2021,

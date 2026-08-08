@@ -3,7 +3,7 @@
   "name": "축산기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-07-31",
+  "updated": "2026-08-08",
   "schedule": [
     {
       "round": "제1회",
@@ -55,38 +55,7 @@
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1868,
-        "passers": 956,
-        "passRate": 51.2
-      },
-      {
-        "year": 2022,
-        "applicants": 1711,
-        "passers": 800,
-        "passRate": 46.8
-      },
-      {
-        "year": 2023,
-        "applicants": 1980,
-        "passers": 946,
-        "passRate": 47.8
-      },
-      {
-        "year": 2024,
-        "applicants": 1962,
-        "passers": 953,
-        "passRate": 48.6
-      },
-      {
-        "year": 2025,
-        "applicants": 2102,
-        "passers": 1022,
-        "passRate": 48.6
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

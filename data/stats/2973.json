@@ -3,7 +3,7 @@
   "name": "일식조리산업기사",
   "series": "기사",
   "field": "음식서비스",
-  "updated": "2026-07-31",
+  "updated": "2026-08-08",
   "schedule": [
     {
       "round": "제3회",
@@ -40,7 +40,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 49,
+        "passers": 27,
+        "passRate": 55.1
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 95,
+        "passers": 54,
+        "passRate": 56.8
+      },
+      {
+        "year": 2024,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 120,
+        "passers": 59,
+        "passRate": 49.2
+      }
+    ],
     "practical": [
       {
         "year": 2021,
