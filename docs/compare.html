@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>자격증 비교 — 두 자격증 합격률·수수료 한눈에 비교 | gosapass</title>
+  <meta name="description" content="두 국가자격증의 합격률, 시험 수수료, 난이도, 최근 응시자·합격자 수를 나란히 비교해보세요.">
+  <meta name="keywords" content="자격증 비교, 자격증 합격률 비교, 자격증 난이도 비교, 자격증 수수료 비교">
+  <link rel="canonical" href="https://wooagosapass.wooahouse.com/compare.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="자격증 비교 | gosapass">
+  <meta property="og:description" content="두 국가자격증의 합격률·수수료·난이도를 나란히 비교해보세요.">
+  <meta property="og:site_name" content="gosapass">
+  <meta property="og:locale" content="ko_KR">
+  <meta name="google-adsense-account" content="ca-pub-6464921081676309">
+  <meta name="naver-site-verification" content="5130e8ba748f30de7168da767aa6790d5d9ba76b">
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZGENFSXWC"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-9ZGENFSXWC');
+  </script>
+  <!-- AdSense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6464921081676309" crossorigin="anonymous"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css?v=2">
+  <style>
+    .cmp-pickers { display: grid; grid-template-columns: 1fr auto 1fr; gap: 16px; align-items: start; margin-bottom: 20px; }
+    .cmp-picker { position: relative; }
+    .cmp-picker input {
+      width: 100%; padding: 12px 16px; border: 1.5px solid var(--border); border-radius: var(--radius);
+      font-size: 0.9375rem; font-family: inherit; box-sizing: border-box;
+    }
+    .cmp-vs { display: flex; align-items: center; justify-content: center; font-weight: 800; color: var(--text-secondary); padding-top: 12px; }
+    .cmp-suggestions {
+      position: absolute; top: calc(100% + 4px); left: 0; right: 0; z-index: 20;
+      background: #fff; border: 1.5px solid var(--border); border-radius: var(--radius);
+      max-height: 260px; overflow-y: auto; box-shadow: 0 8px 24px rgba(0,0,0,.1); display: none;
+    }
+    .cmp-suggestions.open { display: block; }
+    .cmp-suggestion-item { padding: 10px 14px; cursor: pointer; font-size: 0.875rem; }
+    .cmp-suggestion-item:hover { background: var(--primary-light); }
+    .cmp-suggestion-name { font-weight: 600; }
+    .cmp-suggestion-meta { font-size: 0.75rem; color: var(--text-secondary); margin-left: 6px; }
+    .cmp-empty { text-align: center; padding: 60px 20px; color: var(--text-secondary); }
+    .cmp-table { width: 100%; border-collapse: collapse; margin-top: 8px; }
+    .cmp-table th, .cmp-table td { padding: 12px 14px; border-bottom: 1px solid var(--border); font-size: 0.9375rem; text-align: center; vertical-align: top; }
+    .cmp-table th { background: var(--bg-secondary); font-size: 0.8125rem; color: var(--text-secondary); font-weight: 600; }
+    .cmp-table td:first-child, .cmp-table th:first-child { text-align: left; width: 120px; color: var(--text-secondary); font-size: 0.8125rem; }
+    .cmp-name-cell { font-weight: 700; font-size: 1.0625rem; }
+    .cmp-win { color: var(--success); font-weight: 700; }
+    @media (max-width: 640px) {
+      .cmp-pickers { grid-template-columns: 1fr; }
+      .cmp-vs { padding-top: 0; }
+      .cmp-table { font-size: 0.85rem; }
+      .cmp-table th, .cmp-table td { padding: 8px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ===== Header ===== -->
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="logo">gosapass</a>
+    <form class="header-search" action="/list.html" method="get" role="search">
+      <svg class="search-ico" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      <input type="search" name="q" placeholder="자격증 검색 (예: 전기기사)" aria-label="자격증 검색">
+    </form>
+    <nav class="site-nav" aria-label="주요 메뉴">
+      <a href="/">메인</a>
+      <a href="/list.html">자격증 목록</a>
+      <a href="/calendar.html">시험 캘린더</a>
+      <a href="/compare.html" class="active">자격증 비교</a>
+    </nav>
+  </div>
+</header>
+
+<script src="/js/wooa-sites-bar.js"></script>
+
+<main>
+  <div class="container section">
+    <h1 style="font-size:1.5rem;font-weight:700;margin-bottom:4px;">자격증 비교</h1>
+    <p style="color:var(--text-secondary);font-size:0.9rem;margin-bottom:24px;">두 자격증의 합격률·수수료·난이도를 나란히 비교해보세요.</p>
+
+    <!-- AdSense -->
+    <div class="ad-wrap">
+      <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6464921081676309" data-ad-slot="7080296704" data-ad-format="auto" data-full-width-responsive="true"></ins>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+
+    <div class="cmp-pickers">
+      <div class="cmp-picker">
+        <input type="text" id="pickA" placeholder="자격증 A 검색...">
+        <div class="cmp-suggestions" id="suggestA"></div>
+      </div>
+      <div class="cmp-vs">VS</div>
+      <div class="cmp-picker">
+        <input type="text" id="pickB" placeholder="자격증 B 검색...">
+        <div class="cmp-suggestions" id="suggestB"></div>
+      </div>
+    </div>
+
+    <div id="cmpResult"></div>
+
+    <!-- AdSense -->
+    <div class="ad-wrap" style="margin-top:32px;">
+      <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6464921081676309" data-ad-slot="7080296704" data-ad-format="auto" data-full-width-responsive="true"></ins>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+  </div>
+</main>
+
+<!-- ===== Footer ===== -->
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>
+      <div class="footer-brand">gosapass</div>
+      <p class="footer-desc">
+        국가자격증 시험일정, 원서접수, 합격률을 무료로 제공합니다.<br>
+        한국산업인력공단 공공데이터 기반으로 매일 자동 업데이트됩니다.
+      </p>
+    </div>
+    <div class="footer-col">
+      <h4>분야별 자격증</h4>
+      <a href="/list.html?cat=전기전자">전기·전자</a>
+      <a href="/list.html?cat=IT정보">IT·정보</a>
+      <a href="/list.html?cat=건설">건설</a>
+      <a href="/list.html?cat=안전">안전</a>
+      <a href="/list.html?cat=기계">기계</a>
+    </div>
+    <div class="footer-col">
+      <h4>사이트 정보</h4>
+      <a href="/list.html">자격증 전체 목록</a>
+      <a href="/calendar.html">시험 캘린더</a>
+      <a href="/compare.html">자격증 비교</a>
+      <a href="/privacy.html">개인정보처리방침</a>
+    </div>
+  </div>
+  <div class="footer-copy">
+    © 2026 wooagosapass.wooahouse.com · 데이터 출처: 한국산업인력공단 공공데이터포털<br>
+    본 사이트의 시험일정은 참고용이며, 정확한 정보는 <a href="https://www.q-net.or.kr" style="color:var(--primary);">큐넷(Q-Net)</a>에서 확인하세요.
+  </div>
+</footer>
+
+<script src="/js/compare.js?v=1"></script>
+<script src="/js/ad-dev-placeholder.js"></script>
+</body>
+</html>

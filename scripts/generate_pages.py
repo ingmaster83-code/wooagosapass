@@ -303,6 +303,48 @@ def precompute_exam_summaries(all_exams: list) -> dict:
     return result
 
 
+def compute_total_acquired(stats: dict) -> int:
+    """누적 취득자수: 실기 합격자 합계(있으면) 없으면 필기 합격자 합계로 대체"""
+    practical_total = sum(r.get("passers", 0) for r in stats.get("practical", []))
+    if practical_total > 0:
+        return practical_total
+    return sum(r.get("passers", 0) for r in stats.get("written", []))
+
+
+def precompute_field_rankings(all_exams: list) -> dict:
+    """jmcd → {rank, total_in_field, total_acquired} — 같은 직무분야 내 누적 취득자수 순위"""
+    field_totals = []  # (field, jmcd, total_acquired)
+    for exam in all_exams:
+        jmcd = exam["jmcd"]
+        field = exam.get("field", "")
+        p = DATA_DIR / "stats" / f"{jmcd}.json"
+        total = 0
+        if p.exists():
+            try:
+                d = json.loads(p.read_text(encoding="utf-8"))
+                total = compute_total_acquired(d.get("stats", {}))
+            except Exception:
+                pass
+        field_totals.append((field, jmcd, total))
+
+    by_field: dict[str, list] = {}
+    for field, jmcd, total in field_totals:
+        by_field.setdefault(field, []).append((jmcd, total))
+
+    result = {}
+    for field, rows in by_field.items():
+        total_in_field = len(rows)
+        # 취득자수 0인 종목도 순위에는 포함하되, 데이터 없는 항목은 표시하지 않도록 별도 처리
+        ranked = sorted(rows, key=lambda x: x[1], reverse=True)
+        for i, (jmcd, total) in enumerate(ranked, start=1):
+            result[jmcd] = {
+                "rank": i,
+                "total_in_field": total_in_field,
+                "total_acquired": total,
+            }
+    return result
+
+
 def compute_related_exams(current_exam, all_exams, exam_stats_cache, group_schedule_map, today):
     """같은 직무분야 자격증 3개, 부족하면 같은 등급으로 채움"""
     QUAL_GROUP = {
@@ -423,6 +465,7 @@ def generate_pages(target_jmcd: str = None, limit: int = None):
 
     all_exams = exams_data["items"]
     exam_stats_cache = precompute_exam_summaries(all_exams)
+    field_rank_cache = precompute_field_rankings(all_exams)
 
     exams = all_exams
     if target_jmcd:
@@ -431,6 +474,7 @@ def generate_pages(target_jmcd: str = None, limit: int = None):
         exams = exams[:limit]
 
     generated = 0
+    compare_summaries = []
     for exam in exams:
         jmcd = exam["jmcd"]
         name = exam["name"]
@@ -486,6 +530,11 @@ def generate_pages(target_jmcd: str = None, limit: int = None):
         # 관련 자격증 (같은 직무분야 3개)
         related_exams = compute_related_exams(exam, all_exams, exam_stats_cache, group_schedule_map, today)
 
+        # 직무분야 내 누적 취득자수 순위 (데이터 없으면 표시 안 함)
+        field_rank = field_rank_cache.get(jmcd)
+        if field_rank and field_rank["total_acquired"] <= 0:
+            field_rank = None
+
         # 사이드바 추가 데이터
         exam_rounds = len(schedule) if schedule else 0
 
@@ -507,6 +556,10 @@ def generate_pages(target_jmcd: str = None, limit: int = None):
                     recent_passers = row.get("passers", 0)
                     recent_year = str(row["year"])
                     break
+
+        # 비교 도구용 최신 합격률 (필기/실기 각각 최근 0보다 큰 값)
+        latest_written_rate = next((r["passRate"] for r in reversed(written) if r.get("passRate", 0) > 0), None)
+        latest_practical_rate = next((r["passRate"] for r in reversed(practical) if r.get("passRate", 0) > 0), None)
 
         ctx = {
             "exam": {
@@ -531,6 +584,7 @@ def generate_pages(target_jmcd: str = None, limit: int = None):
             "transition": transition,
             "trend": trend,
             "related_exams": related_exams,
+            "field_rank": field_rank,
         }
 
         # 파일명: 슬래시 등 경로 구분자 제거 (GitHub Pages 지원)
@@ -539,10 +593,39 @@ def generate_pages(target_jmcd: str = None, limit: int = None):
         out_path.write_text(tmpl.render(**ctx), encoding="utf-8")
         generated += 1
 
+        # 비교 도구용 요약 데이터
+        compare_summaries.append({
+            "jmcd": jmcd,
+            "name": name,
+            "url": f"/exam/{safe_name}.html",
+            "field": exam.get("field", ""),
+            "series": exam.get("series", ""),
+            "fee_written": fee.get("written") or None,
+            "fee_practical": fee.get("practical") or None,
+            "written_rate": latest_written_rate,
+            "practical_rate": latest_practical_rate,
+            "difficulty_label": difficulty["label"] if difficulty else None,
+            "recent_applicants": recent_applicants or None,
+            "recent_passers": recent_passers or None,
+            "recent_year": recent_year or None,
+            "field_rank": field_rank["rank"] if field_rank else None,
+            "field_total": field_rank["total_in_field"] if field_rank else None,
+        })
+
         if generated % 50 == 0:
             print(f"  {generated}개 생성됨...")
 
     print(f"\n완료: {generated}개 페이지 생성 -> {OUTPUT_DIR.relative_to(ROOT)}")
+
+    # 비교 도구용 JSON 내보내기 (전체 생성 시에만 — 부분 생성 시 덮어쓰지 않음)
+    if not target_jmcd and not limit:
+        compare_out = ROOT / "docs" / "data" / "exams-compare.json"
+        compare_out.parent.mkdir(parents=True, exist_ok=True)
+        compare_out.write_text(
+            json.dumps({"updated": today_str, "count": len(compare_summaries), "items": compare_summaries}, ensure_ascii=False),
+            encoding="utf-8",
+        )
+        print(f"비교 데이터 생성 -> {compare_out.relative_to(ROOT)} ({len(compare_summaries)}건)")
 
 
 def main():
