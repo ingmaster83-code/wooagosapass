@@ -290,6 +290,23 @@
 
       <!-- 난이도 -->
 
+      <div class="content-section">
+        <h2>난이도</h2>
+        <div class="difficulty-box">
+          <div class="stars">
+            <span>★</span>
+            <span>★</span>
+            <span class="empty">☆</span>
+            <span class="empty">☆</span>
+            <span class="empty">☆</span>
+          </div>
+          <div class="difficulty-info">
+            <div class="difficulty-level">보통</div>
+            <div class="difficulty-detail">최근 3개년 평균 실기 합격률: 63.2% · 필기 합격률: 40.2%</div>
+          </div>
+        </div>
+      </div>
+
 
       <!-- 관련 자격증 -->
 
@@ -387,17 +404,22 @@
 
         <div class="info-row">
           <span class="info-label">최근 응시자</span>
-          <span class="info-value">3,020명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+          <span class="info-value">6,024명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
         </div>
 
 
         <div class="info-row">
           <span class="info-label">최근 합격자</span>
-          <span class="info-value">1,906명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+          <span class="info-value">2,479명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
         </div>
 
 
 
+
+        <div class="info-row">
+          <span class="info-label">필기 합격률 추이</span>
+          <span class="info-value" style="font-size:0.8125rem;color:var(--text-secondary);">→ 보합세</span>
+        </div>
 
 
         <div class="info-row">
@@ -474,7 +496,7 @@
 
 <!-- 차트 데이터 -->
 <script id="stats-data" type="application/json">
-[{"year": 2021, "practicalApplicants": 0, "practicalPassRate": 0.0, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2022, "practicalApplicants": 0, "practicalPassRate": 0.0, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2023, "practicalApplicants": 2704, "practicalPassRate": 63.3, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2024, "practicalApplicants": 2871, "practicalPassRate": 63.3, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2025, "practicalApplicants": 3020, "practicalPassRate": 63.1, "writtenApplicants": 0, "writtenPassRate": 0}]
+[{"year": 2021, "writtenApplicants": 0, "writtenPassRate": 0.0, "practicalApplicants": 0, "practicalPassRate": 0.0}, {"year": 2022, "writtenApplicants": 0, "writtenPassRate": 0.0, "practicalApplicants": 0, "practicalPassRate": 0.0}, {"year": 2023, "writtenApplicants": 6062, "writtenPassRate": 41.2, "practicalApplicants": 2704, "practicalPassRate": 63.3}, {"year": 2024, "writtenApplicants": 5864, "writtenPassRate": 38.3, "practicalApplicants": 2871, "practicalPassRate": 63.3}, {"year": 2025, "writtenApplicants": 6024, "writtenPassRate": 41.2, "practicalApplicants": 3020, "practicalPassRate": 63.1}]
 </script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script src="/js/detail.js?v=2"></script>

@@ -3,7 +3,7 @@
   "name": "목재가공기능사",
   "series": "기능사",
   "field": "농림어업",
-  "updated": "2026-08-01",
+  "updated": "2026-08-09",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "14500",
-    "practical": "79000",
-    "raw": "1차 : 14500, 2차 : 79000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -68,6 +68,37 @@
         "passRate": 17.2
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 3,
+        "passers": 3,
+        "passRate": 100.0
+      },
+      {
+        "year": 2025,
+        "applicants": 4,
+        "passers": 4,
+        "passRate": 100.0
+      }
+    ]
   }
 }

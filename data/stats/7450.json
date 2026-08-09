@@ -3,12 +3,27 @@
   "name": "금속도장기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-08-01",
-  "schedule": [],
+  "updated": "2026-08-09",
+  "schedule": [
+    {
+      "round": "제4회",
+      "written_reg_start": "2026-08-24",
+      "written_reg_end": "2026-08-27",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-10-07",
+      "prac_reg_start": "2026-10-12",
+      "prac_reg_end": "2026-10-15",
+      "prac_exam_start": "2026-11-14",
+      "prac_exam_end": "2026-12-02",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "14500",
-    "practical": "57100",
-    "raw": "1차 : 14500, 2차 : 57100"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -25,38 +40,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 116,
-        "passers": 67,
-        "passRate": 57.8
-      },
-      {
-        "year": 2022,
-        "applicants": 110,
-        "passers": 54,
-        "passRate": 49.1
-      },
-      {
-        "year": 2023,
-        "applicants": 173,
-        "passers": 74,
-        "passRate": 42.8
-      },
-      {
-        "year": 2024,
-        "applicants": 178,
-        "passers": 80,
-        "passRate": 44.9
-      },
-      {
-        "year": 2025,
-        "applicants": 184,
-        "passers": 71,
-        "passRate": 38.6
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

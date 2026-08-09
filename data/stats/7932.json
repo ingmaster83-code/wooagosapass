@@ -3,7 +3,7 @@
   "name": "여성복기능사",
   "series": "기능사",
   "field": "섬유.의복",
-  "updated": "2026-08-01",
+  "updated": "2026-08-09",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -25,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 903,
-        "passers": 677,
-        "passRate": 75.0
-      },
-      {
-        "year": 2022,
-        "applicants": 767,
-        "passers": 558,
-        "passRate": 72.8
-      },
-      {
-        "year": 2023,
-        "applicants": 951,
-        "passers": 661,
-        "passRate": 69.5
-      },
-      {
-        "year": 2024,
-        "applicants": 999,
-        "passers": 718,
-        "passRate": 71.9
-      },
-      {
-        "year": 2025,
-        "applicants": 909,
-        "passers": 549,
-        "passRate": 60.4
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,
