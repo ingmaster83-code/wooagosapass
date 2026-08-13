@@ -3,7 +3,7 @@
   "name": "이산화탄소가스아크용접기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-08-01",
+  "updated": "2026-08-09",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -25,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 5546,
-        "passers": 2082,
-        "passRate": 37.5
-      },
-      {
-        "year": 2024,
-        "applicants": 5599,
-        "passers": 2039,
-        "passRate": 36.4
-      },
-      {
-        "year": 2025,
-        "applicants": 5554,
-        "passers": 2053,
-        "passRate": 37.0
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

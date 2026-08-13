@@ -3,7 +3,7 @@
   "name": "한복기능사",
   "series": "기능사",
   "field": "섬유.의복",
-  "updated": "2026-08-02",
+  "updated": "2026-08-10",
   "schedule": [
     {
       "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
@@ -55,6 +55,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 159,
+        "passers": 77,
+        "passRate": 48.4
+      },
+      {
+        "year": 2022,
+        "applicants": 120,
+        "passers": 71,
+        "passRate": 59.2
+      },
+      {
+        "year": 2023,
+        "applicants": 112,
+        "passers": 44,
+        "passRate": 39.3
+      },
+      {
+        "year": 2024,
+        "applicants": 117,
+        "passers": 50,
+        "passRate": 42.7
+      },
+      {
+        "year": 2025,
+        "applicants": 115,
+        "passers": 43,
+        "passRate": 37.4
+      }
+    ]
   }
 }

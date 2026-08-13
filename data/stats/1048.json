@@ -3,7 +3,7 @@
   "name": "콘크리트기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-08-01",
+  "updated": "2026-08-09",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2182,
+        "passers": 727,
+        "passRate": 33.3
+      },
+      {
+        "year": 2022,
+        "applicants": 2358,
+        "passers": 743,
+        "passRate": 31.5
+      },
+      {
+        "year": 2023,
+        "applicants": 2923,
+        "passers": 862,
+        "passRate": 29.5
+      },
+      {
+        "year": 2024,
+        "applicants": 2853,
+        "passers": 850,
+        "passRate": 29.8
+      },
+      {
+        "year": 2025,
+        "applicants": 3099,
+        "passers": 998,
+        "passRate": 32.2
+      }
+    ],
     "practical": [
       {
         "year": 2021,

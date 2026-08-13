@@ -3,12 +3,12 @@
   "name": "웹디자인개발기능사",
   "series": "기능사",
   "field": "문화.예술.디자인.방송",
-  "updated": "2026-08-01",
+  "updated": "2026-08-09",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "20100",
+    "raw": "1차 : 14500, 2차 : 20100"
   },
   "info": [
     {

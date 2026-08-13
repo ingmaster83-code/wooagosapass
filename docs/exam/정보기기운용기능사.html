@@ -108,7 +108,7 @@
      data-next-label=""
      data-next-date="">
   <div class="banner-label">제4회 필기 원서접수 시작</div>
-  <div class="banner-dday">D-15</div>
+  <div class="banner-dday">D-12</div>
   <div class="banner-desc">2026-08-24</div>
   <div class="banner-next"></div>
 </div>
@@ -134,6 +134,8 @@
         <div class="detail-badges">
           <span class="cat-badge cat-it">정보통신</span>
           <span class="level-badge">기능사</span>
+
+          <span class="level-badge" style="background:#FEF3C7;color:#92400E;">🏆 정보통신 취득자수 5위 / 9종</span>
 
         </div>
         <a href="/compare.html?a=6892" class="compare-btn-link"
@@ -217,6 +219,25 @@
 
       <!-- 검정방법 -->
 
+      <div class="content-section">
+        <h2>검정방법</h2>
+        <div class="info-card" style="padding:20px 24px;">
+
+          <div style="display:flex;gap:12px;align-items:flex-start;margin-bottom:10px;">
+            <span style="flex-shrink:0;font-size:0.75rem;font-weight:700;background:#EFF6FF;color:var(--primary);padding:2px 8px;border-radius:4px;margin-top:2px;">필기</span>
+            <span style="font-size:0.9375rem;line-height:1.7;">100점을 만점으로 하여 60점 이상</span>
+          </div>
+
+
+          <div style="display:flex;gap:12px;align-items:flex-start;border-top:1px solid var(--border);padding-top:10px;">
+            <span style="flex-shrink:0;font-size:0.75rem;font-weight:700;background:#F0FDF4;color:var(--success);padding:2px 8px;border-radius:4px;margin-top:2px;">실기</span>
+            <span style="font-size:0.9375rem;line-height:1.7;">100점을 만점으로 하여 60점 이상 안전등급(Safety Level) : 1등급 ▼위험경고주의관심• 시험장소 구분 실내 • 주요시설 및 장비컴퓨터, USB• 보호구 해당사항없음- 보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될 수 있습니다.- 반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다.</span>
+          </div>
+
+
+        </div>
+      </div>
+
 
       <!-- 시험과목 -->
 
@@ -226,8 +247,45 @@
 
       <!-- 출제경향 -->
 
+      <div class="content-section">
+        <h2>출제경향</h2>
+        <div class="info-card" style="padding:20px 24px;border-left:3px solid var(--primary);">
+          <p style="font-size:0.9375rem;line-height:1.85;color:var(--text-primary);">- 정보통신 광대역 네트워크를 구성하기 위한스위칭 및 라우터 설정, Ping 테스트 등 네트워크 구축을 위한작업 수행- 공개 문제 참조</p>
+        </div>
+      </div>
+
 
       <!-- 합격률 차트 -->
+
+      <div class="content-section">
+        <h2>연도별 합격률</h2>
+        <div class="chart-grid">
+          <div class="chart-box">
+            <h3>필기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="writtenChart"></canvas>
+            </div>
+          </div>
+          <div class="chart-box">
+            <h3>실기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="practicalChart"></canvas>
+            </div>
+          </div>
+        </div>
+
+        <div class="ad-wrap" style="margin-top:24px;">
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6464921081676309" data-ad-slot="7080296704" data-ad-format="auto" data-full-width-responsive="true"></ins>
+            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        </div>
+      </div>
+
+      <div class="content-section">
+        <h2>연도별 응시자수 추이</h2>
+        <div class="chart-wrap-wide">
+          <canvas id="applicantsChart"></canvas>
+        </div>
+      </div>
 
 
       <!-- 난이도 -->
@@ -243,7 +301,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-it" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-6</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-3</span>
 
             </div>
             <div class="related-name">정보관리기술사</div>
@@ -256,7 +314,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-it" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-6</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-3</span>
 
             </div>
             <div class="related-name">컴퓨터시스템응용기술사</div>
@@ -269,7 +327,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-it" style="font-size:0.7rem;padding:2px 7px;">기사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-26</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-23</span>
 
             </div>
             <div class="related-name">멀티미디어콘텐츠제작전문가</div>
@@ -300,6 +358,11 @@
         </div>
 
         <div class="info-row">
+          <span class="info-label">관련학과</span>
+          <span class="info-value" style="font-size:0.8125rem;">시험과목 - 필기 : 1.전자계산기일반 2.정보기기일반 3.정보통신일반 - 실기 : 네트워크 운용기초 실무</span>
+        </div>
+
+        <div class="info-row">
           <span class="info-label">시행기관</span>
           <span class="info-value">한국산업인력공단</span>
         </div>
@@ -322,7 +385,25 @@
         </div>
 
 
+        <div class="info-row">
+          <span class="info-label">최근 응시자</span>
+          <span class="info-value">2,186명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
 
+
+        <div class="info-row">
+          <span class="info-label">최근 합격자</span>
+          <span class="info-value">1,886명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
+
+
+
+
+
+        <div class="info-row">
+          <span class="info-label">실기 합격률 추이</span>
+          <span class="info-value" style="font-size:0.8125rem;color:#16A34A;">↑ 9.9%p 상승</span>
+        </div>
 
 
         <a href="https://wooagosa.wooahouse.com/" target="_blank" rel="noopener"
@@ -390,6 +471,13 @@
   </div>
 </footer>
 
+
+<!-- 차트 데이터 -->
+<script id="stats-data" type="application/json">
+[{"year": 2021, "practicalApplicants": 1503, "practicalPassRate": 70.1, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2022, "practicalApplicants": 1060, "practicalPassRate": 77.0, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2023, "practicalApplicants": 1304, "practicalPassRate": 76.4, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2024, "practicalApplicants": 1501, "practicalPassRate": 78.7, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2025, "practicalApplicants": 2186, "practicalPassRate": 86.3, "writtenApplicants": 0, "writtenPassRate": 0}]
+</script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="/js/detail.js?v=2"></script>
 
 
 </body>
