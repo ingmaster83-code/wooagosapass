@@ -3,7 +3,7 @@
   "name": "건축일반시공기능장",
   "series": "기능장",
   "field": "건설",
-  "updated": "2026-08-07",
+  "updated": "2026-08-14",
   "schedule": [
     {
       "round": "제79회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "34400",
-    "practical": "163000",
-    "raw": "1차 : 34400, 2차 : 163000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

@@ -3,12 +3,12 @@
   "name": "가스기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-08-07",
+  "updated": "2026-08-14",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "24100",
-    "raw": "1차 : 19400, 2차 : 24100"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

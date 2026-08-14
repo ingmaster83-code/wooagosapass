@@ -3,7 +3,7 @@
   "name": "귀금속가공산업기사",
   "series": "기사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-08-07",
+  "updated": "2026-08-14",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "81400",
-    "raw": "1차 : 19400, 2차 : 81400"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -41,6 +41,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 34,
+        "passers": 28,
+        "passRate": 82.4
+      },
+      {
+        "year": 2022,
+        "applicants": 29,
+        "passers": 19,
+        "passRate": 65.5
+      },
+      {
+        "year": 2023,
+        "applicants": 27,
+        "passers": 16,
+        "passRate": 59.3
+      },
+      {
+        "year": 2024,
+        "applicants": 21,
+        "passers": 16,
+        "passRate": 76.2
+      },
+      {
+        "year": 2025,
+        "applicants": 36,
+        "passers": 28,
+        "passRate": 77.8
+      }
+    ]
   }
 }

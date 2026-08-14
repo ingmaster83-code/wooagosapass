@@ -3,7 +3,7 @@
   "name": "가구제작산업기사",
   "series": "기사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-08-07",
+  "updated": "2026-08-14",
   "schedule": [
     {
       "round": "제3회",
@@ -40,7 +40,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 89,
+        "passers": 75,
+        "passRate": 84.3
+      },
+      {
+        "year": 2022,
+        "applicants": 95,
+        "passers": 74,
+        "passRate": 77.9
+      },
+      {
+        "year": 2023,
+        "applicants": 112,
+        "passers": 85,
+        "passRate": 75.9
+      },
+      {
+        "year": 2024,
+        "applicants": 83,
+        "passers": 46,
+        "passRate": 55.4
+      },
+      {
+        "year": 2025,
+        "applicants": 83,
+        "passers": 61,
+        "passRate": 73.5
+      }
+    ],
     "practical": [
       {
         "year": 2021,
