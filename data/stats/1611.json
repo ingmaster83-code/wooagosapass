@@ -3,12 +3,12 @@
   "name": "방사선비파괴검사기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-08-08",
+  "updated": "2026-08-15",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "41900",
-    "raw": "1차 : 19400, 2차 : 41900"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -25,7 +25,69 @@
     }
   ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 402,
+        "passers": 163,
+        "passRate": 40.5
+      },
+      {
+        "year": 2022,
+        "applicants": 376,
+        "passers": 162,
+        "passRate": 43.1
+      },
+      {
+        "year": 2023,
+        "applicants": 364,
+        "passers": 144,
+        "passRate": 39.6
+      },
+      {
+        "year": 2024,
+        "applicants": 330,
+        "passers": 129,
+        "passRate": 39.1
+      },
+      {
+        "year": 2025,
+        "applicants": 333,
+        "passers": 118,
+        "passRate": 35.4
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 205,
+        "passers": 83,
+        "passRate": 40.5
+      },
+      {
+        "year": 2022,
+        "applicants": 176,
+        "passers": 93,
+        "passRate": 52.8
+      },
+      {
+        "year": 2023,
+        "applicants": 186,
+        "passers": 64,
+        "passRate": 34.4
+      },
+      {
+        "year": 2024,
+        "applicants": 155,
+        "passers": 78,
+        "passRate": 50.3
+      },
+      {
+        "year": 2025,
+        "applicants": 153,
+        "passers": 76,
+        "passRate": 49.7
+      }
+    ]
   }
 }

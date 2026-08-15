@@ -3,12 +3,12 @@
   "name": "식품산업기사",
   "series": "기사",
   "field": "식품.가공",
-  "updated": "2026-08-08",
+  "updated": "2026-08-15",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "55400",
+    "raw": "1차 : 19400, 2차 : 55400"
   },
   "info": [
     {

@@ -3,7 +3,7 @@
   "name": "시설원예기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-08-08",
+  "updated": "2026-08-15",
   "schedule": [
     {
       "round": "제1회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "44800",
+    "raw": "1차 : 19400, 2차 : 44800"
   },
   "info": [
     {
@@ -41,6 +41,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 53,
+        "passers": 6,
+        "passRate": 11.3
+      },
+      {
+        "year": 2022,
+        "applicants": 70,
+        "passers": 9,
+        "passRate": 12.9
+      },
+      {
+        "year": 2023,
+        "applicants": 94,
+        "passers": 28,
+        "passRate": 29.8
+      },
+      {
+        "year": 2024,
+        "applicants": 93,
+        "passers": 33,
+        "passRate": 35.5
+      },
+      {
+        "year": 2025,
+        "applicants": 115,
+        "passers": 79,
+        "passRate": 68.7
+      }
+    ]
   }
 }

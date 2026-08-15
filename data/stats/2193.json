@@ -3,7 +3,7 @@
   "name": "사무자동화산업기사",
   "series": "기사",
   "field": "정보통신",
-  "updated": "2026-08-08",
+  "updated": "2026-08-15",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 12044,
+        "passers": 6845,
+        "passRate": 56.8
+      },
+      {
+        "year": 2022,
+        "applicants": 10619,
+        "passers": 5905,
+        "passRate": 55.6
+      },
+      {
+        "year": 2023,
+        "applicants": 11142,
+        "passers": 6241,
+        "passRate": 56.0
+      },
+      {
+        "year": 2024,
+        "applicants": 10801,
+        "passers": 5868,
+        "passRate": 54.3
+      },
+      {
+        "year": 2025,
+        "applicants": 12480,
+        "passers": 7332,
+        "passRate": 58.8
+      }
+    ],
     "practical": [
       {
         "year": 2021,

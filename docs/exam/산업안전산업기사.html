@@ -100,7 +100,7 @@
      data-next-label=""
      data-next-date="">
   <div class="banner-label">제2회 최종 합격발표</div>
-  <div class="banner-dday">D-21</div>
+  <div class="banner-dday">D-20</div>
   <div class="banner-desc">2026-09-04</div>
   <div class="banner-next"></div>
 </div>
@@ -126,6 +126,8 @@
         <div class="detail-badges">
           <span class="cat-badge cat-safety">안전관리</span>
           <span class="level-badge">기사</span>
+
+          <span class="level-badge" style="background:#FEF3C7;color:#92400E;">🏆 안전관리 취득자수 3위 / 42종</span>
 
         </div>
         <a href="/compare.html?a=2381" class="compare-btn-link"
@@ -274,6 +276,36 @@
 
       <!-- 합격률 차트 -->
 
+      <div class="content-section">
+        <h2>연도별 합격률</h2>
+        <div class="chart-grid">
+          <div class="chart-box">
+            <h3>필기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="writtenChart"></canvas>
+            </div>
+          </div>
+          <div class="chart-box">
+            <h3>실기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="practicalChart"></canvas>
+            </div>
+          </div>
+        </div>
+
+        <div class="ad-wrap" style="margin-top:24px;">
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6464921081676309" data-ad-slot="7080296704" data-ad-format="auto" data-full-width-responsive="true"></ins>
+            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        </div>
+      </div>
+
+      <div class="content-section">
+        <h2>연도별 응시자수 추이</h2>
+        <div class="chart-wrap-wide">
+          <canvas id="applicantsChart"></canvas>
+        </div>
+      </div>
+
 
       <!-- 난이도 -->
 
@@ -288,7 +320,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-safety" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-1</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">접수중</span>
 
             </div>
             <div class="related-name">가스기술사</div>
@@ -301,7 +333,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-safety" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-1</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">접수중</span>
 
             </div>
             <div class="related-name">건설안전기술사</div>
@@ -314,7 +346,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-safety" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-1</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">접수중</span>
 
             </div>
             <div class="related-name">기계안전기술사</div>
@@ -372,7 +404,25 @@
         </div>
 
 
+        <div class="info-row">
+          <span class="info-label">최근 응시자</span>
+          <span class="info-value">18,580명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
 
+
+        <div class="info-row">
+          <span class="info-label">최근 합격자</span>
+          <span class="info-value">11,259명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
+
+
+
+
+
+        <div class="info-row">
+          <span class="info-label">실기 합격률 추이</span>
+          <span class="info-value" style="font-size:0.8125rem;color:#16A34A;">↑ 13.7%p 상승</span>
+        </div>
 
 
         <a href="https://wooagosa.wooahouse.com/" target="_blank" rel="noopener"
@@ -440,6 +490,13 @@
   </div>
 </footer>
 
+
+<!-- 차트 데이터 -->
+<script id="stats-data" type="application/json">
+[{"year": 2021, "practicalApplicants": 17961, "practicalPassRate": 43.0, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2022, "practicalApplicants": 17989, "practicalPassRate": 43.8, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2023, "practicalApplicants": 22925, "practicalPassRate": 46.9, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2024, "practicalApplicants": 24521, "practicalPassRate": 42.4, "writtenApplicants": 0, "writtenPassRate": 0}, {"year": 2025, "practicalApplicants": 18580, "practicalPassRate": 60.6, "writtenApplicants": 0, "writtenPassRate": 0}]
+</script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="/js/detail.js?v=2"></script>
 
 
 </body>

@@ -3,12 +3,12 @@
   "name": "자동차정비산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-08-08",
+  "updated": "2026-08-15",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "58200",
+    "raw": "1차 : 19400, 2차 : 58200"
   },
   "info": [
     {

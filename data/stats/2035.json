@@ -3,7 +3,7 @@
   "name": "설비보전산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-08-08",
+  "updated": "2026-08-15",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -26,6 +26,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 2778,
+        "passers": 2027,
+        "passRate": 73.0
+      },
+      {
+        "year": 2022,
+        "applicants": 2406,
+        "passers": 1671,
+        "passRate": 69.5
+      },
+      {
+        "year": 2023,
+        "applicants": 2783,
+        "passers": 1993,
+        "passRate": 71.6
+      },
+      {
+        "year": 2024,
+        "applicants": 3170,
+        "passers": 2329,
+        "passRate": 73.5
+      },
+      {
+        "year": 2025,
+        "applicants": 1046,
+        "passers": 547,
+        "passRate": 52.3
+      }
+    ]
   }
 }

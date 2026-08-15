@@ -3,12 +3,27 @@
   "name": "제빵산업기사",
   "series": "기사",
   "field": "식품.가공",
-  "updated": "2026-08-08",
-  "schedule": [],
+  "updated": "2026-08-15",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "47000",
+    "raw": "1차 : 19400, 2차 : 47000"
   },
   "info": [
     {
@@ -17,38 +32,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 279,
-        "passers": 201,
-        "passRate": 72.0
-      },
-      {
-        "year": 2023,
-        "applicants": 1040,
-        "passers": 719,
-        "passRate": 69.1
-      },
-      {
-        "year": 2024,
-        "applicants": 1053,
-        "passers": 734,
-        "passRate": 69.7
-      },
-      {
-        "year": 2025,
-        "applicants": 860,
-        "passers": 604,
-        "passRate": 70.2
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

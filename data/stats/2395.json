@@ -3,7 +3,7 @@
   "name": "승강기산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-08-08",
+  "updated": "2026-08-15",
   "schedule": [
     {
       "round": "제1회",
@@ -68,38 +68,38 @@
     }
   ],
   "stats": {
-    "written": [],
-    "practical": [
+    "written": [
       {
         "year": 2021,
-        "applicants": 259,
-        "passers": 127,
-        "passRate": 49.0
+        "applicants": 951,
+        "passers": 215,
+        "passRate": 22.6
       },
       {
         "year": 2022,
-        "applicants": 256,
-        "passers": 87,
-        "passRate": 34.0
+        "applicants": 782,
+        "passers": 158,
+        "passRate": 20.2
       },
       {
         "year": 2023,
-        "applicants": 149,
-        "passers": 53,
-        "passRate": 35.6
+        "applicants": 557,
+        "passers": 81,
+        "passRate": 14.5
       },
       {
         "year": 2024,
-        "applicants": 107,
-        "passers": 53,
-        "passRate": 49.5
+        "applicants": 477,
+        "passers": 79,
+        "passRate": 16.6
       },
       {
         "year": 2025,
-        "applicants": 96,
-        "passers": 57,
-        "passRate": 59.4
+        "applicants": 400,
+        "passers": 65,
+        "passRate": 16.2
       }
-    ]
+    ],
+    "practical": []
   }
 }
