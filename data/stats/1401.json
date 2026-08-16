@@ -3,7 +3,7 @@
   "name": "해양환경기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-08-09",
+  "updated": "2026-08-16",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -26,6 +26,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 274,
+        "passers": 145,
+        "passRate": 52.9
+      },
+      {
+        "year": 2022,
+        "applicants": 253,
+        "passers": 121,
+        "passRate": 47.8
+      },
+      {
+        "year": 2023,
+        "applicants": 335,
+        "passers": 193,
+        "passRate": 57.6
+      },
+      {
+        "year": 2024,
+        "applicants": 364,
+        "passers": 211,
+        "passRate": 58.0
+      },
+      {
+        "year": 2025,
+        "applicants": 486,
+        "passers": 219,
+        "passRate": 45.1
+      }
+    ]
   }
 }

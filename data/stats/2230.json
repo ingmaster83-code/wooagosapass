@@ -3,12 +3,12 @@
   "name": "항공산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-08-09",
+  "updated": "2026-08-16",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "57100",
+    "raw": "1차 : 19400, 2차 : 57100"
   },
   "info": [
     {
