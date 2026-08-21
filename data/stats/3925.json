@@ -3,7 +3,7 @@
   "name": "이용장",
   "series": "기능장",
   "field": "이용.숙박.여행.오락.스포츠",
-  "updated": "2026-08-14",
+  "updated": "2026-08-21",
   "schedule": [],
   "fee": {
     "written": "34400",
@@ -25,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 167,
-        "passers": 132,
-        "passRate": 79.0
-      },
-      {
-        "year": 2022,
-        "applicants": 155,
-        "passers": 117,
-        "passRate": 75.5
-      },
-      {
-        "year": 2023,
-        "applicants": 143,
-        "passers": 106,
-        "passRate": 74.1
-      },
-      {
-        "year": 2024,
-        "applicants": 154,
-        "passers": 109,
-        "passRate": 70.8
-      },
-      {
-        "year": 2025,
-        "applicants": 140,
-        "passers": 95,
-        "passRate": 67.9
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

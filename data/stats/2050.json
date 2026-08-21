@@ -3,7 +3,7 @@
   "name": "건설기계정비산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-08-14",
+  "updated": "2026-08-21",
   "schedule": [],
   "fee": {
     "written": "",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 687,
+        "passers": 279,
+        "passRate": 40.6
+      },
+      {
+        "year": 2022,
+        "applicants": 555,
+        "passers": 213,
+        "passRate": 38.4
+      },
+      {
+        "year": 2023,
+        "applicants": 622,
+        "passers": 196,
+        "passRate": 31.5
+      },
+      {
+        "year": 2024,
+        "applicants": 720,
+        "passers": 236,
+        "passRate": 32.8
+      },
+      {
+        "year": 2025,
+        "applicants": 659,
+        "passers": 194,
+        "passRate": 29.4
+      }
+    ],
     "practical": [
       {
         "year": 2021,

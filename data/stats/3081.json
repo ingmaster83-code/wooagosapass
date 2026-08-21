@@ -3,12 +3,12 @@
   "name": "배관기능장",
   "series": "기능장",
   "field": "건설",
-  "updated": "2026-08-14",
+  "updated": "2026-08-21",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "34400",
+    "practical": "103900",
+    "raw": "1차 : 34400, 2차 : 103900"
   },
   "info": [
     {
@@ -25,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1549,
-        "passers": 1027,
-        "passRate": 66.3
-      },
-      {
-        "year": 2022,
-        "applicants": 1395,
-        "passers": 915,
-        "passRate": 65.6
-      },
-      {
-        "year": 2023,
-        "applicants": 1324,
-        "passers": 850,
-        "passRate": 64.2
-      },
-      {
-        "year": 2024,
-        "applicants": 1486,
-        "passers": 943,
-        "passRate": 63.5
-      },
-      {
-        "year": 2025,
-        "applicants": 1547,
-        "passers": 912,
-        "passRate": 59.0
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,
