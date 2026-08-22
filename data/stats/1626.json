@@ -3,12 +3,12 @@
   "name": "어병기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-08-15",
+  "updated": "2026-08-22",
   "schedule": [],
   "fee": {
-    "written": "18000",
-    "practical": "86000",
-    "raw": "1차 : 18000, 2차 : 86000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {

@@ -3,7 +3,7 @@
   "name": "축산산업기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-08-15",
+  "updated": "2026-08-22",
   "schedule": [
     {
       "round": "제1회",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "20800",
-    "raw": "1차 : 19400, 2차 : 20800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -86,6 +86,37 @@
         "passRate": 34.0
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 359,
+        "passers": 203,
+        "passRate": 56.5
+      },
+      {
+        "year": 2022,
+        "applicants": 353,
+        "passers": 160,
+        "passRate": 45.3
+      },
+      {
+        "year": 2023,
+        "applicants": 318,
+        "passers": 154,
+        "passRate": 48.4
+      },
+      {
+        "year": 2024,
+        "applicants": 343,
+        "passers": 180,
+        "passRate": 52.5
+      },
+      {
+        "year": 2025,
+        "applicants": 355,
+        "passers": 159,
+        "passRate": 44.8
+      }
+    ]
   }
 }

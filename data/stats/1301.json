@@ -3,7 +3,7 @@
   "name": "의류기사",
   "series": "기사",
   "field": "섬유.의복",
-  "updated": "2026-08-15",
+  "updated": "2026-08-22",
   "schedule": [
     {
       "round": "제2회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "63600",
-    "raw": "1차 : 19400, 2차 : 63600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

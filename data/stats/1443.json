@@ -3,7 +3,7 @@
   "name": "방재기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-08-15",
+  "updated": "2026-08-22",
   "schedule": [
     {
       "round": "제2회",
@@ -86,37 +86,6 @@
         "passRate": 49.2
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 819,
-        "passers": 382,
-        "passRate": 46.6
-      },
-      {
-        "year": 2022,
-        "applicants": 556,
-        "passers": 292,
-        "passRate": 52.5
-      },
-      {
-        "year": 2023,
-        "applicants": 494,
-        "passers": 317,
-        "passRate": 64.2
-      },
-      {
-        "year": 2024,
-        "applicants": 576,
-        "passers": 158,
-        "passRate": 27.4
-      },
-      {
-        "year": 2025,
-        "applicants": 623,
-        "passers": 369,
-        "passRate": 59.2
-      }
-    ]
+    "practical": []
   }
 }

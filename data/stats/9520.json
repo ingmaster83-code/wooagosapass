@@ -3,7 +3,7 @@
   "name": "사회조사분석사1급",
   "series": "기사",
   "field": "경영.회계.사무",
-  "updated": "2026-08-15",
+  "updated": "2026-08-22",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -25,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 150,
-        "passers": 107,
-        "passRate": 71.3
-      },
-      {
-        "year": 2022,
-        "applicants": 140,
-        "passers": 93,
-        "passRate": 66.4
-      },
-      {
-        "year": 2023,
-        "applicants": 103,
-        "passers": 78,
-        "passRate": 75.7
-      },
-      {
-        "year": 2024,
-        "applicants": 117,
-        "passers": 69,
-        "passRate": 59.0
-      },
-      {
-        "year": 2025,
-        "applicants": 150,
-        "passers": 102,
-        "passRate": 68.0
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

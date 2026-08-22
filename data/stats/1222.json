@@ -3,7 +3,7 @@
   "name": "조선의장기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-08-15",
+  "updated": "2026-08-22",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -57,37 +57,6 @@
         "passRate": 40.9
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 56,
-        "passers": 5,
-        "passRate": 8.9
-      },
-      {
-        "year": 2024,
-        "applicants": 58,
-        "passers": 9,
-        "passRate": 15.5
-      },
-      {
-        "year": 2025,
-        "applicants": 47,
-        "passers": 17,
-        "passRate": 36.2
-      }
-    ]
+    "practical": []
   }
 }
