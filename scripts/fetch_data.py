@@ -102,6 +102,10 @@ def items_to_list(items_el: ET.Element | None) -> list[dict]:
 
 
 def save_json(path: Path, data):
+    """기존 파일 보존 — 데이터 없으면 덮어쓰지 않음 (API 실패시 데이터 유실 방지)"""
+    if not data:
+        print(f"  [경고] 데이터 없음 — {path.name} 유지")
+        return
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
     try:
         print(f"  저장: {path.relative_to(DATA_DIR.parent)}")
