@@ -3,7 +3,7 @@
   "name": "철도차량정비기능장",
   "series": "기능장",
   "field": "기계",
-  "updated": "2026-08-07",
+  "updated": "2026-08-21",
   "schedule": [
     {
       "round": "제79회",
@@ -41,7 +41,38 @@
   },
   "info": [],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 256,
+        "passers": 166,
+        "passRate": 64.8
+      },
+      {
+        "year": 2022,
+        "applicants": 229,
+        "passers": 81,
+        "passRate": 35.4
+      },
+      {
+        "year": 2023,
+        "applicants": 223,
+        "passers": 96,
+        "passRate": 43.0
+      },
+      {
+        "year": 2024,
+        "applicants": 131,
+        "passers": 46,
+        "passRate": 35.1
+      },
+      {
+        "year": 2025,
+        "applicants": 120,
+        "passers": 53,
+        "passRate": 44.2
+      }
+    ],
     "practical": [
       {
         "year": 2021,

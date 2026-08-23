@@ -3,12 +3,12 @@
   "name": "컴퓨터시스템응용기술사",
   "series": "기술사",
   "field": "정보통신",
-  "updated": "2026-08-07",
+  "updated": "2026-08-21",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
   },
   "info": [
     {

@@ -3,12 +3,12 @@
   "name": "전기기능사",
   "series": "기능사",
   "field": "전기.전자",
-  "updated": "2026-08-10",
+  "updated": "2026-08-17",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "106200",
+    "raw": "1차 : 14500, 2차 : 106200"
   },
   "info": [
     {

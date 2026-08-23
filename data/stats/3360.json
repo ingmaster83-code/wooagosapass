@@ -3,7 +3,7 @@
   "name": "위험물기능장",
   "series": "기능장",
   "field": "화학",
-  "updated": "2026-08-07",
+  "updated": "2026-08-21",
   "schedule": [
     {
       "round": "제79회",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "34400",
+    "practical": "24800",
+    "raw": "1차 : 34400, 2차 : 24800"
   },
   "info": [
     {
@@ -54,38 +54,38 @@
     }
   ],
   "stats": {
-    "written": [
+    "written": [],
+    "practical": [
       {
         "year": 2021,
-        "applicants": 5799,
-        "passers": 3510,
-        "passRate": 60.5
+        "applicants": 5161,
+        "passers": 1966,
+        "passRate": 38.1
       },
       {
         "year": 2022,
-        "applicants": 5275,
-        "passers": 3244,
-        "passRate": 61.5
+        "applicants": 4972,
+        "passers": 1739,
+        "passRate": 35.0
       },
       {
         "year": 2023,
-        "applicants": 7531,
-        "passers": 4516,
-        "passRate": 60.0
+        "applicants": 6725,
+        "passers": 3305,
+        "passRate": 49.1
       },
       {
         "year": 2024,
-        "applicants": 7838,
-        "passers": 4682,
-        "passRate": 59.7
+        "applicants": 6938,
+        "passers": 2450,
+        "passRate": 35.3
       },
       {
         "year": 2025,
-        "applicants": 7152,
-        "passers": 4089,
-        "passRate": 57.2
+        "applicants": 7051,
+        "passers": 2696,
+        "passRate": 38.2
       }
-    ],
-    "practical": []
+    ]
   }
 }

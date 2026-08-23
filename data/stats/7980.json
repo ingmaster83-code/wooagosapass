@@ -3,12 +3,12 @@
   "name": "보석감정사",
   "series": "기능사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-08-09",
+  "updated": "2026-08-16",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "46800",
+    "raw": "1차 : 14500, 2차 : 46800"
   },
   "info": [
     {

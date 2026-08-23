@@ -3,12 +3,12 @@
   "name": "금속재료기사",
   "series": "기사",
   "field": "재료",
-  "updated": "2026-08-07",
+  "updated": "2026-08-21",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "70500",
+    "raw": "1차 : 19400, 2차 : 70500"
   },
   "info": [
     {

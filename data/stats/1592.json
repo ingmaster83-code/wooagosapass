@@ -3,7 +3,7 @@
   "name": "유기농업기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-08-08",
+  "updated": "2026-08-22",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -25,7 +25,69 @@
     }
   ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1033,
+        "passers": 571,
+        "passRate": 55.3
+      },
+      {
+        "year": 2022,
+        "applicants": 895,
+        "passers": 545,
+        "passRate": 60.9
+      },
+      {
+        "year": 2023,
+        "applicants": 1025,
+        "passers": 635,
+        "passRate": 62.0
+      },
+      {
+        "year": 2024,
+        "applicants": 1129,
+        "passers": 642,
+        "passRate": 56.9
+      },
+      {
+        "year": 2025,
+        "applicants": 1379,
+        "passers": 792,
+        "passRate": 57.4
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 776,
+        "passers": 447,
+        "passRate": 57.6
+      },
+      {
+        "year": 2022,
+        "applicants": 690,
+        "passers": 350,
+        "passRate": 50.7
+      },
+      {
+        "year": 2023,
+        "applicants": 709,
+        "passers": 374,
+        "passRate": 52.8
+      },
+      {
+        "year": 2024,
+        "applicants": 660,
+        "passers": 444,
+        "passRate": 67.3
+      },
+      {
+        "year": 2025,
+        "applicants": 805,
+        "passers": 585,
+        "passRate": 72.7
+      }
+    ]
   }
 }

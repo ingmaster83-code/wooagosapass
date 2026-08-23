@@ -3,7 +3,7 @@
   "name": "산업안전산업기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-08-08",
+  "updated": "2026-08-22",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -26,6 +26,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 17961,
+        "passers": 7728,
+        "passRate": 43.0
+      },
+      {
+        "year": 2022,
+        "applicants": 17989,
+        "passers": 7886,
+        "passRate": 43.8
+      },
+      {
+        "year": 2023,
+        "applicants": 22925,
+        "passers": 10746,
+        "passRate": 46.9
+      },
+      {
+        "year": 2024,
+        "applicants": 24521,
+        "passers": 10403,
+        "passRate": 42.4
+      },
+      {
+        "year": 2025,
+        "applicants": 18580,
+        "passers": 11259,
+        "passRate": 60.6
+      }
+    ]
   }
 }

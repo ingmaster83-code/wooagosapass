@@ -3,7 +3,7 @@
   "name": "제과기능장",
   "series": "기능장",
   "field": "식품.가공",
-  "updated": "2026-08-07",
+  "updated": "2026-08-21",
   "schedule": [],
   "fee": {
     "written": "34400",
@@ -26,6 +26,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 292,
+        "passers": 37,
+        "passRate": 12.7
+      },
+      {
+        "year": 2022,
+        "applicants": 283,
+        "passers": 35,
+        "passRate": 12.4
+      },
+      {
+        "year": 2023,
+        "applicants": 322,
+        "passers": 61,
+        "passRate": 18.9
+      },
+      {
+        "year": 2024,
+        "applicants": 361,
+        "passers": 37,
+        "passRate": 10.2
+      },
+      {
+        "year": 2025,
+        "applicants": 407,
+        "passers": 63,
+        "passRate": 15.5
+      }
+    ]
   }
 }

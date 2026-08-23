@@ -3,7 +3,7 @@
   "name": "광학기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-08-07",
+  "updated": "2026-08-21",
   "schedule": [
     {
       "round": "제2회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -72,37 +72,6 @@
         "passRate": 38.5
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 67,
-        "passers": 51,
-        "passRate": 76.1
-      },
-      {
-        "year": 2022,
-        "applicants": 32,
-        "passers": 16,
-        "passRate": 50.0
-      },
-      {
-        "year": 2023,
-        "applicants": 50,
-        "passers": 5,
-        "passRate": 10.0
-      },
-      {
-        "year": 2024,
-        "applicants": 45,
-        "passers": 10,
-        "passRate": 22.2
-      },
-      {
-        "year": 2025,
-        "applicants": 37,
-        "passers": 6,
-        "passRate": 16.2
-      }
-    ]
+    "practical": []
   }
 }

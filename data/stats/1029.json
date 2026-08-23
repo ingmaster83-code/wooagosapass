@@ -3,7 +3,7 @@
   "name": "환경위해관리기사",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-08-09",
+  "updated": "2026-08-16",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "22600",
+    "raw": "1차 : 19400, 2차 : 22600"
   },
   "info": [
     {
@@ -72,37 +72,6 @@
         "passRate": 63.5
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 322,
-        "passers": 55,
-        "passRate": 17.1
-      },
-      {
-        "year": 2022,
-        "applicants": 263,
-        "passers": 76,
-        "passRate": 28.9
-      },
-      {
-        "year": 2023,
-        "applicants": 217,
-        "passers": 34,
-        "passRate": 15.7
-      },
-      {
-        "year": 2024,
-        "applicants": 209,
-        "passers": 75,
-        "passRate": 35.9
-      },
-      {
-        "year": 2025,
-        "applicants": 156,
-        "passers": 13,
-        "passRate": 8.3
-      }
-    ]
+    "practical": []
   }
 }

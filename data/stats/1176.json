@@ -3,7 +3,7 @@
   "name": "의공기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-08-08",
+  "updated": "2026-08-22",
   "schedule": [
     {
       "round": "제1회",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -54,7 +54,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 774,
+        "passers": 413,
+        "passRate": 53.4
+      },
+      {
+        "year": 2022,
+        "applicants": 721,
+        "passers": 483,
+        "passRate": 67.0
+      },
+      {
+        "year": 2023,
+        "applicants": 726,
+        "passers": 451,
+        "passRate": 62.1
+      },
+      {
+        "year": 2024,
+        "applicants": 581,
+        "passers": 198,
+        "passRate": 34.1
+      },
+      {
+        "year": 2025,
+        "applicants": 616,
+        "passers": 221,
+        "passRate": 35.9
+      }
+    ],
     "practical": [
       {
         "year": 2021,
