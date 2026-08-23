@@ -3,7 +3,7 @@
   "name": "세탁기능사",
   "series": "기능사",
   "field": "섬유.의복",
-  "updated": "2026-08-16",
+  "updated": "2026-08-23",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -26,6 +26,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 577,
+        "passers": 496,
+        "passRate": 86.0
+      },
+      {
+        "year": 2022,
+        "applicants": 351,
+        "passers": 311,
+        "passRate": 88.6
+      },
+      {
+        "year": 2023,
+        "applicants": 442,
+        "passers": 389,
+        "passRate": 88.0
+      },
+      {
+        "year": 2024,
+        "applicants": 440,
+        "passers": 382,
+        "passRate": 86.8
+      },
+      {
+        "year": 2025,
+        "applicants": 327,
+        "passers": 253,
+        "passRate": 77.4
+      }
+    ]
   }
 }

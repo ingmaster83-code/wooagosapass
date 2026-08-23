@@ -3,27 +3,12 @@
   "name": "해양자원개발기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-08-16",
-  "schedule": [
-    {
-      "round": "제2회",
-      "written_reg_start": "2026-04-20",
-      "written_reg_end": "2026-04-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-06-10",
-      "prac_reg_start": "2026-06-22",
-      "prac_reg_end": "2026-06-25",
-      "prac_exam_start": "2026-07-18",
-      "prac_exam_end": "2026-08-05",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-08-23",
+  "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "22600",
+    "raw": "1차 : 19400, 2차 : 22600"
   },
   "info": [
     {
@@ -72,37 +57,6 @@
         "passRate": 27.8
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 12,
-        "passers": 1,
-        "passRate": 8.3
-      },
-      {
-        "year": 2022,
-        "applicants": 5,
-        "passers": 4,
-        "passRate": 80.0
-      },
-      {
-        "year": 2023,
-        "applicants": 8,
-        "passers": 6,
-        "passRate": 75.0
-      },
-      {
-        "year": 2024,
-        "applicants": 1,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2025,
-        "applicants": 4,
-        "passers": 1,
-        "passRate": 25.0
-      }
-    ]
+    "practical": []
   }
 }

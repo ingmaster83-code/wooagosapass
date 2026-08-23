@@ -3,12 +3,12 @@
   "name": "여성복기능사",
   "series": "기능사",
   "field": "섬유.의복",
-  "updated": "2026-08-16",
+  "updated": "2026-08-23",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "43600",
-    "raw": "1차 : 14500, 2차 : 43600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

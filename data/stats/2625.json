@@ -3,7 +3,7 @@
   "name": "화훼장식산업기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-08-16",
+  "updated": "2026-08-23",
   "schedule": [
     {
       "round": "제2회",
@@ -40,7 +40,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 376,
+        "passers": 332,
+        "passRate": 88.3
+      },
+      {
+        "year": 2022,
+        "applicants": 336,
+        "passers": 300,
+        "passRate": 89.3
+      },
+      {
+        "year": 2023,
+        "applicants": 313,
+        "passers": 278,
+        "passRate": 88.8
+      },
+      {
+        "year": 2024,
+        "applicants": 262,
+        "passers": 235,
+        "passRate": 89.7
+      },
+      {
+        "year": 2025,
+        "applicants": 217,
+        "passers": 189,
+        "passRate": 87.1
+      }
+    ],
     "practical": [
       {
         "year": 2021,
