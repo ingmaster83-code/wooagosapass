@@ -3,7 +3,7 @@
   "name": "표면처리기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-08-17",
+  "updated": "2026-08-24",
   "schedule": [
     {
       "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
@@ -54,7 +54,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 109,
+        "passers": 29,
+        "passRate": 26.6
+      },
+      {
+        "year": 2022,
+        "applicants": 128,
+        "passers": 31,
+        "passRate": 24.2
+      },
+      {
+        "year": 2023,
+        "applicants": 148,
+        "passers": 43,
+        "passRate": 29.1
+      },
+      {
+        "year": 2024,
+        "applicants": 258,
+        "passers": 76,
+        "passRate": 29.5
+      },
+      {
+        "year": 2025,
+        "applicants": 231,
+        "passers": 42,
+        "passRate": 18.2
+      }
+    ],
     "practical": [
       {
         "year": 2021,

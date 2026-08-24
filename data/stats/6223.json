@@ -3,12 +3,12 @@
   "name": "피복아크용접기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-08-17",
+  "updated": "2026-08-24",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "40000",
+    "raw": "1차 : 14500, 2차 : 40000"
   },
   "info": [
     {

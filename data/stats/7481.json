@@ -3,7 +3,7 @@
   "name": "축산기능사",
   "series": "기능사",
   "field": "농림어업",
-  "updated": "2026-08-17",
+  "updated": "2026-08-24",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -26,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 885,
-        "passers": 842,
-        "passRate": 95.1
-      },
-      {
-        "year": 2022,
-        "applicants": 870,
-        "passers": 833,
-        "passRate": 95.7
-      },
-      {
-        "year": 2023,
-        "applicants": 884,
-        "passers": 843,
-        "passRate": 95.4
-      },
-      {
-        "year": 2024,
-        "applicants": 1162,
-        "passers": 1110,
-        "passRate": 95.5
-      },
-      {
-        "year": 2025,
-        "applicants": 1203,
-        "passers": 1168,
-        "passRate": 97.1
-      }
-    ]
+    "practical": []
   }
 }
