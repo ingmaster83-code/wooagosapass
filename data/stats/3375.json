@@ -3,7 +3,7 @@
   "name": "가스기능장",
   "series": "기능장",
   "field": "안전관리",
-  "updated": "2026-08-21",
+  "updated": "2026-08-28",
   "schedule": [],
   "fee": {
     "written": "34400",
@@ -25,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1914,
-        "passers": 897,
-        "passRate": 46.9
-      },
-      {
-        "year": 2022,
-        "applicants": 1829,
-        "passers": 790,
-        "passRate": 43.2
-      },
-      {
-        "year": 2023,
-        "applicants": 2414,
-        "passers": 339,
-        "passRate": 14.0
-      },
-      {
-        "year": 2024,
-        "applicants": 2542,
-        "passers": 723,
-        "passRate": 28.4
-      },
-      {
-        "year": 2025,
-        "applicants": 2322,
-        "passers": 746,
-        "passRate": 32.1
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

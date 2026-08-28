@@ -3,7 +3,7 @@
   "name": "압연기능장",
   "series": "기능장",
   "field": "재료",
-  "updated": "2026-08-21",
+  "updated": "2026-08-28",
   "schedule": [
     {
       "round": "제79회",
@@ -54,69 +54,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 733,
-        "passers": 618,
-        "passRate": 84.3
-      },
-      {
-        "year": 2022,
-        "applicants": 521,
-        "passers": 453,
-        "passRate": 86.9
-      },
-      {
-        "year": 2023,
-        "applicants": 632,
-        "passers": 543,
-        "passRate": 85.9
-      },
-      {
-        "year": 2024,
-        "applicants": 660,
-        "passers": 463,
-        "passRate": 70.2
-      },
-      {
-        "year": 2025,
-        "applicants": 579,
-        "passers": 366,
-        "passRate": 63.2
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 795,
-        "passers": 239,
-        "passRate": 30.1
-      },
-      {
-        "year": 2022,
-        "applicants": 684,
-        "passers": 360,
-        "passRate": 52.6
-      },
-      {
-        "year": 2023,
-        "applicants": 696,
-        "passers": 387,
-        "passRate": 55.6
-      },
-      {
-        "year": 2024,
-        "applicants": 599,
-        "passers": 283,
-        "passRate": 47.2
-      },
-      {
-        "year": 2025,
-        "applicants": 512,
-        "passers": 245,
-        "passRate": 47.9
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

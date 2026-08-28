@@ -3,16 +3,62 @@
   "name": "한복기능장",
   "series": "기능장",
   "field": "섬유.의복",
-  "updated": "2026-08-21",
-  "schedule": [],
+  "updated": "2026-08-28",
+  "schedule": [
+    {
+      "round": "제80회",
+      "written_reg_start": "2026-06-08",
+      "written_reg_end": "2026-06-11",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-07-15",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-30",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-09-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "34400",
-    "practical": "93600",
-    "raw": "1차 : 34400, 2차 : 93600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 83,
+        "passers": 71,
+        "passRate": 85.5
+      },
+      {
+        "year": 2024,
+        "applicants": 43,
+        "passers": 32,
+        "passRate": 74.4
+      },
+      {
+        "year": 2025,
+        "applicants": 25,
+        "passers": 14,
+        "passRate": 56.0
+      }
+    ],
     "practical": [
       {
         "year": 2021,

@@ -3,7 +3,7 @@
   "name": "발송배전기술사",
   "series": "기술사",
   "field": "전기.전자",
-  "updated": "2026-08-21",
+  "updated": "2026-08-28",
   "schedule": [
     {
       "round": "제138회",
@@ -43,15 +43,15 @@
       "prac_reg_start": "2026-08-31",
       "prac_reg_end": "2026-10-15",
       "prac_exam_start": "2026-11-14",
-      "prac_exam_end": "2026-11-25",
+      "prac_exam_end": "2026-11-28",
       "prac_pass_start": "",
       "prac_pass_end": ""
     }
   ],
   "fee": {
-    "written": "67800",
-    "practical": "87100",
-    "raw": "1차 : 67800, 2차 : 87100"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -68,38 +68,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1142,
-        "passers": 29,
-        "passRate": 2.5
-      },
-      {
-        "year": 2022,
-        "applicants": 1207,
-        "passers": 10,
-        "passRate": 0.8
-      },
-      {
-        "year": 2023,
-        "applicants": 1393,
-        "passers": 12,
-        "passRate": 0.9
-      },
-      {
-        "year": 2024,
-        "applicants": 1535,
-        "passers": 27,
-        "passRate": 1.8
-      },
-      {
-        "year": 2025,
-        "applicants": 1526,
-        "passers": 22,
-        "passRate": 1.4
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

@@ -3,8 +3,37 @@
   "name": "제강기능장",
   "series": "기능장",
   "field": "재료",
-  "updated": "2026-08-21",
-  "schedule": [],
+  "updated": "2026-08-28",
+  "schedule": [
+    {
+      "round": "제79회",
+      "written_reg_start": "2026-01-06",
+      "written_reg_end": "2026-01-09",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-01-30",
+      "prac_reg_start": "2026-02-02",
+      "prac_reg_end": "2026-02-05",
+      "prac_exam_start": "2026-03-14",
+      "prac_exam_end": "2026-04-01",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제80회",
+      "written_reg_start": "2026-06-08",
+      "written_reg_end": "2026-06-11",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-07-15",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-30",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-09-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "34400",
     "practical": "24800",
@@ -12,38 +41,38 @@
   },
   "info": [],
   "stats": {
-    "written": [
+    "written": [],
+    "practical": [
       {
         "year": 2021,
-        "applicants": 795,
-        "passers": 596,
-        "passRate": 75.0
+        "applicants": 673,
+        "passers": 392,
+        "passRate": 58.2
       },
       {
         "year": 2022,
-        "applicants": 680,
-        "passers": 529,
-        "passRate": 77.8
+        "applicants": 805,
+        "passers": 240,
+        "passRate": 29.8
       },
       {
         "year": 2023,
-        "applicants": 630,
-        "passers": 471,
-        "passRate": 74.8
+        "applicants": 828,
+        "passers": 435,
+        "passRate": 52.5
       },
       {
         "year": 2024,
-        "applicants": 665,
-        "passers": 342,
-        "passRate": 51.4
+        "applicants": 494,
+        "passers": 270,
+        "passRate": 54.7
       },
       {
         "year": 2025,
-        "applicants": 714,
-        "passers": 361,
-        "passRate": 50.6
+        "applicants": 483,
+        "passers": 217,
+        "passRate": 44.9
       }
-    ],
-    "practical": []
+    ]
   }
 }

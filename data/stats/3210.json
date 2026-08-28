@@ -3,7 +3,7 @@
   "name": "표면처리기능장",
   "series": "기능장",
   "field": "재료",
-  "updated": "2026-08-21",
+  "updated": "2026-08-28",
   "schedule": [
     {
       "round": "제80회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "34400",
+    "practical": "103800",
+    "raw": "1차 : 34400, 2차 : 103800"
   },
   "info": [
     {
@@ -40,7 +40,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 47,
+        "passers": 27,
+        "passRate": 57.4
+      },
+      {
+        "year": 2022,
+        "applicants": 49,
+        "passers": 33,
+        "passRate": 67.3
+      },
+      {
+        "year": 2023,
+        "applicants": 101,
+        "passers": 62,
+        "passRate": 61.4
+      },
+      {
+        "year": 2024,
+        "applicants": 122,
+        "passers": 76,
+        "passRate": 62.3
+      },
+      {
+        "year": 2025,
+        "applicants": 116,
+        "passers": 64,
+        "passRate": 55.2
+      }
+    ],
     "practical": [
       {
         "year": 2021,
