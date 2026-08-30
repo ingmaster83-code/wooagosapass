@@ -3,7 +3,7 @@
   "name": "의료전자기능사",
   "series": "기능사",
   "field": "전기.전자",
-  "updated": "2026-08-23",
+  "updated": "2026-08-30",
   "schedule": [
     {
       "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
@@ -39,71 +39,22 @@
     "practical": "",
     "raw": ""
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "의료전자기능사 출제경향\r\n\r\n\r\n\r\n\r\n- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.\r\n- 의료기기 중 심전도를 측정가능한 회로를 구성하여 제작하는 시험이며 공개문제를 참조바랍니다."
+    },
+    {
+      "type": "출제기준",
+      "content": "의료전자기능사 출제기준\r\n\r\n\r\n\r\n\r\n의료전자기능사 출제기준입니다.\r\n\r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "의료전자기능사 취득방법\r\n\r\n\r\n\r\n\r\n 시행처 : 한국산업인력공단 \r\n시험과목\r\n- 필기 : 1. 의용공학이론 2.의료기초공학 3.의료기기운용\r\n- 실기 :의공 실무\r\n 검정방법\r\n- 필기 : 객관식 4지 택일형 60 문항(60분)\r\n- 실기 : 작업형(3시간 정도, 100점))\r\n 합격기준 \r\n- 필기 : 100점 만점에 60점 이상 \r\n- 실기 : 100점 만점에 60점 이상 \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n안전등급(Safety Level) : 1등급\r\n\r\n\r\n\r\n\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n▼\r\n\r\n\r\n\r\n위험\r\n\r\n경고\r\n\r\n주의\r\n\r\n관심\r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n&bull; 시험장소 구분 \r\n\r\n실내 \r\n\r\n \r\n\r\n\r\n\r\n&bull; 주요시설 및 장비\r\n\r\n납땜기, 파워서플라이, 니퍼 등 공구\r\n\r\n \r\n\r\n\r\n\r\n&bull; 보호구 \r\n\r\n해당사항 없음\r\n\r\n \r\n\r\n\r\n\r\n- 보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될 수 있습니다.\r\n- 반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 131,
-        "passers": 84,
-        "passRate": 64.1
-      },
-      {
-        "year": 2022,
-        "applicants": 208,
-        "passers": 92,
-        "passRate": 44.2
-      },
-      {
-        "year": 2023,
-        "applicants": 141,
-        "passers": 46,
-        "passRate": 32.6
-      },
-      {
-        "year": 2024,
-        "applicants": 206,
-        "passers": 73,
-        "passRate": 35.4
-      },
-      {
-        "year": 2025,
-        "applicants": 252,
-        "passers": 64,
-        "passRate": 25.4
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 92,
-        "passers": 58,
-        "passRate": 63.0
-      },
-      {
-        "year": 2022,
-        "applicants": 87,
-        "passers": 47,
-        "passRate": 54.0
-      },
-      {
-        "year": 2023,
-        "applicants": 67,
-        "passers": 53,
-        "passRate": 79.1
-      },
-      {
-        "year": 2024,
-        "applicants": 81,
-        "passers": 62,
-        "passRate": 76.5
-      },
-      {
-        "year": 2025,
-        "applicants": 71,
-        "passers": 51,
-        "passRate": 71.8
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }
