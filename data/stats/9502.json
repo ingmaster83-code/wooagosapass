@@ -3,7 +3,7 @@
   "name": "기계경비지도사",
   "series": "경비지도사",
   "field": "",
-  "updated": "2026-08-24",
+  "updated": "2026-08-31",
   "schedule": [
     {
       "round": "제28회",
@@ -28,7 +28,7 @@
   "info": [
     {
       "type": "취득방법",
-      "content": "BODY {\tFONT-SIZE: 10pt; FONT-FAMILY: Malgun Gothic; COLOR: #000000; MARGIN: 0px}P {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}LI {\tMARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; LINE-HEIGHT: 1.2}일반경비지도사 내용 참조"
+      "content": "기계경비지도사 취득방법\r\n\r\n\r\n\r\n\r\n일반경비지도사 내용 참조"
     }
   ],
   "stats": {
