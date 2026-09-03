@@ -22,6 +22,7 @@ def main():
         ("", "1.0", "daily"),
         ("list.html", "0.9", "daily"),
         ("calendar.html", "0.9", "daily"),
+        ("compare.html", "0.7", "weekly"),
     ]
     for path, priority, freq in static_pages:
         url = f"{BASE_URL}/{path}"
