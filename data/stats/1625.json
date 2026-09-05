@@ -3,41 +3,12 @@
   "name": "수산양식기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-08-29",
-  "schedule": [
-    {
-      "round": "제1회",
-      "written_reg_start": "2026-01-12",
-      "written_reg_end": "2026-01-15",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-03-11",
-      "prac_reg_start": "2026-03-23",
-      "prac_reg_end": "2026-03-26",
-      "prac_exam_start": "2026-04-18",
-      "prac_exam_end": "2026-05-06",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    },
-    {
-      "round": "제3회",
-      "written_reg_start": "2026-07-20",
-      "written_reg_end": "2026-07-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-09-09",
-      "prac_reg_start": "2026-09-21",
-      "prac_reg_end": "2026-09-28",
-      "prac_exam_start": "2026-10-24",
-      "prac_exam_end": "2026-11-13",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-09-05",
+  "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "22600",
+    "raw": "1차 : 19400, 2차 : 22600"
   },
   "info": [
     {
@@ -86,37 +57,6 @@
         "passRate": 37.4
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 519,
-        "passers": 160,
-        "passRate": 30.8
-      },
-      {
-        "year": 2022,
-        "applicants": 523,
-        "passers": 133,
-        "passRate": 25.4
-      },
-      {
-        "year": 2023,
-        "applicants": 445,
-        "passers": 113,
-        "passRate": 25.4
-      },
-      {
-        "year": 2024,
-        "applicants": 431,
-        "passers": 229,
-        "passRate": 53.1
-      },
-      {
-        "year": 2025,
-        "applicants": 312,
-        "passers": 117,
-        "passRate": 37.5
-      }
-    ]
+    "practical": []
   }
 }

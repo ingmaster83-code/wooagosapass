@@ -3,7 +3,7 @@
   "name": "방재기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-08-29",
+  "updated": "2026-09-05",
   "schedule": [
     {
       "round": "제2회",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

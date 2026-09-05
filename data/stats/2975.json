@@ -3,12 +3,27 @@
   "name": "복어조리산업기사",
   "series": "기사",
   "field": "음식서비스",
-  "updated": "2026-08-29",
-  "schedule": [],
+  "updated": "2026-09-05",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "19400",
-    "practical": "56200",
-    "raw": "1차 : 19400, 2차 : 56200"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -25,7 +40,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 76,
+        "passers": 51,
+        "passRate": 67.1
+      },
+      {
+        "year": 2022,
+        "applicants": 102,
+        "passers": 61,
+        "passRate": 59.8
+      },
+      {
+        "year": 2023,
+        "applicants": 147,
+        "passers": 98,
+        "passRate": 66.7
+      },
+      {
+        "year": 2024,
+        "applicants": 140,
+        "passers": 75,
+        "passRate": 53.6
+      },
+      {
+        "year": 2025,
+        "applicants": 132,
+        "passers": 72,
+        "passRate": 54.5
+      }
+    ],
     "practical": [
       {
         "year": 2021,

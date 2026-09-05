@@ -3,7 +3,7 @@
   "name": "방사선비파괴검사산업기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-08-29",
+  "updated": "2026-09-05",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "43100",
-    "raw": "1차 : 19400, 2차 : 43100"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -40,38 +40,38 @@
     }
   ],
   "stats": {
-    "written": [
+    "written": [],
+    "practical": [
       {
         "year": 2021,
-        "applicants": 93,
-        "passers": 42,
-        "passRate": 45.2
+        "applicants": 28,
+        "passers": 5,
+        "passRate": 17.9
       },
       {
         "year": 2022,
-        "applicants": 52,
-        "passers": 17,
-        "passRate": 32.7
+        "applicants": 10,
+        "passers": 6,
+        "passRate": 60.0
       },
       {
         "year": 2023,
-        "applicants": 60,
-        "passers": 15,
-        "passRate": 25.0
+        "applicants": 6,
+        "passers": 3,
+        "passRate": 50.0
       },
       {
         "year": 2024,
-        "applicants": 57,
-        "passers": 15,
-        "passRate": 26.3
+        "applicants": 9,
+        "passers": 1,
+        "passRate": 11.1
       },
       {
         "year": 2025,
-        "applicants": 56,
-        "passers": 20,
-        "passRate": 35.7
+        "applicants": 17,
+        "passers": 4,
+        "passRate": 23.5
       }
-    ],
-    "practical": []
+    ]
   }
 }

@@ -3,7 +3,7 @@
   "name": "제과산업기사",
   "series": "기사",
   "field": "식품.가공",
-  "updated": "2026-08-29",
+  "updated": "2026-09-05",
   "schedule": [
     {
       "round": "제3회",
@@ -72,37 +72,6 @@
         "passRate": 78.9
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 723,
-        "passers": 275,
-        "passRate": 38.0
-      },
-      {
-        "year": 2024,
-        "applicants": 833,
-        "passers": 336,
-        "passRate": 40.3
-      },
-      {
-        "year": 2025,
-        "applicants": 859,
-        "passers": 376,
-        "passRate": 43.8
-      }
-    ]
+    "practical": []
   }
 }

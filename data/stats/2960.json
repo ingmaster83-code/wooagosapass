@@ -3,7 +3,7 @@
   "name": "에너지관리산업기사",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-08-29",
+  "updated": "2026-09-05",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 3349,
+        "passers": 1163,
+        "passRate": 34.7
+      },
+      {
+        "year": 2022,
+        "applicants": 4313,
+        "passers": 1371,
+        "passRate": 31.8
+      },
+      {
+        "year": 2023,
+        "applicants": 4226,
+        "passers": 1306,
+        "passRate": 30.9
+      },
+      {
+        "year": 2024,
+        "applicants": 3204,
+        "passers": 914,
+        "passRate": 28.5
+      },
+      {
+        "year": 2025,
+        "applicants": 3182,
+        "passers": 998,
+        "passRate": 31.4
+      }
+    ],
     "practical": [
       {
         "year": 2021,

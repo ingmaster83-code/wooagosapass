@@ -3,8 +3,23 @@
   "name": "제품디자인산업기사",
   "series": "기사",
   "field": "문화.예술.디자인.방송",
-  "updated": "2026-08-29",
-  "schedule": [],
+  "updated": "2026-09-05",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-01-12",
+      "written_reg_end": "2026-01-15",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-11",
+      "prac_reg_start": "2026-03-23",
+      "prac_reg_end": "2026-03-26",
+      "prac_exam_start": "2026-04-18",
+      "prac_exam_end": "2026-05-06",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "19400",
     "practical": "31800",
@@ -26,6 +41,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 14,
+        "passers": 8,
+        "passRate": 57.1
+      },
+      {
+        "year": 2022,
+        "applicants": 20,
+        "passers": 15,
+        "passRate": 75.0
+      },
+      {
+        "year": 2023,
+        "applicants": 17,
+        "passers": 10,
+        "passRate": 58.8
+      },
+      {
+        "year": 2024,
+        "applicants": 15,
+        "passers": 7,
+        "passRate": 46.7
+      },
+      {
+        "year": 2025,
+        "applicants": 16,
+        "passers": 9,
+        "passRate": 56.2
+      }
+    ]
   }
 }

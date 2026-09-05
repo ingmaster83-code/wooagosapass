@@ -3,7 +3,7 @@
   "name": "제판기사",
   "series": "기사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-08-29",
+  "updated": "2026-09-05",
   "schedule": [],
   "fee": {
     "written": "18000",
@@ -12,38 +12,7 @@
   },
   "info": [],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 41,
-        "passers": 15,
-        "passRate": 36.6
-      },
-      {
-        "year": 2022,
-        "applicants": 51,
-        "passers": 35,
-        "passRate": 68.6
-      },
-      {
-        "year": 2023,
-        "applicants": 53,
-        "passers": 34,
-        "passRate": 64.2
-      },
-      {
-        "year": 2024,
-        "applicants": 52,
-        "passers": 40,
-        "passRate": 76.9
-      },
-      {
-        "year": 2025,
-        "applicants": 54,
-        "passers": 24,
-        "passRate": 44.4
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,
