@@ -3,7 +3,7 @@
   "name": "보석가공기능사",
   "series": "기능사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-08-30",
+  "updated": "2026-09-06",
   "schedule": [
     {
       "round": "제4회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "40200",
+    "raw": "1차 : 14500, 2차 : 40200"
   },
   "info": [
     {

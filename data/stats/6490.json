@@ -3,12 +3,12 @@
   "name": "금속재료시험기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-08-30",
+  "updated": "2026-09-06",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "61600",
+    "raw": "1차 : 14500, 2차 : 61600"
   },
   "info": [],
   "stats": {

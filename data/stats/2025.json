@@ -3,7 +3,7 @@
   "name": "컴퓨터응용가공산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-08-30",
+  "updated": "2026-09-06",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -26,6 +26,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 962,
+        "passers": 422,
+        "passRate": 43.9
+      },
+      {
+        "year": 2022,
+        "applicants": 1057,
+        "passers": 554,
+        "passRate": 52.4
+      },
+      {
+        "year": 2023,
+        "applicants": 908,
+        "passers": 547,
+        "passRate": 60.2
+      },
+      {
+        "year": 2024,
+        "applicants": 679,
+        "passers": 369,
+        "passRate": 54.3
+      },
+      {
+        "year": 2025,
+        "applicants": 697,
+        "passers": 400,
+        "passRate": 57.4
+      }
+    ]
   }
 }

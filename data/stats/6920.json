@@ -3,12 +3,41 @@
   "name": "선체건조기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-08-30",
-  "schedule": [],
+  "updated": "2026-09-06",
+  "schedule": [
+    {
+      "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
+      "written_reg_start": "",
+      "written_reg_end": "",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "",
+      "prac_reg_start": "2026-05-11",
+      "prac_reg_end": "2026-05-14",
+      "prac_exam_start": "2026-06-13",
+      "prac_exam_end": "2026-06-24",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-06-08",
+      "written_reg_end": "2026-06-11",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-07-15",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-30",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-09-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "14500",
-    "practical": "53500",
-    "raw": "1차 : 14500, 2차 : 53500"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -25,38 +54,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 3,
-        "passers": 1,
-        "passRate": 33.3
-      },
-      {
-        "year": 2022,
-        "applicants": 11,
-        "passers": 6,
-        "passRate": 54.5
-      },
-      {
-        "year": 2023,
-        "applicants": 12,
-        "passers": 6,
-        "passRate": 50.0
-      },
-      {
-        "year": 2024,
-        "applicants": 13,
-        "passers": 2,
-        "passRate": 15.4
-      },
-      {
-        "year": 2025,
-        "applicants": 42,
-        "passers": 20,
-        "passRate": 47.6
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

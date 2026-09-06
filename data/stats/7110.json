@@ -3,7 +3,7 @@
   "name": "미장기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-08-30",
+  "updated": "2026-09-06",
   "schedule": [
     {
       "round": "제2회",
@@ -40,38 +40,38 @@
     }
   ],
   "stats": {
-    "written": [
+    "written": [],
+    "practical": [
       {
         "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
+        "applicants": 188,
+        "passers": 107,
+        "passRate": 56.9
       },
       {
         "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
+        "applicants": 217,
+        "passers": 110,
+        "passRate": 50.7
       },
       {
         "year": 2023,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
+        "applicants": 136,
+        "passers": 84,
+        "passRate": 61.8
       },
       {
         "year": 2024,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
+        "applicants": 103,
+        "passers": 70,
+        "passRate": 68.0
       },
       {
         "year": 2025,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
+        "applicants": 102,
+        "passers": 61,
+        "passRate": 59.8
       }
-    ],
-    "practical": []
+    ]
   }
 }
