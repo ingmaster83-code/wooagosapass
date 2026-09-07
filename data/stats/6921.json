@@ -3,7 +3,7 @@
   "name": "프로그래밍기능사",
   "series": "기능사",
   "field": "정보통신",
-  "updated": "2026-08-31",
+  "updated": "2026-09-07",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -57,37 +57,6 @@
         "passRate": 71.1
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 11264,
-        "passers": 4429,
-        "passRate": 39.3
-      },
-      {
-        "year": 2022,
-        "applicants": 10436,
-        "passers": 1861,
-        "passRate": 17.8
-      },
-      {
-        "year": 2023,
-        "applicants": 10971,
-        "passers": 2932,
-        "passRate": 26.7
-      },
-      {
-        "year": 2024,
-        "applicants": 10772,
-        "passers": 3968,
-        "passRate": 36.8
-      },
-      {
-        "year": 2025,
-        "applicants": 11943,
-        "passers": 4918,
-        "passRate": 41.2
-      }
-    ]
+    "practical": []
   }
 }

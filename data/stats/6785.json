@@ -3,12 +3,12 @@
   "name": "전자캐드기능사",
   "series": "기능사",
   "field": "전기.전자",
-  "updated": "2026-08-31",
+  "updated": "2026-09-07",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "22000",
-    "raw": "1차 : 14500, 2차 : 22000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
