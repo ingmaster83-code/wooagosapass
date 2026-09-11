@@ -3,7 +3,7 @@
   "name": "교통기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-09-04",
+  "updated": "2026-09-11",
   "schedule": [
     {
       "round": "제1회",
@@ -49,9 +49,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -68,7 +68,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1055,
+        "passers": 592,
+        "passRate": 56.1
+      },
+      {
+        "year": 2022,
+        "applicants": 922,
+        "passers": 522,
+        "passRate": 56.6
+      },
+      {
+        "year": 2023,
+        "applicants": 1151,
+        "passers": 660,
+        "passRate": 57.3
+      },
+      {
+        "year": 2024,
+        "applicants": 1008,
+        "passers": 536,
+        "passRate": 53.2
+      },
+      {
+        "year": 2025,
+        "applicants": 1171,
+        "passers": 658,
+        "passRate": 56.2
+      }
+    ],
     "practical": [
       {
         "year": 2021,

@@ -3,7 +3,7 @@
   "name": "금속재료기능장",
   "series": "기능장",
   "field": "재료",
-  "updated": "2026-09-04",
+  "updated": "2026-09-11",
   "schedule": [
     {
       "round": "제79회",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "34400",
+    "practical": "24800",
+    "raw": "1차 : 34400, 2차 : 24800"
   },
   "info": [
     {
@@ -54,38 +54,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 396,
-        "passers": 273,
-        "passRate": 68.9
-      },
-      {
-        "year": 2022,
-        "applicants": 372,
-        "passers": 248,
-        "passRate": 66.7
-      },
-      {
-        "year": 2023,
-        "applicants": 685,
-        "passers": 476,
-        "passRate": 69.5
-      },
-      {
-        "year": 2024,
-        "applicants": 970,
-        "passers": 643,
-        "passRate": 66.3
-      },
-      {
-        "year": 2025,
-        "applicants": 823,
-        "passers": 555,
-        "passRate": 67.4
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

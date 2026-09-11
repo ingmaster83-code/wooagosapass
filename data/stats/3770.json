@@ -3,7 +3,7 @@
   "name": "귀금속가공기능장",
   "series": "기능장",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-09-04",
+  "updated": "2026-09-11",
   "schedule": [
     {
       "round": "제80회",
@@ -40,38 +40,38 @@
     }
   ],
   "stats": {
-    "written": [],
-    "practical": [
+    "written": [
       {
         "year": 2021,
-        "applicants": 10,
-        "passers": 1,
-        "passRate": 10.0
+        "applicants": 12,
+        "passers": 9,
+        "passRate": 75.0
       },
       {
         "year": 2022,
-        "applicants": 8,
-        "passers": 3,
-        "passRate": 37.5
+        "applicants": 9,
+        "passers": 1,
+        "passRate": 11.1
       },
       {
         "year": 2023,
-        "applicants": 7,
-        "passers": 2,
-        "passRate": 28.6
+        "applicants": 9,
+        "passers": 6,
+        "passRate": 66.7
       },
       {
         "year": 2024,
-        "applicants": 14,
-        "passers": 6,
-        "passRate": 42.9
+        "applicants": 16,
+        "passers": 12,
+        "passRate": 75.0
       },
       {
         "year": 2025,
-        "applicants": 13,
-        "passers": 0,
-        "passRate": 0.0
+        "applicants": 11,
+        "passers": 7,
+        "passRate": 63.6
       }
-    ]
+    ],
+    "practical": []
   }
 }

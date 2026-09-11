@@ -3,7 +3,7 @@
   "name": "건설기계설비산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-09-04",
+  "updated": "2026-09-11",
   "schedule": [
     {
       "round": "제2회",
@@ -72,6 +72,37 @@
         "passRate": 27.5
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 72,
+        "passers": 40,
+        "passRate": 55.6
+      },
+      {
+        "year": 2022,
+        "applicants": 49,
+        "passers": 16,
+        "passRate": 32.7
+      },
+      {
+        "year": 2023,
+        "applicants": 29,
+        "passers": 16,
+        "passRate": 55.2
+      },
+      {
+        "year": 2024,
+        "applicants": 25,
+        "passers": 14,
+        "passRate": 56.0
+      },
+      {
+        "year": 2025,
+        "applicants": 20,
+        "passers": 7,
+        "passRate": 35.0
+      }
+    ]
   }
 }
