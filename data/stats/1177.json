@@ -3,7 +3,7 @@
   "name": "로봇기구개발기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-09-05",
+  "updated": "2026-09-12",
   "schedule": [
     {
       "round": "제3회",
@@ -40,38 +40,38 @@
     }
   ],
   "stats": {
-    "written": [],
-    "practical": [
+    "written": [
       {
         "year": 2021,
-        "applicants": 10,
-        "passers": 1,
-        "passRate": 10.0
+        "applicants": 29,
+        "passers": 10,
+        "passRate": 34.5
       },
       {
         "year": 2022,
-        "applicants": 16,
-        "passers": 3,
-        "passRate": 18.8
+        "applicants": 44,
+        "passers": 21,
+        "passRate": 47.7
       },
       {
         "year": 2023,
-        "applicants": 19,
-        "passers": 11,
-        "passRate": 57.9
+        "applicants": 53,
+        "passers": 25,
+        "passRate": 47.2
       },
       {
         "year": 2024,
-        "applicants": 21,
-        "passers": 7,
-        "passRate": 33.3
+        "applicants": 55,
+        "passers": 20,
+        "passRate": 36.4
       },
       {
         "year": 2025,
-        "applicants": 23,
-        "passers": 9,
-        "passRate": 39.1
+        "applicants": 53,
+        "passers": 17,
+        "passRate": 32.1
       }
-    ]
+    ],
+    "practical": []
   }
 }

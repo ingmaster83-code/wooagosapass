@@ -3,7 +3,7 @@
   "name": "온실가스관리기사",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-09-05",
+  "updated": "2026-09-12",
   "schedule": [
     {
       "round": "제2회",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {

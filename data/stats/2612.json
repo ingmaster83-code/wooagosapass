@@ -3,7 +3,7 @@
   "name": "초음파비파괴검사산업기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-09-05",
+  "updated": "2026-09-12",
   "schedule": [
     {
       "round": "제1회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "44100",
-    "raw": "1차 : 19400, 2차 : 44100"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
