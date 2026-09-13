@@ -3,7 +3,7 @@
   "name": "압연기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-09-06",
+  "updated": "2026-09-13",
   "schedule": [
     {
       "round": "제1회",
@@ -56,6 +56,37 @@
   "info": [],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 612,
+        "passers": 29,
+        "passRate": 4.7
+      },
+      {
+        "year": 2022,
+        "applicants": 557,
+        "passers": 117,
+        "passRate": 21.0
+      },
+      {
+        "year": 2023,
+        "applicants": 590,
+        "passers": 197,
+        "passRate": 33.4
+      },
+      {
+        "year": 2024,
+        "applicants": 737,
+        "passers": 264,
+        "passRate": 35.8
+      },
+      {
+        "year": 2025,
+        "applicants": 674,
+        "passers": 214,
+        "passRate": 31.8
+      }
+    ]
   }
 }

@@ -3,7 +3,7 @@
   "name": "승강기기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-09-06",
+  "updated": "2026-09-13",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -26,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 7659,
-        "passers": 6083,
-        "passRate": 79.4
-      },
-      {
-        "year": 2022,
-        "applicants": 5629,
-        "passers": 4381,
-        "passRate": 77.8
-      },
-      {
-        "year": 2023,
-        "applicants": 5934,
-        "passers": 4640,
-        "passRate": 78.2
-      },
-      {
-        "year": 2024,
-        "applicants": 5919,
-        "passers": 4726,
-        "passRate": 79.8
-      },
-      {
-        "year": 2025,
-        "applicants": 4437,
-        "passers": 3431,
-        "passRate": 77.3
-      }
-    ]
+    "practical": []
   }
 }

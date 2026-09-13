@@ -3,7 +3,7 @@
   "name": "선박기관정비기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-09-06",
+  "updated": "2026-09-13",
   "schedule": [
     {
       "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
@@ -55,37 +55,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 81,
-        "passers": 77,
-        "passRate": 95.1
-      },
-      {
-        "year": 2022,
-        "applicants": 77,
-        "passers": 73,
-        "passRate": 94.8
-      },
-      {
-        "year": 2023,
-        "applicants": 62,
-        "passers": 56,
-        "passRate": 90.3
-      },
-      {
-        "year": 2024,
-        "applicants": 63,
-        "passers": 54,
-        "passRate": 85.7
-      },
-      {
-        "year": 2025,
-        "applicants": 101,
-        "passers": 82,
-        "passRate": 81.2
-      }
-    ]
+    "practical": []
   }
 }

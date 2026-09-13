@@ -3,12 +3,12 @@
   "name": "세탁기능사",
   "series": "기능사",
   "field": "섬유.의복",
-  "updated": "2026-09-06",
+  "updated": "2026-09-13",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "27400",
+    "raw": "1차 : 14500, 2차 : 27400"
   },
   "info": [
     {

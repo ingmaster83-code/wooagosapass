@@ -3,12 +3,12 @@
   "name": "농기계운전기능사",
   "series": "기능사",
   "field": "운전.운송",
-  "updated": "2026-09-06",
+  "updated": "2026-09-13",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "23500",
-    "raw": "1차 : 14500, 2차 : 23500"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1349,
+        "passers": 869,
+        "passRate": 64.4
+      },
+      {
+        "year": 2022,
+        "applicants": 1241,
+        "passers": 765,
+        "passRate": 61.6
+      },
+      {
+        "year": 2023,
+        "applicants": 1457,
+        "passers": 950,
+        "passRate": 65.2
+      },
+      {
+        "year": 2024,
+        "applicants": 1296,
+        "passers": 855,
+        "passRate": 66.0
+      },
+      {
+        "year": 2025,
+        "applicants": 1354,
+        "passers": 935,
+        "passRate": 69.1
+      }
+    ],
     "practical": [
       {
         "year": 2021,

@@ -3,7 +3,7 @@
   "name": "화약류관리산업기사",
   "series": "기사",
   "field": "광업자원",
-  "updated": "2026-09-06",
+  "updated": "2026-09-13",
   "schedule": [
     {
       "round": "제1회",
@@ -40,38 +40,38 @@
     }
   ],
   "stats": {
-    "written": [],
-    "practical": [
+    "written": [
       {
         "year": 2021,
-        "applicants": 37,
-        "passers": 6,
-        "passRate": 16.2
+        "applicants": 61,
+        "passers": 23,
+        "passRate": 37.7
       },
       {
         "year": 2022,
-        "applicants": 27,
-        "passers": 7,
-        "passRate": 25.9
+        "applicants": 65,
+        "passers": 30,
+        "passRate": 46.2
       },
       {
         "year": 2023,
-        "applicants": 23,
-        "passers": 0,
-        "passRate": 0.0
+        "applicants": 63,
+        "passers": 35,
+        "passRate": 55.6
       },
       {
         "year": 2024,
-        "applicants": 29,
-        "passers": 5,
-        "passRate": 17.2
+        "applicants": 77,
+        "passers": 37,
+        "passRate": 48.1
       },
       {
         "year": 2025,
-        "applicants": 30,
-        "passers": 16,
-        "passRate": 53.3
+        "applicants": 68,
+        "passers": 33,
+        "passRate": 48.5
       }
-    ]
+    ],
+    "practical": []
   }
 }

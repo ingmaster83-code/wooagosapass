@@ -3,12 +3,12 @@
   "name": "귀금속가공기능사",
   "series": "기능사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-09-06",
+  "updated": "2026-09-13",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "47900",
+    "raw": "1차 : 14500, 2차 : 47900"
   },
   "info": [
     {

@@ -3,7 +3,7 @@
   "name": "침투비파괴검사산업기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-09-06",
+  "updated": "2026-09-13",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -26,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 576,
-        "passers": 218,
-        "passRate": 37.8
-      },
-      {
-        "year": 2022,
-        "applicants": 598,
-        "passers": 295,
-        "passRate": 49.3
-      },
-      {
-        "year": 2023,
-        "applicants": 513,
-        "passers": 263,
-        "passRate": 51.3
-      },
-      {
-        "year": 2024,
-        "applicants": 482,
-        "passers": 167,
-        "passRate": 34.6
-      },
-      {
-        "year": 2025,
-        "applicants": 345,
-        "passers": 159,
-        "passRate": 46.1
-      }
-    ]
+    "practical": []
   }
 }
