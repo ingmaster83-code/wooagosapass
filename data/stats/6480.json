@@ -3,7 +3,7 @@
   "name": "표면처리기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-09-07",
+  "updated": "2026-09-14",
   "schedule": [
     {
       "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "76200",
+    "raw": "1차 : 14500, 2차 : 76200"
   },
   "info": [
     {
@@ -54,38 +54,38 @@
     }
   ],
   "stats": {
-    "written": [
+    "written": [],
+    "practical": [
       {
         "year": 2021,
-        "applicants": 109,
-        "passers": 29,
-        "passRate": 26.6
+        "applicants": 48,
+        "passers": 45,
+        "passRate": 93.8
       },
       {
         "year": 2022,
-        "applicants": 128,
-        "passers": 31,
-        "passRate": 24.2
+        "applicants": 39,
+        "passers": 39,
+        "passRate": 100.0
       },
       {
         "year": 2023,
-        "applicants": 148,
-        "passers": 43,
-        "passRate": 29.1
+        "applicants": 51,
+        "passers": 51,
+        "passRate": 100.0
       },
       {
         "year": 2024,
-        "applicants": 258,
-        "passers": 76,
-        "passRate": 29.5
+        "applicants": 92,
+        "passers": 88,
+        "passRate": 95.7
       },
       {
         "year": 2025,
-        "applicants": 231,
-        "passers": 42,
-        "passRate": 18.2
+        "applicants": 59,
+        "passers": 57,
+        "passRate": 96.6
       }
-    ],
-    "practical": []
+    ]
   }
 }
