@@ -3,7 +3,7 @@
   "name": "건설기계설비산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-09-11",
+  "updated": "2026-09-18",
   "schedule": [
     {
       "round": "제2회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "20800",
-    "raw": "1차 : 19400, 2차 : 20800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

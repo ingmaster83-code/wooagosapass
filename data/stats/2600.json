@@ -3,7 +3,7 @@
   "name": "건설재료시험산업기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-09-11",
+  "updated": "2026-09-18",
   "schedule": [
     {
       "round": "제1회",
@@ -54,38 +54,38 @@
     }
   ],
   "stats": {
-    "written": [
+    "written": [],
+    "practical": [
       {
         "year": 2021,
-        "applicants": 438,
-        "passers": 118,
-        "passRate": 26.9
+        "applicants": 119,
+        "passers": 87,
+        "passRate": 73.1
       },
       {
         "year": 2022,
-        "applicants": 424,
-        "passers": 135,
-        "passRate": 31.8
+        "applicants": 144,
+        "passers": 100,
+        "passRate": 69.4
       },
       {
         "year": 2023,
-        "applicants": 440,
-        "passers": 137,
-        "passRate": 31.1
+        "applicants": 125,
+        "passers": 93,
+        "passRate": 74.4
       },
       {
         "year": 2024,
-        "applicants": 371,
-        "passers": 109,
-        "passRate": 29.4
+        "applicants": 131,
+        "passers": 50,
+        "passRate": 38.2
       },
       {
         "year": 2025,
-        "applicants": 332,
-        "passers": 110,
-        "passRate": 33.1
+        "applicants": 153,
+        "passers": 91,
+        "passRate": 59.5
       }
-    ],
-    "practical": []
+    ]
   }
 }

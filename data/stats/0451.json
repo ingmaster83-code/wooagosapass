@@ -3,7 +3,7 @@
   "name": "수자원개발기술사",
   "series": "기술사",
   "field": "건설",
-  "updated": "2026-09-11",
+  "updated": "2026-09-18",
   "schedule": [],
   "fee": {
     "written": "67800",
@@ -57,37 +57,6 @@
         "passRate": 8.0
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 37,
-        "passers": 28,
-        "passRate": 75.7
-      },
-      {
-        "year": 2022,
-        "applicants": 38,
-        "passers": 31,
-        "passRate": 81.6
-      },
-      {
-        "year": 2023,
-        "applicants": 20,
-        "passers": 17,
-        "passRate": 85.0
-      },
-      {
-        "year": 2024,
-        "applicants": 37,
-        "passers": 28,
-        "passRate": 75.7
-      },
-      {
-        "year": 2025,
-        "applicants": 42,
-        "passers": 23,
-        "passRate": 54.8
-      }
-    ]
+    "practical": []
   }
 }

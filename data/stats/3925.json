@@ -3,7 +3,7 @@
   "name": "이용장",
   "series": "기능장",
   "field": "이용.숙박.여행.오락.스포츠",
-  "updated": "2026-09-11",
+  "updated": "2026-09-18",
   "schedule": [
     {
       "round": "제79회",
@@ -54,38 +54,38 @@
     }
   ],
   "stats": {
-    "written": [
+    "written": [],
+    "practical": [
       {
         "year": 2021,
-        "applicants": 167,
-        "passers": 132,
-        "passRate": 79.0
+        "applicants": 201,
+        "passers": 30,
+        "passRate": 14.9
       },
       {
         "year": 2022,
-        "applicants": 155,
-        "passers": 117,
-        "passRate": 75.5
+        "applicants": 233,
+        "passers": 29,
+        "passRate": 12.4
       },
       {
         "year": 2023,
-        "applicants": 143,
-        "passers": 106,
-        "passRate": 74.1
+        "applicants": 217,
+        "passers": 15,
+        "passRate": 6.9
       },
       {
         "year": 2024,
-        "applicants": 154,
-        "passers": 109,
-        "passRate": 70.8
+        "applicants": 173,
+        "passers": 22,
+        "passRate": 12.7
       },
       {
         "year": 2025,
-        "applicants": 140,
-        "passers": 95,
-        "passRate": 67.9
+        "applicants": 156,
+        "passers": 14,
+        "passRate": 9.0
       }
-    ],
-    "practical": []
+    ]
   }
 }
