@@ -3,27 +3,12 @@
   "name": "로봇기구개발기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-09-12",
-  "schedule": [
-    {
-      "round": "제3회",
-      "written_reg_start": "2026-07-20",
-      "written_reg_end": "2026-07-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-09-09",
-      "prac_reg_start": "2026-09-21",
-      "prac_reg_end": "2026-09-28",
-      "prac_exam_start": "2026-10-24",
-      "prac_exam_end": "2026-11-13",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-09-19",
+  "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "45000",
+    "raw": "1차 : 19400, 2차 : 45000"
   },
   "info": [
     {
@@ -40,38 +25,38 @@
     }
   ],
   "stats": {
-    "written": [
+    "written": [],
+    "practical": [
       {
         "year": 2021,
-        "applicants": 29,
-        "passers": 10,
-        "passRate": 34.5
+        "applicants": 10,
+        "passers": 1,
+        "passRate": 10.0
       },
       {
         "year": 2022,
-        "applicants": 44,
-        "passers": 21,
-        "passRate": 47.7
+        "applicants": 16,
+        "passers": 3,
+        "passRate": 18.8
       },
       {
         "year": 2023,
-        "applicants": 53,
-        "passers": 25,
-        "passRate": 47.2
+        "applicants": 19,
+        "passers": 11,
+        "passRate": 57.9
       },
       {
         "year": 2024,
-        "applicants": 55,
-        "passers": 20,
-        "passRate": 36.4
+        "applicants": 21,
+        "passers": 7,
+        "passRate": 33.3
       },
       {
         "year": 2025,
-        "applicants": 53,
-        "passers": 17,
-        "passRate": 32.1
+        "applicants": 23,
+        "passers": 9,
+        "passRate": 39.1
       }
-    ],
-    "practical": []
+    ]
   }
 }

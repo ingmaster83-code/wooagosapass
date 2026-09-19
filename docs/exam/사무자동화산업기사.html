@@ -100,7 +100,7 @@
      data-next-label=""
      data-next-date="">
   <div class="banner-label">제3회 실기 원서접수 시작</div>
-  <div class="banner-dday">D-3</div>
+  <div class="banner-dday">D-2</div>
   <div class="banner-desc">2026-09-21</div>
   <div class="banner-next"></div>
 </div>
@@ -126,6 +126,8 @@
         <div class="detail-badges">
           <span class="cat-badge cat-it">정보통신</span>
           <span class="level-badge">기사</span>
+
+          <span class="level-badge" style="background:#FEF3C7;color:#92400E;">🏆 정보통신 취득자수 2위 / 9종</span>
 
         </div>
         <a href="/compare.html?a=2193" class="compare-btn-link"
@@ -218,8 +220,55 @@
 
       <!-- 합격률 차트 -->
 
+      <div class="content-section">
+        <h2>연도별 합격률</h2>
+        <div class="chart-grid">
+          <div class="chart-box">
+            <h3>필기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="writtenChart"></canvas>
+            </div>
+          </div>
+          <div class="chart-box">
+            <h3>실기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="practicalChart"></canvas>
+            </div>
+          </div>
+        </div>
+
+        <div class="ad-wrap" style="margin-top:24px;">
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6464921081676309" data-ad-slot="7080296704" data-ad-format="auto" data-full-width-responsive="true"></ins>
+            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        </div>
+      </div>
+
+      <div class="content-section">
+        <h2>연도별 응시자수 추이</h2>
+        <div class="chart-wrap-wide">
+          <canvas id="applicantsChart"></canvas>
+        </div>
+      </div>
+
 
       <!-- 난이도 -->
+
+      <div class="content-section">
+        <h2>난이도</h2>
+        <div class="difficulty-box">
+          <div class="stars">
+            <span>★</span>
+            <span class="empty">☆</span>
+            <span class="empty">☆</span>
+            <span class="empty">☆</span>
+            <span class="empty">☆</span>
+          </div>
+          <div class="difficulty-info">
+            <div class="difficulty-level">쉬움</div>
+            <div class="difficulty-detail">최근 3개년 평균 실기 합격률: 72.0% · 필기 합격률: 56.4%</div>
+          </div>
+        </div>
+      </div>
 
 
       <!-- 관련 자격증 -->
@@ -232,7 +281,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-it" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-19</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-18</span>
 
             </div>
             <div class="related-name">정보관리기술사</div>
@@ -245,7 +294,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-it" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-19</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-18</span>
 
             </div>
             <div class="related-name">컴퓨터시스템응용기술사</div>
@@ -258,10 +307,12 @@
             <div class="related-badges">
               <span class="cat-badge cat-it" style="font-size:0.7rem;padding:2px 7px;">기사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:#DC2626;">D-3</span>
+              <span style="font-size:0.75rem;font-weight:700;color:#DC2626;">D-2</span>
 
             </div>
             <div class="related-name">멀티미디어콘텐츠제작전문가</div>
+
+            <div class="related-passrate">실기 합격률 <strong>64.9%</strong></div>
 
           </a>
 
@@ -309,7 +360,30 @@
         </div>
 
 
+        <div class="info-row">
+          <span class="info-label">최근 응시자</span>
+          <span class="info-value">12,480명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
 
+
+        <div class="info-row">
+          <span class="info-label">최근 합격자</span>
+          <span class="info-value">7,332명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
+
+
+
+
+        <div class="info-row">
+          <span class="info-label">필기 합격률 추이</span>
+          <span class="info-value" style="font-size:0.8125rem;color:var(--text-secondary);">→ 보합세</span>
+        </div>
+
+
+        <div class="info-row">
+          <span class="info-label">실기 합격률 추이</span>
+          <span class="info-value" style="font-size:0.8125rem;color:var(--text-secondary);">→ 보합세</span>
+        </div>
 
 
         <a href="https://wooagosa.wooahouse.com/" target="_blank" rel="noopener"
@@ -377,6 +451,13 @@
   </div>
 </footer>
 
+
+<!-- 차트 데이터 -->
+<script id="stats-data" type="application/json">
+[{"year": 2021, "writtenApplicants": 12044, "writtenPassRate": 56.8, "practicalApplicants": 7306, "practicalPassRate": 67.1}, {"year": 2022, "writtenApplicants": 10619, "writtenPassRate": 55.6, "practicalApplicants": 6461, "practicalPassRate": 70.9}, {"year": 2023, "writtenApplicants": 11142, "writtenPassRate": 56.0, "practicalApplicants": 6678, "practicalPassRate": 70.8}, {"year": 2024, "writtenApplicants": 10801, "writtenPassRate": 54.3, "practicalApplicants": 6140, "practicalPassRate": 72.2}, {"year": 2025, "writtenApplicants": 12480, "writtenPassRate": 58.8, "practicalApplicants": 7603, "practicalPassRate": 72.9}]
+</script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="/js/detail.js?v=2"></script>
 
 
 </body>

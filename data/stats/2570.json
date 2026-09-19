@@ -3,12 +3,27 @@
   "name": "바이오화학제품제조산업기사",
   "series": "기사",
   "field": "화학",
-  "updated": "2026-09-12",
-  "schedule": [],
+  "updated": "2026-09-19",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "19400",
-    "practical": "140000",
-    "raw": "1차 : 19400, 2차 : 140000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -25,38 +40,38 @@
     }
   ],
   "stats": {
-    "written": [],
-    "practical": [
+    "written": [
       {
         "year": 2021,
-        "applicants": 198,
-        "passers": 59,
-        "passRate": 29.8
+        "applicants": 451,
+        "passers": 300,
+        "passRate": 66.5
       },
       {
         "year": 2022,
-        "applicants": 189,
-        "passers": 20,
-        "passRate": 10.6
+        "applicants": 366,
+        "passers": 230,
+        "passRate": 62.8
       },
       {
         "year": 2023,
-        "applicants": 185,
-        "passers": 68,
-        "passRate": 36.8
+        "applicants": 351,
+        "passers": 238,
+        "passRate": 67.8
       },
       {
         "year": 2024,
-        "applicants": 199,
-        "passers": 111,
-        "passRate": 55.8
+        "applicants": 411,
+        "passers": 241,
+        "passRate": 58.6
       },
       {
         "year": 2025,
-        "applicants": 174,
-        "passers": 119,
-        "passRate": 68.4
+        "applicants": 325,
+        "passers": 192,
+        "passRate": 59.1
       }
-    ]
+    ],
+    "practical": []
   }
 }
