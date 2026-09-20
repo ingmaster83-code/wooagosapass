@@ -3,27 +3,12 @@
   "name": "석공기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-09-13",
-  "schedule": [
-    {
-      "round": "제2회",
-      "written_reg_start": "",
-      "written_reg_end": "",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "",
-      "prac_reg_start": "2026-04-27",
-      "prac_reg_end": "2026-04-30",
-      "prac_exam_start": "2026-05-30",
-      "prac_exam_end": "2026-06-14",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-09-20",
+  "schedule": [],
   "fee": {
-    "written": "",
+    "written": "50200",
     "practical": "",
-    "raw": ""
+    "raw": ", 2차 : 50200"
   },
   "info": [
     {
@@ -40,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2022,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2023,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2024,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      },
+      {
+        "year": 2025,
+        "applicants": 0,
+        "passers": 0,
+        "passRate": 0.0
+      }
+    ],
     "practical": []
   }
 }
