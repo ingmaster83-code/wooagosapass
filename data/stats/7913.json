@@ -3,12 +3,12 @@
   "name": "중식조리기능사",
   "series": "기능사",
   "field": "음식서비스",
-  "updated": "2026-09-14",
+  "updated": "2026-09-21",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "28500",
+    "raw": "1차 : 14500, 2차 : 28500"
   },
   "info": [
     {
@@ -26,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 12633,
-        "passers": 4881,
-        "passRate": 38.6
-      },
-      {
-        "year": 2022,
-        "applicants": 10121,
-        "passers": 4078,
-        "passRate": 40.3
-      },
-      {
-        "year": 2023,
-        "applicants": 8518,
-        "passers": 3448,
-        "passRate": 40.5
-      },
-      {
-        "year": 2024,
-        "applicants": 8362,
-        "passers": 3478,
-        "passRate": 41.6
-      },
-      {
-        "year": 2025,
-        "applicants": 8458,
-        "passers": 3483,
-        "passRate": 41.2
-      }
-    ]
+    "practical": []
   }
 }

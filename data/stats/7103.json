@@ -3,37 +3,8 @@
   "name": "플라스틱창호기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-09-14",
-  "schedule": [
-    {
-      "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
-      "written_reg_start": "",
-      "written_reg_end": "",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "",
-      "prac_reg_start": "2026-05-11",
-      "prac_reg_end": "2026-05-14",
-      "prac_exam_start": "2026-06-13",
-      "prac_exam_end": "2026-06-24",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    },
-    {
-      "round": "제2회",
-      "written_reg_start": "2026-03-16",
-      "written_reg_end": "2026-03-20",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-04-22",
-      "prac_reg_start": "2026-04-27",
-      "prac_reg_end": "2026-04-30",
-      "prac_exam_start": "2026-05-30",
-      "prac_exam_end": "2026-06-14",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-09-21",
+  "schedule": [],
   "fee": {
     "written": "14500",
     "practical": "79900",
@@ -86,37 +57,6 @@
         "passRate": 67.4
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 192,
-        "passers": 99,
-        "passRate": 51.6
-      },
-      {
-        "year": 2022,
-        "applicants": 154,
-        "passers": 81,
-        "passRate": 52.6
-      },
-      {
-        "year": 2023,
-        "applicants": 177,
-        "passers": 105,
-        "passRate": 59.3
-      },
-      {
-        "year": 2024,
-        "applicants": 143,
-        "passers": 93,
-        "passRate": 65.0
-      },
-      {
-        "year": 2025,
-        "applicants": 98,
-        "passers": 48,
-        "passRate": 49.0
-      }
-    ]
+    "practical": []
   }
 }
