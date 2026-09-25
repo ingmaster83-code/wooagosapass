@@ -3,12 +3,27 @@
   "name": "가구제작산업기사",
   "series": "기사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-09-18",
-  "schedule": [],
+  "updated": "2026-09-25",
+  "schedule": [
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "19400",
-    "practical": "145000",
-    "raw": "1차 : 19400, 2차 : 145000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -26,37 +41,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 82,
-        "passers": 32,
-        "passRate": 39.0
-      },
-      {
-        "year": 2022,
-        "applicants": 71,
-        "passers": 22,
-        "passRate": 31.0
-      },
-      {
-        "year": 2023,
-        "applicants": 82,
-        "passers": 32,
-        "passRate": 39.0
-      },
-      {
-        "year": 2024,
-        "applicants": 66,
-        "passers": 32,
-        "passRate": 48.5
-      },
-      {
-        "year": 2025,
-        "applicants": 72,
-        "passers": 44,
-        "passRate": 61.1
-      }
-    ]
+    "practical": []
   }
 }

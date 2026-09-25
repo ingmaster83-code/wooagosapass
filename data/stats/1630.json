@@ -3,7 +3,7 @@
   "name": "건축기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-09-18",
+  "updated": "2026-09-25",
   "schedule": [
     {
       "round": "제1회",
@@ -49,9 +49,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "22600",
+    "raw": "1차 : 19400, 2차 : 22600"
   },
   "info": [
     {
@@ -68,38 +68,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 21186,
-        "passers": 7165,
-        "passRate": 33.8
-      },
-      {
-        "year": 2022,
-        "applicants": 20262,
-        "passers": 7409,
-        "passRate": 36.6
-      },
-      {
-        "year": 2023,
-        "applicants": 21986,
-        "passers": 8274,
-        "passRate": 37.6
-      },
-      {
-        "year": 2024,
-        "applicants": 21802,
-        "passers": 8841,
-        "passRate": 40.6
-      },
-      {
-        "year": 2025,
-        "applicants": 22584,
-        "passers": 9429,
-        "passRate": 41.8
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

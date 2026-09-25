@@ -3,7 +3,7 @@
   "name": "판금제관기능장",
   "series": "기능장",
   "field": "재료",
-  "updated": "2026-09-18",
+  "updated": "2026-09-25",
   "schedule": [],
   "fee": {
     "written": "34400",
@@ -26,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 11,
-        "passers": 5,
-        "passRate": 45.5
-      },
-      {
-        "year": 2022,
-        "applicants": 21,
-        "passers": 17,
-        "passRate": 81.0
-      },
-      {
-        "year": 2023,
-        "applicants": 19,
-        "passers": 10,
-        "passRate": 52.6
-      },
-      {
-        "year": 2024,
-        "applicants": 20,
-        "passers": 13,
-        "passRate": 65.0
-      },
-      {
-        "year": 2025,
-        "applicants": 16,
-        "passers": 12,
-        "passRate": 75.0
-      }
-    ]
+    "practical": []
   }
 }
