@@ -3,7 +3,7 @@
   "name": "철도차량산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-09-19",
+  "updated": "2026-09-26",
   "schedule": [
     {
       "round": "제1회",
@@ -72,37 +72,6 @@
         "passRate": 15.0
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2022,
-        "applicants": 1,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2023,
-        "applicants": 1,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2024,
-        "applicants": 1,
-        "passers": 0,
-        "passRate": 0.0
-      },
-      {
-        "year": 2025,
-        "applicants": 2,
-        "passers": 0,
-        "passRate": 0.0
-      }
-    ]
+    "practical": []
   }
 }

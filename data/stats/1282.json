@@ -3,7 +3,7 @@
   "name": "실내건축기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-09-19",
+  "updated": "2026-09-26",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -26,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 1717,
-        "passers": 1226,
-        "passRate": 71.4
-      },
-      {
-        "year": 2022,
-        "applicants": 1969,
-        "passers": 1142,
-        "passRate": 58.0
-      },
-      {
-        "year": 2023,
-        "applicants": 2121,
-        "passers": 1138,
-        "passRate": 53.7
-      },
-      {
-        "year": 2024,
-        "applicants": 2457,
-        "passers": 1154,
-        "passRate": 47.0
-      },
-      {
-        "year": 2025,
-        "applicants": 2226,
-        "passers": 1233,
-        "passRate": 55.4
-      }
-    ]
+    "practical": []
   }
 }

@@ -3,7 +3,7 @@
   "name": "전자산업기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-09-19",
+  "updated": "2026-09-26",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -57,6 +57,37 @@
         "passRate": 7.3
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 166,
+        "passers": 122,
+        "passRate": 73.5
+      },
+      {
+        "year": 2022,
+        "applicants": 124,
+        "passers": 88,
+        "passRate": 71.0
+      },
+      {
+        "year": 2023,
+        "applicants": 90,
+        "passers": 59,
+        "passRate": 65.6
+      },
+      {
+        "year": 2024,
+        "applicants": 45,
+        "passers": 26,
+        "passRate": 57.8
+      },
+      {
+        "year": 2025,
+        "applicants": 13,
+        "passers": 7,
+        "passRate": 53.8
+      }
+    ]
   }
 }

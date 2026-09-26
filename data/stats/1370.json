@@ -3,7 +3,7 @@
   "name": "조경기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-09-19",
+  "updated": "2026-09-26",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -57,6 +57,37 @@
         "passRate": 20.9
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1694,
+        "passers": 730,
+        "passRate": 43.1
+      },
+      {
+        "year": 2022,
+        "applicants": 2035,
+        "passers": 864,
+        "passRate": 42.5
+      },
+      {
+        "year": 2023,
+        "applicants": 1991,
+        "passers": 652,
+        "passRate": 32.7
+      },
+      {
+        "year": 2024,
+        "applicants": 2382,
+        "passers": 1123,
+        "passRate": 47.1
+      },
+      {
+        "year": 2025,
+        "applicants": 1739,
+        "passers": 662,
+        "passRate": 38.1
+      }
+    ]
   }
 }
