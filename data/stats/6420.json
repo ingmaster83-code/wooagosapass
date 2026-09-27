@@ -3,7 +3,7 @@
   "name": "열처리기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-09-20",
+  "updated": "2026-09-27",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -26,6 +26,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 415,
+        "passers": 405,
+        "passRate": 97.6
+      },
+      {
+        "year": 2022,
+        "applicants": 309,
+        "passers": 281,
+        "passRate": 90.9
+      },
+      {
+        "year": 2023,
+        "applicants": 251,
+        "passers": 239,
+        "passRate": 95.2
+      },
+      {
+        "year": 2024,
+        "applicants": 277,
+        "passers": 270,
+        "passRate": 97.5
+      },
+      {
+        "year": 2025,
+        "applicants": 260,
+        "passers": 243,
+        "passRate": 93.5
+      }
+    ]
   }
 }
