@@ -3,12 +3,12 @@
   "name": "조적기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-09-21",
+  "updated": "2026-09-28",
   "schedule": [],
   "fee": {
-    "written": "62600",
+    "written": "",
     "practical": "",
-    "raw": ", 2차 : 62600"
+    "raw": ""
   },
   "info": [
     {
@@ -25,38 +25,38 @@
     }
   ],
   "stats": {
-    "written": [
+    "written": [],
+    "practical": [
       {
         "year": 2021,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
+        "applicants": 228,
+        "passers": 134,
+        "passRate": 58.8
       },
       {
         "year": 2022,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
+        "applicants": 209,
+        "passers": 144,
+        "passRate": 68.9
       },
       {
         "year": 2023,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
+        "applicants": 209,
+        "passers": 129,
+        "passRate": 61.7
       },
       {
         "year": 2024,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
+        "applicants": 114,
+        "passers": 49,
+        "passRate": 43.0
       },
       {
         "year": 2025,
-        "applicants": 0,
-        "passers": 0,
-        "passRate": 0.0
+        "applicants": 116,
+        "passers": 60,
+        "passRate": 51.7
       }
-    ],
-    "practical": []
+    ]
   }
 }

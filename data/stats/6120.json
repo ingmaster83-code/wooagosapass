@@ -3,8 +3,37 @@
   "name": "정밀측정기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-09-21",
-  "schedule": [],
+  "updated": "2026-09-28",
+  "schedule": [
+    {
+      "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
+      "written_reg_start": "",
+      "written_reg_end": "",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "",
+      "prac_reg_start": "2026-05-11",
+      "prac_reg_end": "2026-05-14",
+      "prac_exam_start": "2026-06-13",
+      "prac_exam_end": "2026-06-24",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-06-08",
+      "written_reg_end": "2026-06-11",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-07-15",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-30",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-09-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "14500",
     "practical": "26200",
@@ -26,6 +55,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 77,
+        "passers": 46,
+        "passRate": 59.7
+      },
+      {
+        "year": 2022,
+        "applicants": 80,
+        "passers": 64,
+        "passRate": 80.0
+      },
+      {
+        "year": 2023,
+        "applicants": 133,
+        "passers": 98,
+        "passRate": 73.7
+      },
+      {
+        "year": 2024,
+        "applicants": 115,
+        "passers": 86,
+        "passRate": 74.8
+      },
+      {
+        "year": 2025,
+        "applicants": 145,
+        "passers": 93,
+        "passRate": 64.1
+      }
+    ]
   }
 }

@@ -3,7 +3,7 @@
   "name": "중식조리기능사",
   "series": "기능사",
   "field": "음식서비스",
-  "updated": "2026-09-21",
+  "updated": "2026-09-28",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -25,7 +25,69 @@
     }
   ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 17613,
+        "passers": 9907,
+        "passRate": 56.2
+      },
+      {
+        "year": 2022,
+        "applicants": 13496,
+        "passers": 7238,
+        "passRate": 53.6
+      },
+      {
+        "year": 2023,
+        "applicants": 13233,
+        "passers": 6959,
+        "passRate": 52.6
+      },
+      {
+        "year": 2024,
+        "applicants": 12975,
+        "passers": 6516,
+        "passRate": 50.2
+      },
+      {
+        "year": 2025,
+        "applicants": 13037,
+        "passers": 6415,
+        "passRate": 49.2
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 12633,
+        "passers": 4881,
+        "passRate": 38.6
+      },
+      {
+        "year": 2022,
+        "applicants": 10121,
+        "passers": 4078,
+        "passRate": 40.3
+      },
+      {
+        "year": 2023,
+        "applicants": 8518,
+        "passers": 3448,
+        "passRate": 40.5
+      },
+      {
+        "year": 2024,
+        "applicants": 8362,
+        "passers": 3478,
+        "passRate": 41.6
+      },
+      {
+        "year": 2025,
+        "applicants": 8458,
+        "passers": 3483,
+        "passRate": 41.2
+      }
+    ]
   }
 }
