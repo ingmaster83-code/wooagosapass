@@ -3,7 +3,7 @@
   "name": "산림기술사",
   "series": "기술사",
   "field": "농림어업",
-  "updated": "2026-09-25",
+  "updated": "2026-10-02",
   "schedule": [
     {
       "round": "제138회",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "67800",
+    "practical": "87100",
+    "raw": "1차 : 67800, 2차 : 87100"
   },
   "info": [
     {
@@ -86,37 +86,6 @@
         "passRate": 6.9
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 15,
-        "passers": 5,
-        "passRate": 33.3
-      },
-      {
-        "year": 2022,
-        "applicants": 6,
-        "passers": 2,
-        "passRate": 33.3
-      },
-      {
-        "year": 2023,
-        "applicants": 14,
-        "passers": 9,
-        "passRate": 64.3
-      },
-      {
-        "year": 2024,
-        "applicants": 8,
-        "passers": 2,
-        "passRate": 25.0
-      },
-      {
-        "year": 2025,
-        "applicants": 20,
-        "passers": 7,
-        "passRate": 35.0
-      }
-    ]
+    "practical": []
   }
 }

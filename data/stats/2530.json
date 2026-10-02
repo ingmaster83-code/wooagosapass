@@ -3,7 +3,7 @@
   "name": "건축산업기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-09-25",
+  "updated": "2026-10-02",
   "schedule": [
     {
       "round": "제1회",
@@ -68,38 +68,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 4082,
-        "passers": 1090,
-        "passRate": 26.7
-      },
-      {
-        "year": 2022,
-        "applicants": 4016,
-        "passers": 1008,
-        "passRate": 25.1
-      },
-      {
-        "year": 2023,
-        "applicants": 4030,
-        "passers": 1137,
-        "passRate": 28.2
-      },
-      {
-        "year": 2024,
-        "applicants": 3502,
-        "passers": 1025,
-        "passRate": 29.3
-      },
-      {
-        "year": 2025,
-        "applicants": 3217,
-        "passers": 898,
-        "passRate": 27.9
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,
