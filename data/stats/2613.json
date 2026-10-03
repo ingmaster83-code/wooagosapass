@@ -3,7 +3,7 @@
   "name": "자기비파괴검사산업기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-09-26",
+  "updated": "2026-10-03",
   "schedule": [
     {
       "round": "제1회",
@@ -41,37 +41,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 136,
-        "passers": 60,
-        "passRate": 44.1
-      },
-      {
-        "year": 2022,
-        "applicants": 117,
-        "passers": 50,
-        "passRate": 42.7
-      },
-      {
-        "year": 2023,
-        "applicants": 48,
-        "passers": 15,
-        "passRate": 31.2
-      },
-      {
-        "year": 2024,
-        "applicants": 42,
-        "passers": 17,
-        "passRate": 40.5
-      },
-      {
-        "year": 2025,
-        "applicants": 37,
-        "passers": 21,
-        "passRate": 56.8
-      }
-    ]
+    "practical": []
   }
 }

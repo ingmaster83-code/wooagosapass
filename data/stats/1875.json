@@ -3,7 +3,7 @@
   "name": "인간공학기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-09-26",
+  "updated": "2026-10-03",
   "schedule": [
     {
       "round": "제1회",
@@ -68,7 +68,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1573,
+        "passers": 1288,
+        "passRate": 81.9
+      },
+      {
+        "year": 2022,
+        "applicants": 2129,
+        "passers": 1490,
+        "passRate": 70.0
+      },
+      {
+        "year": 2023,
+        "applicants": 5494,
+        "passers": 4129,
+        "passRate": 75.2
+      },
+      {
+        "year": 2024,
+        "applicants": 8182,
+        "passers": 5686,
+        "passRate": 69.5
+      },
+      {
+        "year": 2025,
+        "applicants": 8617,
+        "passers": 5996,
+        "passRate": 69.6
+      }
+    ],
     "practical": [
       {
         "year": 2021,

@@ -3,27 +3,12 @@
   "name": "누설비파괴검사기사",
   "series": "기사",
   "field": "안전관리",
-  "updated": "2026-09-26",
-  "schedule": [
-    {
-      "round": "제2회",
-      "written_reg_start": "2026-04-20",
-      "written_reg_end": "2026-04-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-06-10",
-      "prac_reg_start": "2026-06-22",
-      "prac_reg_end": "2026-06-25",
-      "prac_exam_start": "2026-07-18",
-      "prac_exam_end": "2026-08-05",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-10-03",
+  "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "38300",
+    "raw": "1차 : 19400, 2차 : 38300"
   },
   "info": [
     {
@@ -40,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 283,
+        "passers": 129,
+        "passRate": 45.6
+      },
+      {
+        "year": 2022,
+        "applicants": 200,
+        "passers": 109,
+        "passRate": 54.5
+      },
+      {
+        "year": 2023,
+        "applicants": 108,
+        "passers": 68,
+        "passRate": 63.0
+      },
+      {
+        "year": 2024,
+        "applicants": 180,
+        "passers": 98,
+        "passRate": 54.4
+      },
+      {
+        "year": 2025,
+        "applicants": 162,
+        "passers": 94,
+        "passRate": 58.0
+      }
+    ],
     "practical": [
       {
         "year": 2021,

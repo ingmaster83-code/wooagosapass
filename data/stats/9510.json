@@ -3,7 +3,7 @@
   "name": "직업상담사1급",
   "series": "기사",
   "field": "사회복지.종교",
-  "updated": "2026-09-26",
+  "updated": "2026-10-03",
   "schedule": [
     {
       "round": "제3회",
@@ -59,6 +59,37 @@
         "passRate": 55.3
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 389,
+        "passers": 259,
+        "passRate": 66.6
+      },
+      {
+        "year": 2022,
+        "applicants": 459,
+        "passers": 330,
+        "passRate": 71.9
+      },
+      {
+        "year": 2023,
+        "applicants": 512,
+        "passers": 343,
+        "passRate": 67.0
+      },
+      {
+        "year": 2024,
+        "applicants": 600,
+        "passers": 425,
+        "passRate": 70.8
+      },
+      {
+        "year": 2025,
+        "applicants": 363,
+        "passers": 31,
+        "passRate": 8.5
+      }
+    ]
   }
 }
