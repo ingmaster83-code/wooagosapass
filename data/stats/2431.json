@@ -3,7 +3,7 @@
   "name": "포장산업기사",
   "series": "기사",
   "field": "경영.회계.사무",
-  "updated": "2026-09-27",
+  "updated": "2026-10-04",
   "schedule": [
     {
       "round": "제2회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "20800",
-    "raw": "1차 : 19400, 2차 : 20800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

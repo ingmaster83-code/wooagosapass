@@ -101,14 +101,14 @@
 <!-- ===== D-Day Banner ===== -->
 
 <div id="dday-banner"
-     class="dday-banner color-warning"
+     class="dday-banner color-urgent"
      data-start="2026-10-07"
      data-end="2026-10-07"
      data-event-label="제4회 필기 합격발표"
      data-next-label=""
      data-next-date="">
   <div class="banner-label">제4회 필기 합격발표</div>
-  <div class="banner-dday">D-4</div>
+  <div class="banner-dday">D-3</div>
   <div class="banner-desc">2026-10-07</div>
   <div class="banner-next"></div>
 </div>
@@ -264,6 +264,23 @@
 
       <!-- 난이도 -->
 
+      <div class="content-section">
+        <h2>난이도</h2>
+        <div class="difficulty-box">
+          <div class="stars">
+            <span>★</span>
+            <span>★</span>
+            <span class="empty">☆</span>
+            <span class="empty">☆</span>
+            <span class="empty">☆</span>
+          </div>
+          <div class="difficulty-info">
+            <div class="difficulty-level">보통</div>
+            <div class="difficulty-detail">최근 3개년 평균 실기 합격률: 100.0% · 필기 합격률: 15.0%</div>
+          </div>
+        </div>
+      </div>
+
 
       <!-- 관련 자격증 -->
 
@@ -275,7 +292,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-default" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:#D97706;">D-4</span>
+              <span style="font-size:0.75rem;font-weight:700;color:#DC2626;">D-3</span>
 
             </div>
             <div class="related-name">기상예보기술사</div>
@@ -288,7 +305,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-default" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:#D97706;">D-4</span>
+              <span style="font-size:0.75rem;font-weight:700;color:#DC2626;">D-3</span>
 
             </div>
             <div class="related-name">대기관리기술사</div>
@@ -301,7 +318,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-default" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:#D97706;">D-4</span>
+              <span style="font-size:0.75rem;font-weight:700;color:#DC2626;">D-3</span>
 
             </div>
             <div class="related-name">소음진동기술사</div>
@@ -360,6 +377,11 @@
         </div>
 
 
+
+        <div class="info-row">
+          <span class="info-label">필기→실기 전환율</span>
+          <span class="info-value">100.0%</span>
+        </div>
 
 
 
@@ -438,7 +460,7 @@
 
 <!-- 차트 데이터 -->
 <script id="stats-data" type="application/json">
-[{"year": 2021, "writtenApplicants": 3, "writtenPassRate": 33.3, "practicalApplicants": 0, "practicalPassRate": 0}, {"year": 2022, "writtenApplicants": 5, "writtenPassRate": 20.0, "practicalApplicants": 0, "practicalPassRate": 0}, {"year": 2023, "writtenApplicants": 5, "writtenPassRate": 20.0, "practicalApplicants": 0, "practicalPassRate": 0}, {"year": 2024, "writtenApplicants": 10, "writtenPassRate": 10.0, "practicalApplicants": 0, "practicalPassRate": 0}, {"year": 2025, "writtenApplicants": 9, "writtenPassRate": 0.0, "practicalApplicants": 0, "practicalPassRate": 0}]
+[{"year": 2021, "writtenApplicants": 3, "writtenPassRate": 33.3, "practicalApplicants": 1, "practicalPassRate": 100.0}, {"year": 2022, "writtenApplicants": 5, "writtenPassRate": 20.0, "practicalApplicants": 0, "practicalPassRate": 0.0}, {"year": 2023, "writtenApplicants": 5, "writtenPassRate": 20.0, "practicalApplicants": 1, "practicalPassRate": 100.0}, {"year": 2024, "writtenApplicants": 10, "writtenPassRate": 10.0, "practicalApplicants": 0, "practicalPassRate": 0.0}, {"year": 2025, "writtenApplicants": 9, "writtenPassRate": 0.0, "practicalApplicants": 0, "practicalPassRate": 0.0}]
 </script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script src="/js/detail.js?v=2"></script>

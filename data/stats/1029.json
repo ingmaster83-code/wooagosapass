@@ -3,7 +3,7 @@
   "name": "환경위해관리기사",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-09-27",
+  "updated": "2026-10-04",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {

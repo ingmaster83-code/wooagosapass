@@ -3,7 +3,7 @@
   "name": "버섯종균기능사",
   "series": "기능사",
   "field": "농림어업",
-  "updated": "2026-09-27",
+  "updated": "2026-10-04",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -57,6 +57,37 @@
         "passRate": 49.6
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1045,
+        "passers": 932,
+        "passRate": 89.2
+      },
+      {
+        "year": 2022,
+        "applicants": 901,
+        "passers": 750,
+        "passRate": 83.2
+      },
+      {
+        "year": 2023,
+        "applicants": 774,
+        "passers": 681,
+        "passRate": 88.0
+      },
+      {
+        "year": 2024,
+        "applicants": 717,
+        "passers": 628,
+        "passRate": 87.6
+      },
+      {
+        "year": 2025,
+        "applicants": 509,
+        "passers": 456,
+        "passRate": 89.6
+      }
+    ]
   }
 }
