@@ -3,7 +3,7 @@
   "name": "주택관리사보",
   "series": "주택관리사보",
   "field": "",
-  "updated": "2026-09-28",
+  "updated": "2026-10-06",
   "schedule": [
     {
       "round": "제29회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "21000",
-    "practical": "14000",
-    "raw": "1차 : 21000, 2차 : 14000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

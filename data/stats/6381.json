@@ -3,7 +3,7 @@
   "name": "축로기능사",
   "series": "기능사",
   "field": "재료",
-  "updated": "2026-09-28",
+  "updated": "2026-10-05",
   "schedule": [
     {
       "round": "제2회",
@@ -40,38 +40,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 112,
-        "passers": 59,
-        "passRate": 52.7
-      },
-      {
-        "year": 2022,
-        "applicants": 80,
-        "passers": 35,
-        "passRate": 43.8
-      },
-      {
-        "year": 2023,
-        "applicants": 114,
-        "passers": 61,
-        "passRate": 53.5
-      },
-      {
-        "year": 2024,
-        "applicants": 78,
-        "passers": 29,
-        "passRate": 37.2
-      },
-      {
-        "year": 2025,
-        "applicants": 97,
-        "passers": 34,
-        "passRate": 35.1
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,
