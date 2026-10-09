@@ -3,27 +3,12 @@
   "name": "광학기기산업기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-10-02",
-  "schedule": [
-    {
-      "round": "제2회",
-      "written_reg_start": "2026-04-20",
-      "written_reg_end": "2026-04-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-06-10",
-      "prac_reg_start": "2026-06-22",
-      "prac_reg_end": "2026-06-25",
-      "prac_exam_start": "2026-07-18",
-      "prac_exam_end": "2026-08-05",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-10-09",
+  "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "89000",
+    "raw": "1차 : 19400, 2차 : 89000"
   },
   "info": [
     {
@@ -40,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 29,
+        "passers": 6,
+        "passRate": 20.7
+      },
+      {
+        "year": 2022,
+        "applicants": 10,
+        "passers": 1,
+        "passRate": 10.0
+      },
+      {
+        "year": 2023,
+        "applicants": 10,
+        "passers": 4,
+        "passRate": 40.0
+      },
+      {
+        "year": 2024,
+        "applicants": 14,
+        "passers": 4,
+        "passRate": 28.6
+      },
+      {
+        "year": 2025,
+        "applicants": 7,
+        "passers": 0,
+        "passRate": 0.0
+      }
+    ],
     "practical": [
       {
         "year": 2021,

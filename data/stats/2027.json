@@ -3,12 +3,12 @@
   "name": "농업기계산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-10-02",
+  "updated": "2026-10-09",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "42300",
+    "raw": "1차 : 19400, 2차 : 42300"
   },
   "info": [
     {
@@ -25,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 353,
-        "passers": 115,
-        "passRate": 32.6
-      },
-      {
-        "year": 2022,
-        "applicants": 396,
-        "passers": 122,
-        "passRate": 30.8
-      },
-      {
-        "year": 2023,
-        "applicants": 422,
-        "passers": 125,
-        "passRate": 29.6
-      },
-      {
-        "year": 2024,
-        "applicants": 388,
-        "passers": 109,
-        "passRate": 28.1
-      },
-      {
-        "year": 2025,
-        "applicants": 340,
-        "passers": 82,
-        "passRate": 24.1
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

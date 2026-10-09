@@ -3,12 +3,12 @@
   "name": "공조냉동기계산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-10-02",
+  "updated": "2026-10-09",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "83900",
+    "raw": "1차 : 19400, 2차 : 83900"
   },
   "info": [
     {
@@ -57,6 +57,37 @@
         "passRate": 26.7
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 4195,
+        "passers": 2678,
+        "passRate": 63.8
+      },
+      {
+        "year": 2022,
+        "applicants": 3272,
+        "passers": 1990,
+        "passRate": 60.8
+      },
+      {
+        "year": 2023,
+        "applicants": 3282,
+        "passers": 1702,
+        "passRate": 51.9
+      },
+      {
+        "year": 2024,
+        "applicants": 3636,
+        "passers": 1765,
+        "passRate": 48.5
+      },
+      {
+        "year": 2025,
+        "applicants": 4117,
+        "passers": 2083,
+        "passRate": 50.6
+      }
+    ]
   }
 }

@@ -3,23 +3,8 @@
   "name": "광학기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-10-02",
-  "schedule": [
-    {
-      "round": "제2회",
-      "written_reg_start": "2026-04-20",
-      "written_reg_end": "2026-04-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-06-10",
-      "prac_reg_start": "2026-06-22",
-      "prac_reg_end": "2026-06-25",
-      "prac_exam_start": "2026-07-18",
-      "prac_exam_end": "2026-08-05",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-10-09",
+  "schedule": [],
   "fee": {
     "written": "19400",
     "practical": "22600",
@@ -40,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 116,
-        "passers": 66,
-        "passRate": 56.9
-      },
-      {
-        "year": 2022,
-        "applicants": 85,
-        "passers": 25,
-        "passRate": 29.4
-      },
-      {
-        "year": 2023,
-        "applicants": 95,
-        "passers": 46,
-        "passRate": 48.4
-      },
-      {
-        "year": 2024,
-        "applicants": 78,
-        "passers": 27,
-        "passRate": 34.6
-      },
-      {
-        "year": 2025,
-        "applicants": 78,
-        "passers": 30,
-        "passRate": 38.5
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

@@ -3,7 +3,7 @@
   "name": "판금제관기능장",
   "series": "기능장",
   "field": "재료",
-  "updated": "2026-10-02",
+  "updated": "2026-10-09",
   "schedule": [
     {
       "round": "제79회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "34400",
-    "practical": "122900",
-    "raw": "1차 : 34400, 2차 : 122900"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
