@@ -3,7 +3,7 @@
   "name": "시각디자인기사",
   "series": "기사",
   "field": "문화.예술.디자인.방송",
-  "updated": "2026-10-03",
+  "updated": "2026-10-10",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -26,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 256,
-        "passers": 157,
-        "passRate": 61.3
-      },
-      {
-        "year": 2022,
-        "applicants": 234,
-        "passers": 144,
-        "passRate": 61.5
-      },
-      {
-        "year": 2023,
-        "applicants": 206,
-        "passers": 108,
-        "passRate": 52.4
-      },
-      {
-        "year": 2024,
-        "applicants": 236,
-        "passers": 92,
-        "passRate": 39.0
-      },
-      {
-        "year": 2025,
-        "applicants": 215,
-        "passers": 85,
-        "passRate": 39.5
-      }
-    ]
+    "practical": []
   }
 }
