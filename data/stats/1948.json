@@ -3,7 +3,7 @@
   "name": "토양환경기사",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-10-04",
+  "updated": "2026-10-11",
   "schedule": [
     {
       "round": "제1회",
@@ -49,9 +49,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "22600",
+    "raw": "1차 : 19400, 2차 : 22600"
   },
   "info": [
     {
@@ -68,38 +68,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 1195,
-        "passers": 612,
-        "passRate": 51.2
-      },
-      {
-        "year": 2022,
-        "applicants": 1116,
-        "passers": 500,
-        "passRate": 44.8
-      },
-      {
-        "year": 2023,
-        "applicants": 1038,
-        "passers": 444,
-        "passRate": 42.8
-      },
-      {
-        "year": 2024,
-        "applicants": 941,
-        "passers": 394,
-        "passRate": 41.9
-      },
-      {
-        "year": 2025,
-        "applicants": 870,
-        "passers": 384,
-        "passRate": 44.1
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

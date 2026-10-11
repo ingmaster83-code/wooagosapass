@@ -3,27 +3,12 @@
   "name": "양화장치운전기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-10-04",
-  "schedule": [
-    {
-      "round": "제3회",
-      "written_reg_start": "2026-06-08",
-      "written_reg_end": "2026-06-11",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-07-15",
-      "prac_reg_start": "2026-07-27",
-      "prac_reg_end": "2026-07-30",
-      "prac_exam_start": "2026-08-29",
-      "prac_exam_end": "2026-09-16",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-10-11",
+  "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "24400",
+    "raw": "1차 : 14500, 2차 : 24400"
   },
   "info": [
     {
@@ -40,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 138,
-        "passers": 76,
-        "passRate": 55.1
-      },
-      {
-        "year": 2022,
-        "applicants": 192,
-        "passers": 129,
-        "passRate": 67.2
-      },
-      {
-        "year": 2023,
-        "applicants": 276,
-        "passers": 162,
-        "passRate": 58.7
-      },
-      {
-        "year": 2024,
-        "applicants": 264,
-        "passers": 159,
-        "passRate": 60.2
-      },
-      {
-        "year": 2025,
-        "applicants": 252,
-        "passers": 150,
-        "passRate": 59.5
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,
