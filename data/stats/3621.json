@@ -3,8 +3,23 @@
   "name": "건축일반시공기능장",
   "series": "기능장",
   "field": "건설",
-  "updated": "2026-10-09",
-  "schedule": [],
+  "updated": "2026-10-16",
+  "schedule": [
+    {
+      "round": "제79회",
+      "written_reg_start": "2026-01-06",
+      "written_reg_end": "2026-01-09",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-01-30",
+      "prac_reg_start": "2026-02-02",
+      "prac_reg_end": "2026-02-05",
+      "prac_exam_start": "2026-03-14",
+      "prac_exam_end": "2026-04-01",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "",
     "practical": "",
@@ -25,38 +40,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 59,
-        "passers": 24,
-        "passRate": 40.7
-      },
-      {
-        "year": 2022,
-        "applicants": 67,
-        "passers": 29,
-        "passRate": 43.3
-      },
-      {
-        "year": 2023,
-        "applicants": 58,
-        "passers": 30,
-        "passRate": 51.7
-      },
-      {
-        "year": 2024,
-        "applicants": 58,
-        "passers": 26,
-        "passRate": 44.8
-      },
-      {
-        "year": 2025,
-        "applicants": 33,
-        "passers": 14,
-        "passRate": 42.4
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,
