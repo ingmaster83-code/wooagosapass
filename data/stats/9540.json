@@ -3,7 +3,7 @@
   "name": "임상심리사2급",
   "series": "기사",
   "field": "보건.의료",
-  "updated": "2026-10-10",
+  "updated": "2026-10-17",
   "schedule": [
     {
       "round": "제1회",
@@ -68,38 +68,38 @@
     }
   ],
   "stats": {
-    "written": [
+    "written": [],
+    "practical": [
       {
         "year": 2021,
-        "applicants": 6469,
-        "passers": 5465,
-        "passRate": 84.5
+        "applicants": 6461,
+        "passers": 2614,
+        "passRate": 40.5
       },
       {
         "year": 2022,
-        "applicants": 5915,
-        "passers": 4574,
-        "passRate": 77.3
+        "applicants": 6792,
+        "passers": 2054,
+        "passRate": 30.2
       },
       {
         "year": 2023,
-        "applicants": 7941,
-        "passers": 5833,
-        "passRate": 73.5
+        "applicants": 7521,
+        "passers": 2965,
+        "passRate": 39.4
       },
       {
         "year": 2024,
-        "applicants": 8975,
-        "passers": 5794,
-        "passRate": 64.6
+        "applicants": 7634,
+        "passers": 3028,
+        "passRate": 39.7
       },
       {
         "year": 2025,
-        "applicants": 9243,
-        "passers": 6186,
-        "passRate": 66.9
+        "applicants": 8178,
+        "passers": 3739,
+        "passRate": 45.7
       }
-    ],
-    "practical": []
+    ]
   }
 }

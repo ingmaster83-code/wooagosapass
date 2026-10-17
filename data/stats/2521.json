@@ -3,7 +3,7 @@
   "name": "잠수산업기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-10-10",
+  "updated": "2026-10-17",
   "schedule": [
     {
       "round": "제3회",
@@ -72,6 +72,37 @@
         "passRate": 39.6
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 150,
+        "passers": 47,
+        "passRate": 31.3
+      },
+      {
+        "year": 2022,
+        "applicants": 95,
+        "passers": 34,
+        "passRate": 35.8
+      },
+      {
+        "year": 2023,
+        "applicants": 114,
+        "passers": 34,
+        "passRate": 29.8
+      },
+      {
+        "year": 2024,
+        "applicants": 113,
+        "passers": 52,
+        "passRate": 46.0
+      },
+      {
+        "year": 2025,
+        "applicants": 98,
+        "passers": 55,
+        "passRate": 56.1
+      }
+    ]
   }
 }

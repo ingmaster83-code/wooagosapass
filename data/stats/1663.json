@@ -3,7 +3,7 @@
   "name": "소음진동기사",
   "series": "기사",
   "field": "환경.에너지",
-  "updated": "2026-10-10",
+  "updated": "2026-10-17",
   "schedule": [
     {
       "round": "제2회",
@@ -55,37 +55,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 261,
-        "passers": 118,
-        "passRate": 45.2
-      },
-      {
-        "year": 2022,
-        "applicants": 239,
-        "passers": 113,
-        "passRate": 47.3
-      },
-      {
-        "year": 2023,
-        "applicants": 252,
-        "passers": 118,
-        "passRate": 46.8
-      },
-      {
-        "year": 2024,
-        "applicants": 207,
-        "passers": 76,
-        "passRate": 36.7
-      },
-      {
-        "year": 2025,
-        "applicants": 223,
-        "passers": 114,
-        "passRate": 51.1
-      }
-    ]
+    "practical": []
   }
 }

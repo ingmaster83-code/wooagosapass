@@ -3,7 +3,7 @@
   "name": "도시계획기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-10-10",
+  "updated": "2026-10-17",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -26,6 +26,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1708,
+        "passers": 787,
+        "passRate": 46.1
+      },
+      {
+        "year": 2022,
+        "applicants": 1860,
+        "passers": 587,
+        "passRate": 31.6
+      },
+      {
+        "year": 2023,
+        "applicants": 1808,
+        "passers": 873,
+        "passRate": 48.3
+      },
+      {
+        "year": 2024,
+        "applicants": 1840,
+        "passers": 843,
+        "passRate": 45.8
+      },
+      {
+        "year": 2025,
+        "applicants": 1556,
+        "passers": 1092,
+        "passRate": 70.2
+      }
+    ]
   }
 }
