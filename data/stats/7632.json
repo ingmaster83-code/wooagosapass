@@ -3,12 +3,12 @@
   "name": "산림기능사",
   "series": "기능사",
   "field": "농림어업",
-  "updated": "2026-10-11",
+  "updated": "2026-10-18",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "64200",
-    "raw": "1차 : 14500, 2차 : 64200"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

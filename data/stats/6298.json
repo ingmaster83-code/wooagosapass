@@ -3,7 +3,7 @@
   "name": "건설기계정비기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-10-11",
+  "updated": "2026-10-18",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -26,6 +26,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 1069,
+        "passers": 602,
+        "passRate": 56.3
+      },
+      {
+        "year": 2022,
+        "applicants": 1051,
+        "passers": 613,
+        "passRate": 58.3
+      },
+      {
+        "year": 2023,
+        "applicants": 866,
+        "passers": 498,
+        "passRate": 57.5
+      },
+      {
+        "year": 2024,
+        "applicants": 953,
+        "passers": 585,
+        "passRate": 61.4
+      },
+      {
+        "year": 2025,
+        "applicants": 1000,
+        "passers": 664,
+        "passRate": 66.4
+      }
+    ]
   }
 }

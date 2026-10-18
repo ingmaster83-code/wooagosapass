@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>석공기능사 시험일정 2026 — 합격률 & 원서접수 | gosapass</title><meta name="description" content="2026년 석공기능사 시험일정 전 회차 원서접수·필기·실기·합격발표 날짜 총정리. 수수료 필기 50,200원. 응시자격·시험과목 포함.">
+  <title>석공기능사 시험일정 2026 — 합격률 & 원서접수 | gosapass</title><meta name="description" content="2026년 석공기능사 시험일정 전 회차 원서접수·필기·실기·합격발표 날짜 총정리. 응시자격·시험과목 포함.">
   <meta name="keywords" content="석공기능사 시험일정 2026, 석공기능사 원서접수, 석공기능사 필기 일정, 석공기능사 실기 일정, 석공기능사 합격자 발표일, 석공기능사 합격률, 석공기능사 응시자격, 석공기능사 시험과목">
   <link rel="canonical" href="https://wooagosapass.wooahouse.com/exam/석공기능사.html">
   <meta property="og:type" content="website">
@@ -165,6 +165,36 @@
 
       <!-- 합격률 차트 -->
 
+      <div class="content-section">
+        <h2>연도별 합격률</h2>
+        <div class="chart-grid">
+          <div class="chart-box">
+            <h3>필기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="writtenChart"></canvas>
+            </div>
+          </div>
+          <div class="chart-box">
+            <h3>실기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="practicalChart"></canvas>
+            </div>
+          </div>
+        </div>
+
+        <div class="ad-wrap" style="margin-top:24px;">
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6464921081676309" data-ad-slot="7080296704" data-ad-format="auto" data-full-width-responsive="true"></ins>
+            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        </div>
+      </div>
+
+      <div class="content-section">
+        <h2>연도별 응시자수 추이</h2>
+        <div class="chart-wrap-wide">
+          <canvas id="applicantsChart"></canvas>
+        </div>
+      </div>
+
 
       <!-- 난이도 -->
 
@@ -179,7 +209,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-construction" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-28</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-27</span>
 
             </div>
             <div class="related-name">건축구조기술사</div>
@@ -192,7 +222,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-construction" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-28</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-27</span>
 
             </div>
             <div class="related-name">건축기계설비기술사</div>
@@ -205,7 +235,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-construction" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-28</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-27</span>
 
             </div>
             <div class="related-name">건축시공기술사</div>
@@ -238,11 +268,6 @@
         <div class="info-row">
           <span class="info-label">시행기관</span>
           <span class="info-value">한국산업인력공단</span>
-        </div>
-
-        <div class="info-row">
-          <span class="info-label">필기 수수료</span>
-          <span class="info-value">50,200원</span>
         </div>
 
 
@@ -308,6 +333,13 @@
   </div>
 </footer>
 
+
+<!-- 차트 데이터 -->
+<script id="stats-data" type="application/json">
+[{"year": 2021, "writtenApplicants": 0, "writtenPassRate": 0.0, "practicalApplicants": 0, "practicalPassRate": 0}, {"year": 2022, "writtenApplicants": 0, "writtenPassRate": 0.0, "practicalApplicants": 0, "practicalPassRate": 0}, {"year": 2023, "writtenApplicants": 0, "writtenPassRate": 0.0, "practicalApplicants": 0, "practicalPassRate": 0}, {"year": 2024, "writtenApplicants": 0, "writtenPassRate": 0.0, "practicalApplicants": 0, "practicalPassRate": 0}, {"year": 2025, "writtenApplicants": 0, "writtenPassRate": 0.0, "practicalApplicants": 0, "practicalPassRate": 0}]
+</script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="/js/detail.js?v=2"></script>
 
 
 </body>

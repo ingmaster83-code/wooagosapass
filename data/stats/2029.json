@@ -3,7 +3,7 @@
   "name": "프레스금형산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-10-11",
+  "updated": "2026-10-18",
   "schedule": [
     {
       "round": "제3회",
@@ -41,6 +41,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 26,
+        "passers": 17,
+        "passRate": 65.4
+      },
+      {
+        "year": 2022,
+        "applicants": 23,
+        "passers": 16,
+        "passRate": 69.6
+      },
+      {
+        "year": 2023,
+        "applicants": 7,
+        "passers": 4,
+        "passRate": 57.1
+      },
+      {
+        "year": 2024,
+        "applicants": 8,
+        "passers": 5,
+        "passRate": 62.5
+      },
+      {
+        "year": 2025,
+        "applicants": 8,
+        "passers": 4,
+        "passRate": 50.0
+      }
+    ]
   }
 }
