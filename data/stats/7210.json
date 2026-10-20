@@ -3,7 +3,7 @@
   "name": "타일기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-10-13",
+  "updated": "2026-10-20",
   "schedule": [],
   "fee": {
     "written": "63000",
@@ -26,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 5140,
-        "passers": 2962,
-        "passRate": 57.6
-      },
-      {
-        "year": 2022,
-        "applicants": 4804,
-        "passers": 2750,
-        "passRate": 57.2
-      },
-      {
-        "year": 2023,
-        "applicants": 4230,
-        "passers": 2453,
-        "passRate": 58.0
-      },
-      {
-        "year": 2024,
-        "applicants": 3937,
-        "passers": 2088,
-        "passRate": 53.0
-      },
-      {
-        "year": 2025,
-        "applicants": 3843,
-        "passers": 1951,
-        "passRate": 50.8
-      }
-    ]
+    "practical": []
   }
 }
