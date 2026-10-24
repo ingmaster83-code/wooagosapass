@@ -3,7 +3,7 @@
   "name": "수산양식기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-10-17",
+  "updated": "2026-10-24",
   "schedule": [
     {
       "round": "제1회",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -86,6 +86,37 @@
         "passRate": 37.4
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 519,
+        "passers": 160,
+        "passRate": 30.8
+      },
+      {
+        "year": 2022,
+        "applicants": 523,
+        "passers": 133,
+        "passRate": 25.4
+      },
+      {
+        "year": 2023,
+        "applicants": 445,
+        "passers": 113,
+        "passRate": 25.4
+      },
+      {
+        "year": 2024,
+        "applicants": 431,
+        "passers": 229,
+        "passRate": 53.1
+      },
+      {
+        "year": 2025,
+        "applicants": 312,
+        "passers": 117,
+        "passRate": 37.5
+      }
+    ]
   }
 }

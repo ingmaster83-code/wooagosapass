@@ -81,15 +81,15 @@
 <!-- ===== D-Day Banner ===== -->
 
 <div id="dday-banner"
-     class="dday-banner color-urgent"
+     class="dday-banner color-green"
      data-start="2026-10-24"
-     data-end="2026-10-24"
-     data-event-label="제3회 실기시험"
-     data-next-label=""
+     data-end="2026-11-13"
+     data-event-label="제3회 실기시험 진행중"
+     data-next-label="제3회 최종 합격발표"
      data-next-date="">
-  <div class="banner-label">제3회 실기시험</div>
-  <div class="banner-dday">D-1</div>
-  <div class="banner-desc">2026-10-24</div>
+  <div class="banner-label">제3회 실기시험 진행중</div>
+  <div class="banner-dday">D-20</div>
+  <div class="banner-desc">10-24 ~ 11-13</div>
   <div class="banner-next"></div>
 </div>
 
@@ -114,6 +114,8 @@
         <div class="detail-badges">
           <span class="cat-badge cat-safety">안전관리</span>
           <span class="level-badge">기사</span>
+
+          <span class="level-badge" style="background:#FEF3C7;color:#92400E;">🏆 안전관리 취득자수 2위 / 42종</span>
 
         </div>
         <a href="/compare.html?a=1910" class="compare-btn-link"
@@ -206,6 +208,36 @@
 
       <!-- 합격률 차트 -->
 
+      <div class="content-section">
+        <h2>연도별 합격률</h2>
+        <div class="chart-grid">
+          <div class="chart-box">
+            <h3>필기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="writtenChart"></canvas>
+            </div>
+          </div>
+          <div class="chart-box">
+            <h3>실기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="practicalChart"></canvas>
+            </div>
+          </div>
+        </div>
+
+        <div class="ad-wrap" style="margin-top:24px;">
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6464921081676309" data-ad-slot="7080296704" data-ad-format="auto" data-full-width-responsive="true"></ins>
+            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        </div>
+      </div>
+
+      <div class="content-section">
+        <h2>연도별 응시자수 추이</h2>
+        <div class="chart-wrap-wide">
+          <canvas id="applicantsChart"></canvas>
+        </div>
+      </div>
+
 
       <!-- 난이도 -->
 
@@ -220,7 +252,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-safety" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-22</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-21</span>
 
             </div>
             <div class="related-name">가스기술사</div>
@@ -231,7 +263,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-safety" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-22</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-21</span>
 
             </div>
             <div class="related-name">건설안전기술사</div>
@@ -244,7 +276,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-safety" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-22</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-21</span>
 
             </div>
             <div class="related-name">기계안전기술사</div>
@@ -287,6 +319,24 @@
         </div>
 
 
+        <div class="info-row">
+          <span class="info-label">최근 응시자</span>
+          <span class="info-value">33,756명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
+
+
+        <div class="info-row">
+          <span class="info-label">최근 합격자</span>
+          <span class="info-value">16,914명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
+
+
+
+
+        <div class="info-row">
+          <span class="info-label">필기 합격률 추이</span>
+          <span class="info-value" style="font-size:0.8125rem;color:var(--text-secondary);">→ 보합세</span>
+        </div>
 
 
 
@@ -301,8 +351,8 @@
       <div class="info-card" style="border-color:#BBF7D0;background:var(--success-light);">
         <h3 style="color:var(--success);">현재 일정</h3>
         <div style="font-size:0.875rem;line-height:1.7;">
-          <div style="font-weight:700;color:var(--success);margin-bottom:6px;">🟢 제3회 실기시험</div>
-          <div style="color:var(--text-secondary);">2026-10-24</div>
+          <div style="font-weight:700;color:var(--success);margin-bottom:6px;">🟢 제3회 실기시험 진행중</div>
+          <div style="color:var(--text-secondary);">10-24 ~ 11-13</div>
 
         </div>
         <a href="https://www.q-net.or.kr"
@@ -355,6 +405,13 @@
   </div>
 </footer>
 
+
+<!-- 차트 데이터 -->
+<script id="stats-data" type="application/json">
+[{"year": 2021, "writtenApplicants": 27083, "writtenPassRate": 46.1, "practicalApplicants": 0, "practicalPassRate": 0}, {"year": 2022, "writtenApplicants": 26517, "writtenPassRate": 44.9, "practicalApplicants": 0, "practicalPassRate": 0}, {"year": 2023, "writtenApplicants": 32202, "writtenPassRate": 49.4, "practicalApplicants": 0, "practicalPassRate": 0}, {"year": 2024, "writtenApplicants": 30163, "writtenPassRate": 46.5, "practicalApplicants": 0, "practicalPassRate": 0}, {"year": 2025, "writtenApplicants": 33756, "writtenPassRate": 50.1, "practicalApplicants": 0, "practicalPassRate": 0}]
+</script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="/js/detail.js?v=2"></script>
 
 
 </body>
