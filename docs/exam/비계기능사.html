@@ -108,7 +108,7 @@
      data-next-label=""
      data-next-date="">
   <div class="banner-label">제4회 실기시험</div>
-  <div class="banner-dday">D-21</div>
+  <div class="banner-dday">D-20</div>
   <div class="banner-desc">2026-11-14</div>
   <div class="banner-next"></div>
 </div>
@@ -134,6 +134,8 @@
         <div class="detail-badges">
           <span class="cat-badge cat-construction">건설</span>
           <span class="level-badge">기능사</span>
+
+          <span class="level-badge" style="background:#FEF3C7;color:#92400E;">🏆 건설 취득자수 21위 / 105종</span>
 
         </div>
         <a href="/compare.html?a=7120" class="compare-btn-link"
@@ -226,8 +228,45 @@
 
       <!-- 출제경향 -->
 
+      <div class="content-section">
+        <h2>출제경향</h2>
+        <div class="info-card" style="padding:20px 24px;border-left:3px solid var(--primary);">
+          <p style="font-size:0.9375rem;line-height:1.85;color:var(--text-primary);">비계기능사 출제경향 비계기능사 - 비계설치 및 해체에 관한 지식을 토대로 하여 주어진 도면을 보고 비계공사용 장비와 공구를 적절히 사용하여 띠장을 기둥에 견고히 결속하고 기둥과 띠장을 연속으로 설치할 수 있는능력을 평가</p>
+        </div>
+      </div>
+
 
       <!-- 합격률 차트 -->
+
+      <div class="content-section">
+        <h2>연도별 합격률</h2>
+        <div class="chart-grid">
+          <div class="chart-box">
+            <h3>필기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="writtenChart"></canvas>
+            </div>
+          </div>
+          <div class="chart-box">
+            <h3>실기 합격률</h3>
+            <div class="chart-wrap">
+              <canvas id="practicalChart"></canvas>
+            </div>
+          </div>
+        </div>
+
+        <div class="ad-wrap" style="margin-top:24px;">
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6464921081676309" data-ad-slot="7080296704" data-ad-format="auto" data-full-width-responsive="true"></ins>
+            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        </div>
+      </div>
+
+      <div class="content-section">
+        <h2>연도별 응시자수 추이</h2>
+        <div class="chart-wrap-wide">
+          <canvas id="applicantsChart"></canvas>
+        </div>
+      </div>
 
 
       <!-- 난이도 -->
@@ -243,7 +282,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-construction" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-21</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-20</span>
 
             </div>
             <div class="related-name">건축구조기술사</div>
@@ -254,7 +293,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-construction" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-21</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-20</span>
 
             </div>
             <div class="related-name">건축기계설비기술사</div>
@@ -267,7 +306,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-construction" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-21</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-20</span>
 
             </div>
             <div class="related-name">건축시공기술사</div>
@@ -315,7 +354,25 @@
         </div>
 
 
+        <div class="info-row">
+          <span class="info-label">최근 응시자</span>
+          <span class="info-value">1,547명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
 
+
+        <div class="info-row">
+          <span class="info-label">최근 합격자</span>
+          <span class="info-value">946명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
+        </div>
+
+
+
+
+
+        <div class="info-row">
+          <span class="info-label">실기 합격률 추이</span>
+          <span class="info-value" style="font-size:0.8125rem;color:var(--text-secondary);">→ 보합세</span>
+        </div>
 
 
         <a href="https://wooagosa.wooahouse.com/" target="_blank" rel="noopener"
@@ -383,6 +440,13 @@
   </div>
 </footer>
 
+
+<!-- 차트 데이터 -->
+<script id="stats-data" type="application/json">
+[{"year": 2021, "writtenApplicants": 0, "writtenPassRate": 0.0, "practicalApplicants": 1905, "practicalPassRate": 59.7}, {"year": 2022, "writtenApplicants": 0, "writtenPassRate": 0.0, "practicalApplicants": 1979, "practicalPassRate": 60.0}, {"year": 2023, "writtenApplicants": 0, "writtenPassRate": 0.0, "practicalApplicants": 1964, "practicalPassRate": 59.9}, {"year": 2024, "writtenApplicants": 0, "writtenPassRate": 0.0, "practicalApplicants": 1671, "practicalPassRate": 61.3}, {"year": 2025, "writtenApplicants": 0, "writtenPassRate": 0.0, "practicalApplicants": 1547, "practicalPassRate": 61.2}]
+</script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="/js/detail.js?v=2"></script>
 
 
 </body>

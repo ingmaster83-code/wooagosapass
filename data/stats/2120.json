@@ -3,7 +3,7 @@
   "name": "화약류제조산업기사",
   "series": "기사",
   "field": "화학",
-  "updated": "2026-10-18",
+  "updated": "2026-10-25",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -57,37 +57,6 @@
         "passRate": 27.0
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 11,
-        "passers": 10,
-        "passRate": 90.9
-      },
-      {
-        "year": 2022,
-        "applicants": 1,
-        "passers": 1,
-        "passRate": 100.0
-      },
-      {
-        "year": 2023,
-        "applicants": 6,
-        "passers": 3,
-        "passRate": 50.0
-      },
-      {
-        "year": 2024,
-        "applicants": 2,
-        "passers": 2,
-        "passRate": 100.0
-      },
-      {
-        "year": 2025,
-        "applicants": 9,
-        "passers": 7,
-        "passRate": 77.8
-      }
-    ]
+    "practical": []
   }
 }

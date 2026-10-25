@@ -3,7 +3,7 @@
   "name": "가구제작기능사",
   "series": "기능사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-10-18",
+  "updated": "2026-10-25",
   "schedule": [
     {
       "round": "제2회",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "14500",
-    "practical": "58900",
-    "raw": "1차 : 14500, 2차 : 58900"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

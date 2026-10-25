@@ -3,60 +3,47 @@
   "name": "롤러운전기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-10-18",
+  "updated": "2026-10-25",
   "schedule": [],
   "fee": {
     "written": "14500",
     "practical": "25000",
     "raw": "1차 : 14500, 2차 : 25000"
   },
-  "info": [
-    {
-      "type": "출제경향",
-      "content": "롤러운전기능사 출제경향\r\n\r\n\r\n\r\n\r\n- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.\r\n- 주어진 코스에 따라 전&middot;후진 운전작업 및 다짐작업 등을 평가(공개문제 참조)"
-    },
-    {
-      "type": "출제기준",
-      "content": "롤러운전기능사 출제기준\r\n\r\n\r\n\r\n\r\n롤러운전기능사 출제기준입니다.\r\n \r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "롤러운전기능사 취득방법\r\n\r\n\r\n\r\n\r\n 시 행 처 : 한국산업인력공단\r\n\r\n 시험과목\r\n\r\n- 필기 1.건설기계기관 2.전기, 섀시, 롤러작업장치 3.유압일반 4. 건설기계관리법규 5.안전관리\r\n\r\n- 실기 : 롤러운전 작업 \r\n\r\n검정방법 \r\n\r\n- 필기 : 객관식 4지 택일형60문항(60분)\r\n\r\n- 실기 : 작업형 (6분 정도)\r\n\r\n합격기준\r\n\r\n- 필기 : 100점을 만점으로 하여 60점 이상 \r\n\r\n- 실기 : 100점을 만점으로 하여 60점 이상 \r\n\r\n\r\n\r\n작업형 실기시험 기본정보\r\n\r\n\r\n \r\n안전등급(safety Level) : 4 등급\r\n\r\n\r\n\r\n\r\n▼\r\n\r\n\r\n\r\n\r\n\r\n위험\r\n경고\r\n주의\r\n관심\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n&middot; 시험장소 구분\r\n실외\r\n\r\n\r\n&middot; 주요시설 및 장비\r\n롤러\r\n\r\n\r\n&middot; 보호구\r\n작업복, 작업화\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될 수 있습니다.반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다. \r\n\r\n\r\n\r\n\r\n\r\n○ 실기시험 안전작업 교육영상 : https://youtu.be/aMnVBS78TR0?si=zaxLqbDzbBiTxC0u"
-    }
-  ],
+  "info": [],
   "stats": {
-    "written": [],
-    "practical": [
+    "written": [
       {
         "year": 2021,
-        "applicants": 3201,
-        "passers": 1534,
-        "passRate": 47.9
+        "applicants": 3294,
+        "passers": 2409,
+        "passRate": 73.1
       },
       {
         "year": 2022,
-        "applicants": 3323,
-        "passers": 1516,
-        "passRate": 45.6
+        "applicants": 3215,
+        "passers": 2450,
+        "passRate": 76.2
       },
       {
         "year": 2023,
-        "applicants": 3932,
-        "passers": 1697,
-        "passRate": 43.2
+        "applicants": 3861,
+        "passers": 3000,
+        "passRate": 77.7
       },
       {
         "year": 2024,
-        "applicants": 3975,
-        "passers": 1687,
-        "passRate": 42.4
+        "applicants": 3955,
+        "passers": 2957,
+        "passRate": 74.8
       },
       {
         "year": 2025,
-        "applicants": 3852,
-        "passers": 1646,
-        "passRate": 42.7
+        "applicants": 3879,
+        "passers": 2903,
+        "passRate": 74.8
       }
-    ]
+    ],
+    "practical": []
   }
 }

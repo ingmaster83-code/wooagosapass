@@ -3,7 +3,7 @@
   "name": "도화기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-10-18",
+  "updated": "2026-10-25",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
+    "written": "41500",
     "practical": "",
-    "raw": ""
+    "raw": ", 2차 : 41500"
   },
   "info": [
     {
@@ -41,6 +41,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 10,
+        "passers": 4,
+        "passRate": 40.0
+      },
+      {
+        "year": 2022,
+        "applicants": 22,
+        "passers": 4,
+        "passRate": 18.2
+      },
+      {
+        "year": 2023,
+        "applicants": 58,
+        "passers": 11,
+        "passRate": 19.0
+      },
+      {
+        "year": 2024,
+        "applicants": 64,
+        "passers": 28,
+        "passRate": 43.8
+      },
+      {
+        "year": 2025,
+        "applicants": 67,
+        "passers": 22,
+        "passRate": 32.8
+      }
+    ]
   }
 }

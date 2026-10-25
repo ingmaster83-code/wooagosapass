@@ -3,7 +3,7 @@
   "name": "항공기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-10-18",
+  "updated": "2026-10-25",
   "schedule": [
     {
       "round": "제3회",
@@ -72,37 +72,6 @@
         "passRate": 11.8
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 17,
-        "passers": 1,
-        "passRate": 5.9
-      },
-      {
-        "year": 2022,
-        "applicants": 17,
-        "passers": 3,
-        "passRate": 17.6
-      },
-      {
-        "year": 2023,
-        "applicants": 17,
-        "passers": 1,
-        "passRate": 5.9
-      },
-      {
-        "year": 2024,
-        "applicants": 19,
-        "passers": 2,
-        "passRate": 10.5
-      },
-      {
-        "year": 2025,
-        "applicants": 19,
-        "passers": 5,
-        "passRate": 26.3
-      }
-    ]
+    "practical": []
   }
 }

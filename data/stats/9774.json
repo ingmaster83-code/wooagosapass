@@ -3,7 +3,7 @@
   "name": "이륜자동차정비기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-10-18",
+  "updated": "2026-10-25",
   "schedule": [
     {
       "round": "제2회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "82000",
+    "raw": "1차 : 14500, 2차 : 82000"
   },
   "info": [],
   "stats": {

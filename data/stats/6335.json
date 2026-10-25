@@ -3,7 +3,7 @@
   "name": "가스기능사",
   "series": "기능사",
   "field": "안전관리",
-  "updated": "2026-10-18",
+  "updated": "2026-10-25",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -25,38 +25,38 @@
     }
   ],
   "stats": {
-    "written": [
+    "written": [],
+    "practical": [
       {
         "year": 2021,
-        "applicants": 11747,
-        "passers": 3753,
-        "passRate": 31.9
+        "applicants": 5611,
+        "passers": 2479,
+        "passRate": 44.2
       },
       {
         "year": 2022,
-        "applicants": 11955,
-        "passers": 3986,
-        "passRate": 33.3
+        "applicants": 5984,
+        "passers": 2049,
+        "passRate": 34.2
       },
       {
         "year": 2023,
-        "applicants": 13963,
-        "passers": 4308,
-        "passRate": 30.9
+        "applicants": 6311,
+        "passers": 4013,
+        "passRate": 63.6
       },
       {
         "year": 2024,
-        "applicants": 15302,
-        "passers": 4710,
-        "passRate": 30.8
+        "applicants": 6171,
+        "passers": 3295,
+        "passRate": 53.4
       },
       {
         "year": 2025,
-        "applicants": 15459,
-        "passers": 3007,
-        "passRate": 19.5
+        "applicants": 4738,
+        "passers": 3339,
+        "passRate": 70.5
       }
-    ],
-    "practical": []
+    ]
   }
 }
