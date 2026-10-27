@@ -3,7 +3,7 @@
   "name": "피아노조율기능사",
   "series": "기능사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-10-20",
+  "updated": "2026-10-27",
   "schedule": [
     {
       "round": "제3회",
@@ -41,37 +41,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 55,
-        "passers": 10,
-        "passRate": 18.2
-      },
-      {
-        "year": 2022,
-        "applicants": 67,
-        "passers": 23,
-        "passRate": 34.3
-      },
-      {
-        "year": 2023,
-        "applicants": 70,
-        "passers": 11,
-        "passRate": 15.7
-      },
-      {
-        "year": 2024,
-        "applicants": 59,
-        "passers": 13,
-        "passRate": 22.0
-      },
-      {
-        "year": 2025,
-        "applicants": 54,
-        "passers": 11,
-        "passRate": 20.4
-      }
-    ]
+    "practical": []
   }
 }
