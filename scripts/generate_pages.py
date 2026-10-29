@@ -16,6 +16,9 @@ import argparse
 from datetime import date
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).parent))
+import hubs
+
 try:
     from jinja2 import Environment, FileSystemLoader
 except ImportError:
@@ -466,6 +469,7 @@ def generate_pages(target_jmcd: str = None, limit: int = None):
     all_exams = exams_data["items"]
     exam_stats_cache = precompute_exam_summaries(all_exams)
     field_rank_cache = precompute_field_rankings(all_exams)
+    _, _, _, hub_valid = hubs.build_index(all_exams)
 
     exams = all_exams
     if target_jmcd:
@@ -585,6 +589,7 @@ def generate_pages(target_jmcd: str = None, limit: int = None):
             "trend": trend,
             "related_exams": related_exams,
             "field_rank": field_rank,
+            "hub_links": hubs.hub_links_for(name, exam.get("series"), exam.get("field"), hub_valid),
         }
 
         # 파일명: 슬래시 등 경로 구분자 제거 (GitHub Pages 지원)

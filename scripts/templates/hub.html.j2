@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }} | gosapass</title>
+  <meta name="description" content="{{ description }}">
+  <link rel="canonical" href="https://wooagosapass.wooahouse.com{{ path }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ title }} | gosapass">
+  <meta property="og:description" content="{{ description }}">
+  <meta property="og:url" content="https://wooagosapass.wooahouse.com{{ path }}">
+  <meta property="og:site_name" content="gosapass">
+  <meta property="og:locale" content="ko_KR">
+{% if faq %}
+  <script type="application/ld+json">
+  {{ faq_ld | safe }}
+  </script>
+{% endif %}
+  <meta name="google-adsense-account" content="ca-pub-6464921081676309">
+  <meta name="naver-site-verification" content="5130e8ba748f30de7168da767aa6790d5d9ba76b">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-9ZGENFSXWC"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-9ZGENFSXWC');
+  </script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css?v=2">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6464921081676309" crossorigin="anonymous"></script>
+  <style>
+    .hub-chips { display:flex; flex-wrap:wrap; gap:8px; margin:16px 0; }
+    .hub-chip { padding:6px 14px; border:1.5px solid var(--border); border-radius:20px; background:#fff; font-size:.8125rem; text-decoration:none; color:inherit; }
+    .hub-chip:hover { border-color:var(--primary); color:var(--primary); }
+    .hub-lead { color:var(--text-secondary); line-height:1.8; font-size:.95rem; margin-bottom:20px; }
+    .hub-table td.num, .hub-table th.num { text-align:right; white-space:nowrap; }
+    .hub-faq details { border:1px solid var(--border); border-radius:10px; padding:12px 16px; margin-bottom:8px; background:#fff; }
+    .hub-faq summary { font-weight:600; cursor:pointer; }
+    .hub-faq p { color:var(--text-secondary); line-height:1.8; margin-top:10px; }
+  </style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="logo">gosapass</a>
+    <form class="header-search" action="/list.html" method="get" role="search">
+      <svg class="search-ico" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      <input type="search" name="q" placeholder="자격증 검색 (예: 전기기사)" aria-label="자격증 검색">
+    </form>
+    <nav class="site-nav" aria-label="주요 메뉴">
+      <a href="/">메인</a>
+      <a href="/list.html">자격증 목록</a>
+      <a href="/calendar.html">시험 캘린더</a>
+      <a href="/compare.html">자격증 비교</a>
+    </nav>
+  </div>
+</header>
+
+<script src="/js/wooa-sites-bar.js"></script>
+<script src="/js/ad-dev-placeholder.js"></script>
+
+<div class="layout-with-sidebar">
+<main>
+  <div class="container section">
+    <nav class="breadcrumb" aria-label="위치">
+      <a href="/">홈</a>
+      {% for label, url in crumbs %}<span class="breadcrumb-sep">›</span>{% if url %}<a href="{{ url }}">{{ label }}</a>{% else %}<span>{{ label }}</span>{% endif %}{% endfor %}
+    </nav>
+
+    <h1 style="font-size:1.5rem;font-weight:700;margin:12px 0 8px;">{{ h1 }}</h1>
+    <p class="hub-lead">{{ lead }}</p>
+
+    <div class="ad-wrap">
+      <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6464921081676309" data-ad-slot="7080296704" data-ad-format="auto" data-full-width-responsive="true"></ins>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+
+{% for sec in sections %}
+    <h2 style="font-size:1.15rem;font-weight:700;margin:28px 0 12px;">{{ sec.title }}</h2>
+{% if sec.kind == "exams" %}
+    <div class="table-wrap">
+      <table class="hub-table">
+        <thead><tr>{% if sec.rank %}<th>순위</th>{% endif %}<th>자격증</th><th>분야</th><th class="num">필기 합격률</th><th class="num">실기 합격률</th><th class="num">응시자</th><th class="num">필기 수수료</th><th>다음 일정</th></tr></thead>
+        <tbody>
+{% for r in sec.rows %}
+          <tr>{% if sec.rank %}<td>{{ loop.index }}</td>{% endif %}<td><a href="{{ r.url }}">{{ r.name }}</a></td><td>{{ r.field }}</td><td class="num">{{ r.wr }}</td><td class="num">{{ r.pr }}</td><td class="num">{{ r.app }}</td><td class="num">{{ r.fee }}</td><td>{{ r.next }}</td></tr>
+{% endfor %}
+        </tbody>
+      </table>
+    </div>
+{% elif sec.kind == "events" %}
+    <div class="table-wrap">
+      <table class="hub-table">
+        <thead><tr><th>일정</th><th>기간</th><th>종목</th></tr></thead>
+        <tbody>
+{% for e in sec.rows %}
+          <tr><td>{{ e.label }}</td><td style="white-space:nowrap;">{{ e.period }}</td><td>{% for n, u in e.exams %}<a href="{{ u }}">{{ n }}</a>{% if not loop.last %}, {% endif %}{% endfor %}{% if e.more %} 외 {{ e.more }}종{% endif %}</td></tr>
+{% endfor %}
+        </tbody>
+      </table>
+    </div>
+{% elif sec.kind == "links" %}
+    <div class="hub-chips">
+{% for label, url in sec.rows %}
+      <a class="hub-chip" href="{{ url }}">{{ label }}</a>
+{% endfor %}
+    </div>
+{% endif %}
+{% endfor %}
+
+{% if faq %}
+    <h2 style="font-size:1.15rem;font-weight:700;margin:32px 0 12px;">자주 묻는 질문</h2>
+    <div class="hub-faq">
+{% for q, a in faq %}
+      <details><summary>{{ q }}</summary><p>{{ a }}</p></details>
+{% endfor %}
+    </div>
+{% endif %}
+
+    <p style="color:var(--text-secondary);font-size:.85rem;margin-top:28px;line-height:1.7;">합격률은 한국산업인력공단 공개 통계의 가장 최근 연도 기준이며, 시험일정은 변경될 수 있으니 정확한 정보는 <a href="https://www.q-net.or.kr" style="color:var(--primary);">큐넷(Q-Net)</a>에서 확인하세요. 갱신일 {{ updated }}</p>
+
+    <div class="ad-wrap" style="margin-top:32px;">
+      <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6464921081676309" data-ad-slot="7080296704" data-ad-format="auto" data-full-width-responsive="true"></ins>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+  </div>
+</main>
+<aside class="home-sidebar">
+  <div class="ad-wrap">
+    <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6464921081676309" data-ad-slot="1419180025" data-ad-format="auto" data-full-width-responsive="true"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+</aside>
+</div>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>
+      <div class="footer-brand">gosapass</div>
+      <p class="footer-desc">
+        국가자격증 시험일정, 원서접수, 합격률을 무료로 제공합니다.<br>
+        한국산업인력공단 공공데이터 기반으로 매일 자동 업데이트됩니다.
+      </p>
+    </div>
+    <div class="footer-col">
+      <h4>자격증 등급별</h4>
+      <a href="/series/기사.html">기사</a>
+      <a href="/series/산업기사.html">산업기사</a>
+      <a href="/series/기능사.html">기능사</a>
+      <a href="/series/기술사.html">기술사</a>
+      <a href="/series/기능장.html">기능장</a>
+    </div>
+    <div class="footer-col">
+      <h4>사이트 정보</h4>
+      <a href="/list.html">자격증 전체 목록</a>
+      <a href="/calendar.html">시험 캘린더</a>
+{% for label, url in extra_links %}      <a href="{{ url }}">{{ label }}</a>
+{% endfor %}      <a href="/privacy.html">개인정보처리방침</a>
+    </div>
+  </div>
+  <div class="footer-copy">
+    © {{ year }} wooagosapass.wooahouse.com · 데이터 출처: 한국산업인력공단 공공데이터포털
+  </div>
+</footer>
+
+</body>
+</html>

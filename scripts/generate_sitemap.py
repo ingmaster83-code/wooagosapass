@@ -48,6 +48,18 @@ def main():
     <priority>0.8</priority>
   </url>""")
 
+    # 허브 페이지 (generate_hubs.py 가 data/hub-paths.json 에 경로 기록 — 이미 URL 인코딩된 경로)
+    hub_file = DATA_DIR / "hub-paths.json"
+    if hub_file.exists():
+        for hp in json.loads(hub_file.read_text(encoding="utf-8")):
+            pr = "0.8" if hp.startswith(("/rank/", "/series/")) else "0.7"
+            urls.append(f"""  <url>
+    <loc>{BASE_URL}{hp}</loc>
+    <lastmod>{today}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>{pr}</priority>
+  </url>""")
+
     sitemap = f"""<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {chr(10).join(urls)}
