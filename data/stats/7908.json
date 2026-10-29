@@ -3,12 +3,12 @@
   "name": "이용사",
   "series": "기능사",
   "field": "이용.숙박.여행.오락.스포츠",
-  "updated": "2026-10-04",
+  "updated": "2026-10-25",
   "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "20100",
+    "raw": "1차 : 14500, 2차 : 20100"
   },
   "info": [
     {

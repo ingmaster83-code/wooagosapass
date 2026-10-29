@@ -3,23 +3,8 @@
   "name": "손해평가사",
   "series": "손해평가사",
   "field": "",
-  "updated": "2026-10-06",
-  "schedule": [
-    {
-      "round": "제12회",
-      "written_reg_start": "2026-04-06",
-      "written_reg_end": "2026-04-10",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-06-10",
-      "prac_reg_start": "2026-07-20",
-      "prac_reg_end": "2026-07-24",
-      "prac_exam_start": "2026-08-29",
-      "prac_exam_end": "2026-08-29",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-10-27",
+  "schedule": [],
   "fee": {
     "written": "20000",
     "practical": "33000",

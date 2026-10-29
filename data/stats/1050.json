@@ -3,7 +3,7 @@
   "name": "건설기계정비기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-10-02",
+  "updated": "2026-10-23",
   "schedule": [
     {
       "round": "제2회",
@@ -40,38 +40,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 69,
-        "passers": 24,
-        "passRate": 34.8
-      },
-      {
-        "year": 2022,
-        "applicants": 53,
-        "passers": 9,
-        "passRate": 17.0
-      },
-      {
-        "year": 2023,
-        "applicants": 75,
-        "passers": 17,
-        "passRate": 22.7
-      },
-      {
-        "year": 2024,
-        "applicants": 97,
-        "passers": 23,
-        "passRate": 23.7
-      },
-      {
-        "year": 2025,
-        "applicants": 105,
-        "passers": 10,
-        "passRate": 9.5
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

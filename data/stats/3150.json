@@ -3,27 +3,43 @@
   "name": "철도차량정비기능장",
   "series": "기능장",
   "field": "기계",
-  "updated": "2026-10-02",
-  "schedule": [],
-  "fee": {
-    "written": "34400",
-    "practical": "24800",
-    "raw": "1차 : 34400, 2차 : 24800"
-  },
-  "info": [
+  "updated": "2026-10-23",
+  "schedule": [
     {
-      "type": "출제경향",
-      "content": "철도차량정비기능장 출제경향\r\n\r\n\r\n\r\n\r\n- 필기시험의 내용은 고객만족>자료실의 출제기준을 참고바랍니다.\r\n- 실기시험은 필답형으로 시행되며 고객만족>자료실의 출제기준을 참고바랍니다."
+      "round": "제79회",
+      "written_reg_start": "2026-01-06",
+      "written_reg_end": "2026-01-09",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-01-30",
+      "prac_reg_start": "2026-02-02",
+      "prac_reg_end": "2026-02-05",
+      "prac_exam_start": "2026-03-14",
+      "prac_exam_end": "2026-04-01",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
     },
     {
-      "type": "출제기준",
-      "content": "철도차량정비기능장 출제기준\r\n\r\n\r\n\r\n\r\n철도차량정비기능장 출제기준입니다.\r\n \r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
-    },
-    {
-      "type": "취득방법",
-      "content": "철도차량정비기능장 취득방법\r\n\r\n\r\n\r\n\r\n 시 행 처 : 한국산업인력공단\r\n\r\n 관련학과 : 대학 및 전문대학의 철도, 철도시스템, 철도차량, 철도공학관련학과\r\n\r\n 시험과목 \r\n- 필기 : 1.철도차량공학 2.동력차기관정비 3.동력차전기전자정비 4.객화차정비 5.공업경영에 관한 사항 \r\n- 실기 : 철도차량 정비 및 검사 실무 \r\n\r\n 검정방법\r\n- 필기 : 객관식 4지 택일형 60문항(60분)\r\n- 실기 : 필답형(2시간, 100점) \r\n\r\n 합격기준\r\n- 필기 : 100점을 만점으로 하여 60점 이상\r\n- 실기 : 100점을 만점으로 하여 60점 이상"
+      "round": "제80회",
+      "written_reg_start": "2026-06-08",
+      "written_reg_end": "2026-06-11",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-07-15",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-30",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-09-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
     }
   ],
+  "fee": {
+    "written": "",
+    "practical": "",
+    "raw": ""
+  },
+  "info": [],
   "stats": {
     "written": [
       {

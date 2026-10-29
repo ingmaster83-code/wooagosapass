@@ -3,27 +3,12 @@
   "name": "화약취급기능사",
   "series": "기능사",
   "field": "광업자원",
-  "updated": "2026-10-06",
-  "schedule": [
-    {
-      "round": "제4회",
-      "written_reg_start": "2026-08-24",
-      "written_reg_end": "2026-08-27",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-10-07",
-      "prac_reg_start": "2026-10-12",
-      "prac_reg_end": "2026-10-15",
-      "prac_exam_start": "2026-11-14",
-      "prac_exam_end": "2026-12-02",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-10-27",
+  "schedule": [],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "42100",
+    "raw": "1차 : 14500, 2차 : 42100"
   },
   "info": [
     {
@@ -41,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 112,
-        "passers": 50,
-        "passRate": 44.6
-      },
-      {
-        "year": 2022,
-        "applicants": 82,
-        "passers": 45,
-        "passRate": 54.9
-      },
-      {
-        "year": 2023,
-        "applicants": 186,
-        "passers": 87,
-        "passRate": 46.8
-      },
-      {
-        "year": 2024,
-        "applicants": 156,
-        "passers": 57,
-        "passRate": 36.5
-      },
-      {
-        "year": 2025,
-        "applicants": 143,
-        "passers": 105,
-        "passRate": 73.4
-      }
-    ]
+    "practical": []
   }
 }

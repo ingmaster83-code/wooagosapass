@@ -3,7 +3,7 @@
   "name": "임산가공기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-10-03",
+  "updated": "2026-10-24",
   "schedule": [
     {
       "round": "제2회",
@@ -40,7 +40,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 132,
+        "passers": 74,
+        "passRate": 56.1
+      },
+      {
+        "year": 2022,
+        "applicants": 95,
+        "passers": 57,
+        "passRate": 60.0
+      },
+      {
+        "year": 2023,
+        "applicants": 96,
+        "passers": 67,
+        "passRate": 69.8
+      },
+      {
+        "year": 2024,
+        "applicants": 94,
+        "passers": 21,
+        "passRate": 22.3
+      },
+      {
+        "year": 2025,
+        "applicants": 59,
+        "passers": 18,
+        "passRate": 30.5
+      }
+    ],
     "practical": [
       {
         "year": 2021,

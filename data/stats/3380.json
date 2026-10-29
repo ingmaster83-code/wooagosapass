@@ -3,7 +3,7 @@
   "name": "전기기능장",
   "series": "기능장",
   "field": "전기.전자",
-  "updated": "2026-10-02",
+  "updated": "2026-10-23",
   "schedule": [
     {
       "round": "제79회",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "34400",
-    "practical": "166700",
-    "raw": "1차 : 34400, 2차 : 166700"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

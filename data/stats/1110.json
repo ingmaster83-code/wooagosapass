@@ -3,7 +3,7 @@
   "name": "화공기사",
   "series": "기사",
   "field": "화학",
-  "updated": "2026-10-04",
+  "updated": "2026-10-25",
   "schedule": [],
   "fee": {
     "written": "19400",
@@ -26,6 +26,37 @@
   ],
   "stats": {
     "written": [],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 4833,
+        "passers": 1690,
+        "passRate": 35.0
+      },
+      {
+        "year": 2022,
+        "applicants": 2969,
+        "passers": 623,
+        "passRate": 21.0
+      },
+      {
+        "year": 2023,
+        "applicants": 2073,
+        "passers": 438,
+        "passRate": 21.1
+      },
+      {
+        "year": 2024,
+        "applicants": 1606,
+        "passers": 235,
+        "passRate": 14.6
+      },
+      {
+        "year": 2025,
+        "applicants": 1350,
+        "passers": 345,
+        "passRate": 25.6
+      }
+    ]
   }
 }
