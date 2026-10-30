@@ -16,6 +16,18 @@
   <!-- JSON-LD 구조화 데이터 -->
 
   <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"Event","name":"잠수기능장 필기시험 2026 제79회","startDate":"2026-01-24","endDate":"2026-01-24","location":{"@type":"Place","name":"전국 시험장"},"organizer":{"@type":"Organization","name":"한국산업인력공단"}}
+  </script>
+
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"Event","name":"잠수기능장 실기시험 2026 제79회","startDate":"2026-03-14","endDate":"2026-04-01","location":{"@type":"Place","name":"전국 시험장"},"organizer":{"@type":"Organization","name":"한국산업인력공단"}}
+  </script>
+
+  <script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"Event","name":"잠수기능장 필기시험 2026 제80회","startDate":"2026-06-27","endDate":"2026-06-27","location":{"@type":"Place","name":"전국 시험장"},"organizer":{"@type":"Organization","name":"한국산업인력공단"}}
+  </script>
+
+  <script type="application/ld+json">
   {"@context":"https://schema.org","@type":"Event","name":"잠수기능장 실기시험 2026 제80회","startDate":"2026-08-29","endDate":"2026-09-16","location":{"@type":"Place","name":"전국 시험장"},"organizer":{"@type":"Organization","name":"한국산업인력공단"}}
   </script>
 
@@ -94,8 +106,6 @@
           <span class="cat-badge cat-construction">건설</span>
           <span class="level-badge">기능장</span>
 
-          <span class="level-badge" style="background:#FEF3C7;color:#92400E;">🏆 건설 취득자수 98위 / 105종</span>
-
         </div>
         <a href="/compare.html?a=3911" class="compare-btn-link"
            style="display:inline-flex;align-items:center;gap:6px;margin-top:12px;padding:8px 16px;background:var(--primary);color:#fff;border-radius:var(--radius);font-size:0.875rem;font-weight:700;text-decoration:none;">
@@ -130,13 +140,23 @@
             <tbody>
 
               <tr>
+                <td class="td-round">제79회</td>
+                <td><span class="date-chip done">01-06~01-09</span></td>
+                <td><span class="date-chip done">01-24</span></td>
+                <td><span class="date-chip done">01-30</span></td>
+                <td><span class="date-chip done">02-02~02-05</span></td>
+                <td><span class="date-chip done">03-14~04-01</span></td>
+                <td><span class="date-chip done">04-10</span></td>
+              </tr>
+
+              <tr>
                 <td class="td-round">제80회</td>
                 <td><span class="date-chip done">06-08~06-11</span></td>
-                <td>-</td>
+                <td><span class="date-chip done">06-27</span></td>
                 <td><span class="date-chip done">07-15</span></td>
                 <td><span class="date-chip done">07-27~07-30</span></td>
                 <td><span class="date-chip done">08-29~09-16</span></td>
-                <td>-</td>
+                <td><span class="date-chip done">10-02</span></td>
               </tr>
 
             </tbody>
@@ -167,55 +187,8 @@
 
       <!-- 합격률 차트 -->
 
-      <div class="content-section">
-        <h2>연도별 합격률</h2>
-        <div class="chart-grid">
-          <div class="chart-box">
-            <h3>필기 합격률</h3>
-            <div class="chart-wrap">
-              <canvas id="writtenChart"></canvas>
-            </div>
-          </div>
-          <div class="chart-box">
-            <h3>실기 합격률</h3>
-            <div class="chart-wrap">
-              <canvas id="practicalChart"></canvas>
-            </div>
-          </div>
-        </div>
-
-        <div class="ad-wrap" style="margin-top:24px;">
-            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6464921081676309" data-ad-slot="7080296704" data-ad-format="auto" data-full-width-responsive="true"></ins>
-            <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-        </div>
-      </div>
-
-      <div class="content-section">
-        <h2>연도별 응시자수 추이</h2>
-        <div class="chart-wrap-wide">
-          <canvas id="applicantsChart"></canvas>
-        </div>
-      </div>
-
 
       <!-- 난이도 -->
-
-      <div class="content-section">
-        <h2>난이도</h2>
-        <div class="difficulty-box">
-          <div class="stars">
-            <span>★</span>
-            <span>★</span>
-            <span>★</span>
-            <span>★</span>
-            <span class="empty">☆</span>
-          </div>
-          <div class="difficulty-info">
-            <div class="difficulty-level">매우 어려움</div>
-            <div class="difficulty-detail">최근 3개년 평균 실기 합격률: 25.3% · 필기 합격률: 19.5%</div>
-          </div>
-        </div>
-      </div>
 
 
       <!-- 관련 자격증 -->
@@ -228,10 +201,12 @@
             <div class="related-badges">
               <span class="cat-badge cat-construction" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-16</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-15</span>
 
             </div>
             <div class="related-name">건축구조기술사</div>
+
+            <div class="related-passrate">실기 합격률 <strong>51.2%</strong></div>
 
           </a>
 
@@ -239,7 +214,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-construction" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-16</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-15</span>
 
             </div>
             <div class="related-name">건축기계설비기술사</div>
@@ -252,7 +227,7 @@
             <div class="related-badges">
               <span class="cat-badge cat-construction" style="font-size:0.7rem;padding:2px 7px;">기술사</span>
 
-              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-16</span>
+              <span style="font-size:0.75rem;font-weight:700;color:var(--primary);">D-15</span>
 
             </div>
             <div class="related-name">건축시공기술사</div>
@@ -318,39 +293,11 @@
 
         <div class="info-row">
           <span class="info-label">연간 시험</span>
-          <span class="info-value">연 1회</span>
-        </div>
-
-
-        <div class="info-row">
-          <span class="info-label">최근 응시자</span>
-          <span class="info-value">36명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
-        </div>
-
-
-        <div class="info-row">
-          <span class="info-label">최근 합격자</span>
-          <span class="info-value">6명<span style="font-size:0.75rem;color:var(--text-secondary);margin-left:3px;">(2025)</span></span>
-        </div>
-
-
-        <div class="info-row">
-          <span class="info-label">필기→실기 전환율</span>
-          <span class="info-value">75.0%</span>
+          <span class="info-value">연 2회</span>
         </div>
 
 
 
-        <div class="info-row">
-          <span class="info-label">필기 합격률 추이</span>
-          <span class="info-value" style="font-size:0.8125rem;color:#16A34A;">↑ 6.2%p 상승</span>
-        </div>
-
-
-        <div class="info-row">
-          <span class="info-label">실기 합격률 추이</span>
-          <span class="info-value" style="font-size:0.8125rem;color:#DC2626;">↓ 40.9%p 하락</span>
-        </div>
 
 
         <a href="https://wooagosa.wooahouse.com/" target="_blank" rel="noopener"
@@ -407,13 +354,6 @@
   </div>
 </footer>
 
-
-<!-- 차트 데이터 -->
-<script id="stats-data" type="application/json">
-[{"year": 2021, "writtenApplicants": 32, "writtenPassRate": 31.2, "practicalApplicants": 21, "practicalPassRate": 4.8}, {"year": 2022, "writtenApplicants": 38, "writtenPassRate": 26.3, "practicalApplicants": 15, "practicalPassRate": 20.0}, {"year": 2023, "writtenApplicants": 38, "writtenPassRate": 10.5, "practicalApplicants": 8, "practicalPassRate": 50.0}, {"year": 2024, "writtenApplicants": 51, "writtenPassRate": 31.4, "practicalApplicants": 12, "practicalPassRate": 16.7}, {"year": 2025, "writtenApplicants": 36, "writtenPassRate": 16.7, "practicalApplicants": 11, "practicalPassRate": 9.1}]
-</script>
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script src="/js/detail.js?v=2"></script>
 
 
 </body>

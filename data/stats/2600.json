@@ -3,7 +3,7 @@
   "name": "건설재료시험산업기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-10-23",
+  "updated": "2026-10-30",
   "schedule": [
     {
       "round": "제1회",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "36000",
-    "raw": "1차 : 19400, 2차 : 36000"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
