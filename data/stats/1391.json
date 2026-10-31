@@ -3,7 +3,7 @@
   "name": "인쇄설계기사",
   "series": "기사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-10-24",
+  "updated": "2026-10-31",
   "schedule": [
     {
       "round": "제2회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "22600",
-    "raw": "1차 : 19400, 2차 : 22600"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

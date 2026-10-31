@@ -3,7 +3,7 @@
   "name": "수산양식산업기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-10-24",
+  "updated": "2026-10-31",
   "schedule": [
     {
       "round": "제3회",
@@ -40,38 +40,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 112,
-        "passers": 50,
-        "passRate": 44.6
-      },
-      {
-        "year": 2022,
-        "applicants": 70,
-        "passers": 30,
-        "passRate": 42.9
-      },
-      {
-        "year": 2023,
-        "applicants": 76,
-        "passers": 23,
-        "passRate": 30.3
-      },
-      {
-        "year": 2024,
-        "applicants": 74,
-        "passers": 23,
-        "passRate": 31.1
-      },
-      {
-        "year": 2025,
-        "applicants": 60,
-        "passers": 15,
-        "passRate": 25.0
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,
