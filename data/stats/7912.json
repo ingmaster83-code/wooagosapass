@@ -3,12 +3,12 @@
   "name": "일식조리기능사",
   "series": "기능사",
   "field": "음식서비스",
-  "updated": "2026-10-25",
+  "updated": "2026-11-01",
   "schedule": [],
   "fee": {
-    "written": "14500",
-    "practical": "30800",
-    "raw": "1차 : 14500, 2차 : 30800"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {

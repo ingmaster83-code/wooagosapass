@@ -3,37 +3,8 @@
   "name": "선체설계기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-10-25",
-  "schedule": [
-    {
-      "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
-      "written_reg_start": "",
-      "written_reg_end": "",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "",
-      "prac_reg_start": "2026-05-11",
-      "prac_reg_end": "2026-05-14",
-      "prac_exam_start": "2026-06-13",
-      "prac_exam_end": "2026-06-24",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    },
-    {
-      "round": "제4회",
-      "written_reg_start": "2026-08-24",
-      "written_reg_end": "2026-08-27",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-10-07",
-      "prac_reg_start": "2026-10-12",
-      "prac_reg_end": "2026-10-15",
-      "prac_exam_start": "2026-11-14",
-      "prac_exam_end": "2026-12-02",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-11-01",
+  "schedule": [],
   "fee": {
     "written": "14500",
     "practical": "24400",
@@ -54,69 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 13,
-        "passers": 5,
-        "passRate": 38.5
-      },
-      {
-        "year": 2022,
-        "applicants": 16,
-        "passers": 10,
-        "passRate": 62.5
-      },
-      {
-        "year": 2023,
-        "applicants": 12,
-        "passers": 9,
-        "passRate": 75.0
-      },
-      {
-        "year": 2024,
-        "applicants": 14,
-        "passers": 8,
-        "passRate": 57.1
-      },
-      {
-        "year": 2025,
-        "applicants": 26,
-        "passers": 19,
-        "passRate": 73.1
-      }
-    ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 29,
-        "passers": 28,
-        "passRate": 96.6
-      },
-      {
-        "year": 2022,
-        "applicants": 10,
-        "passers": 8,
-        "passRate": 80.0
-      },
-      {
-        "year": 2023,
-        "applicants": 14,
-        "passers": 12,
-        "passRate": 85.7
-      },
-      {
-        "year": 2024,
-        "applicants": 17,
-        "passers": 14,
-        "passRate": 82.4
-      },
-      {
-        "year": 2025,
-        "applicants": 26,
-        "passers": 26,
-        "passRate": 100.0
-      }
-    ]
+    "written": [],
+    "practical": []
   }
 }

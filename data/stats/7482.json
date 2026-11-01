@@ -3,7 +3,7 @@
   "name": "식육처리기능사",
   "series": "기능사",
   "field": "농림어업",
-  "updated": "2026-10-25",
+  "updated": "2026-11-01",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -57,6 +57,37 @@
         "passRate": 63.5
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 678,
+        "passers": 425,
+        "passRate": 62.7
+      },
+      {
+        "year": 2022,
+        "applicants": 680,
+        "passers": 374,
+        "passRate": 55.0
+      },
+      {
+        "year": 2023,
+        "applicants": 739,
+        "passers": 449,
+        "passRate": 60.8
+      },
+      {
+        "year": 2024,
+        "applicants": 822,
+        "passers": 462,
+        "passRate": 56.2
+      },
+      {
+        "year": 2025,
+        "applicants": 840,
+        "passers": 486,
+        "passRate": 57.9
+      }
+    ]
   }
 }

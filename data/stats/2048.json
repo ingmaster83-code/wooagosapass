@@ -3,12 +3,12 @@
   "name": "콘크리트산업기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-10-25",
+  "updated": "2026-11-01",
   "schedule": [],
   "fee": {
-    "written": "19400",
-    "practical": "57100",
-    "raw": "1차 : 19400, 2차 : 57100"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -57,37 +57,6 @@
         "passRate": 33.3
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 195,
-        "passers": 141,
-        "passRate": 72.3
-      },
-      {
-        "year": 2022,
-        "applicants": 160,
-        "passers": 94,
-        "passRate": 58.8
-      },
-      {
-        "year": 2023,
-        "applicants": 173,
-        "passers": 115,
-        "passRate": 66.5
-      },
-      {
-        "year": 2024,
-        "applicants": 180,
-        "passers": 114,
-        "passRate": 63.3
-      },
-      {
-        "year": 2025,
-        "applicants": 166,
-        "passers": 110,
-        "passRate": 66.3
-      }
-    ]
+    "practical": []
   }
 }
