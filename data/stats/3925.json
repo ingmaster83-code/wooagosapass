@@ -3,41 +3,12 @@
   "name": "이용장",
   "series": "기능장",
   "field": "이용.숙박.여행.오락.스포츠",
-  "updated": "2026-10-30",
-  "schedule": [
-    {
-      "round": "제79회",
-      "written_reg_start": "2026-01-06",
-      "written_reg_end": "2026-01-09",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-01-30",
-      "prac_reg_start": "2026-02-02",
-      "prac_reg_end": "2026-02-05",
-      "prac_exam_start": "2026-03-14",
-      "prac_exam_end": "2026-04-01",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    },
-    {
-      "round": "제80회",
-      "written_reg_start": "2026-06-08",
-      "written_reg_end": "2026-06-11",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-07-15",
-      "prac_reg_start": "2026-07-27",
-      "prac_reg_end": "2026-07-30",
-      "prac_exam_start": "2026-08-29",
-      "prac_exam_end": "2026-09-16",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-11-06",
+  "schedule": [],
   "fee": {
-    "written": "34400",
-    "practical": "31100",
-    "raw": "1차 : 34400, 2차 : 31100"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [
     {
@@ -55,37 +26,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 201,
-        "passers": 30,
-        "passRate": 14.9
-      },
-      {
-        "year": 2022,
-        "applicants": 233,
-        "passers": 29,
-        "passRate": 12.4
-      },
-      {
-        "year": 2023,
-        "applicants": 217,
-        "passers": 15,
-        "passRate": 6.9
-      },
-      {
-        "year": 2024,
-        "applicants": 173,
-        "passers": 22,
-        "passRate": 12.7
-      },
-      {
-        "year": 2025,
-        "applicants": 156,
-        "passers": 14,
-        "passRate": 9.0
-      }
-    ]
+    "practical": []
   }
 }
