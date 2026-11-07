@@ -3,7 +3,7 @@
   "name": "철도신호산업기사",
   "series": "기사",
   "field": "전기.전자",
-  "updated": "2026-10-31",
+  "updated": "2026-11-07",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "19400",
-    "practical": "105900",
-    "raw": "1차 : 19400, 2차 : 105900"
+    "written": "",
+    "practical": "",
+    "raw": ""
   },
   "info": [],
   "stats": {
@@ -59,37 +59,6 @@
         "passRate": 25.9
       }
     ],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 43,
-        "passers": 30,
-        "passRate": 69.8
-      },
-      {
-        "year": 2022,
-        "applicants": 42,
-        "passers": 36,
-        "passRate": 85.7
-      },
-      {
-        "year": 2023,
-        "applicants": 30,
-        "passers": 26,
-        "passRate": 86.7
-      },
-      {
-        "year": 2024,
-        "applicants": 28,
-        "passers": 21,
-        "passRate": 75.0
-      },
-      {
-        "year": 2025,
-        "applicants": 44,
-        "passers": 37,
-        "passRate": 84.1
-      }
-    ]
+    "practical": []
   }
 }

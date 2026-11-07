@@ -3,37 +3,8 @@
   "name": "응용지질기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-10-31",
-  "schedule": [
-    {
-      "round": "제1회",
-      "written_reg_start": "2026-01-12",
-      "written_reg_end": "2026-01-15",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-03-11",
-      "prac_reg_start": "2026-03-23",
-      "prac_reg_end": "2026-03-26",
-      "prac_exam_start": "2026-04-18",
-      "prac_exam_end": "2026-05-06",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    },
-    {
-      "round": "제2회",
-      "written_reg_start": "2026-04-20",
-      "written_reg_end": "2026-04-23",
-      "written_exam_start": "",
-      "written_exam_end": "",
-      "written_pass": "2026-06-10",
-      "prac_reg_start": "2026-06-22",
-      "prac_reg_end": "2026-06-25",
-      "prac_exam_start": "2026-07-18",
-      "prac_exam_end": "2026-08-05",
-      "prac_pass_start": "",
-      "prac_pass_end": ""
-    }
-  ],
+  "updated": "2026-11-07",
+  "schedule": [],
   "fee": {
     "written": "19400",
     "practical": "45000",
@@ -54,38 +25,7 @@
     }
   ],
   "stats": {
-    "written": [
-      {
-        "year": 2021,
-        "applicants": 396,
-        "passers": 175,
-        "passRate": 44.2
-      },
-      {
-        "year": 2022,
-        "applicants": 340,
-        "passers": 158,
-        "passRate": 46.5
-      },
-      {
-        "year": 2023,
-        "applicants": 402,
-        "passers": 200,
-        "passRate": 49.8
-      },
-      {
-        "year": 2024,
-        "applicants": 410,
-        "passers": 199,
-        "passRate": 48.5
-      },
-      {
-        "year": 2025,
-        "applicants": 489,
-        "passers": 219,
-        "passRate": 44.8
-      }
-    ],
+    "written": [],
     "practical": [
       {
         "year": 2021,

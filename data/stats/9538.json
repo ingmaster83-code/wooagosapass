@@ -3,7 +3,7 @@
   "name": "소비자전문상담사2급",
   "series": "기사",
   "field": "경영.회계.사무",
-  "updated": "2026-10-31",
+  "updated": "2026-11-07",
   "schedule": [
     {
       "round": "제1회",
@@ -55,37 +55,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 395,
-        "passers": 169,
-        "passRate": 42.8
-      },
-      {
-        "year": 2022,
-        "applicants": 271,
-        "passers": 168,
-        "passRate": 62.0
-      },
-      {
-        "year": 2023,
-        "applicants": 232,
-        "passers": 86,
-        "passRate": 37.1
-      },
-      {
-        "year": 2024,
-        "applicants": 236,
-        "passers": 98,
-        "passRate": 41.5
-      },
-      {
-        "year": 2025,
-        "applicants": 228,
-        "passers": 121,
-        "passRate": 53.1
-      }
-    ]
+    "practical": []
   }
 }

@@ -3,7 +3,7 @@
   "name": "신발산업기사",
   "series": "기사",
   "field": "섬유.의복",
-  "updated": "2026-10-31",
+  "updated": "2026-11-07",
   "schedule": [
     {
       "round": "제3회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "27400",
+    "raw": "1차 : 19400, 2차 : 27400"
   },
   "info": [
     {
@@ -41,37 +41,6 @@
   ],
   "stats": {
     "written": [],
-    "practical": [
-      {
-        "year": 2021,
-        "applicants": 66,
-        "passers": 55,
-        "passRate": 83.3
-      },
-      {
-        "year": 2022,
-        "applicants": 22,
-        "passers": 17,
-        "passRate": 77.3
-      },
-      {
-        "year": 2023,
-        "applicants": 23,
-        "passers": 18,
-        "passRate": 78.3
-      },
-      {
-        "year": 2024,
-        "applicants": 25,
-        "passers": 21,
-        "passRate": 84.0
-      },
-      {
-        "year": 2025,
-        "applicants": 18,
-        "passers": 17,
-        "passRate": 94.4
-      }
-    ]
+    "practical": []
   }
 }
