@@ -3,7 +3,7 @@
   "name": "선체설계기능사",
   "series": "기능사",
   "field": "기계",
-  "updated": "2026-11-01",
+  "updated": "2026-11-08",
   "schedule": [],
   "fee": {
     "written": "14500",
@@ -25,7 +25,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 13,
+        "passers": 5,
+        "passRate": 38.5
+      },
+      {
+        "year": 2022,
+        "applicants": 16,
+        "passers": 10,
+        "passRate": 62.5
+      },
+      {
+        "year": 2023,
+        "applicants": 12,
+        "passers": 9,
+        "passRate": 75.0
+      },
+      {
+        "year": 2024,
+        "applicants": 14,
+        "passers": 8,
+        "passRate": 57.1
+      },
+      {
+        "year": 2025,
+        "applicants": 26,
+        "passers": 19,
+        "passRate": 73.1
+      }
+    ],
     "practical": []
   }
 }
