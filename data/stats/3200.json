@@ -3,7 +3,7 @@
   "name": "주조기능장",
   "series": "기능장",
   "field": "재료",
-  "updated": "2026-11-06",
+  "updated": "2026-11-13",
   "schedule": [
     {
       "round": "제79회",
@@ -86,6 +86,37 @@
         "passRate": 77.6
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 365,
+        "passers": 160,
+        "passRate": 43.8
+      },
+      {
+        "year": 2022,
+        "applicants": 372,
+        "passers": 49,
+        "passRate": 13.2
+      },
+      {
+        "year": 2023,
+        "applicants": 432,
+        "passers": 104,
+        "passRate": 24.1
+      },
+      {
+        "year": 2024,
+        "applicants": 352,
+        "passers": 179,
+        "passRate": 50.9
+      },
+      {
+        "year": 2025,
+        "applicants": 340,
+        "passers": 173,
+        "passRate": 50.9
+      }
+    ]
   }
 }

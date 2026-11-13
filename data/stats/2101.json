@@ -3,8 +3,51 @@
   "name": "금속재료산업기사",
   "series": "기사",
   "field": "재료",
-  "updated": "2026-11-06",
-  "schedule": [],
+  "updated": "2026-11-13",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-01-12",
+      "written_reg_end": "2026-01-15",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-11",
+      "prac_reg_start": "2026-03-23",
+      "prac_reg_end": "2026-03-26",
+      "prac_exam_start": "2026-04-18",
+      "prac_exam_end": "2026-05-06",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-04-20",
+      "written_reg_end": "2026-04-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-25",
+      "prac_exam_start": "2026-07-18",
+      "prac_exam_end": "2026-08-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-15",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "19400",
     "practical": "72800",
@@ -57,6 +100,37 @@
         "passRate": 42.8
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 789,
+        "passers": 245,
+        "passRate": 31.1
+      },
+      {
+        "year": 2022,
+        "applicants": 586,
+        "passers": 242,
+        "passRate": 41.3
+      },
+      {
+        "year": 2023,
+        "applicants": 436,
+        "passers": 242,
+        "passRate": 55.5
+      },
+      {
+        "year": 2024,
+        "applicants": 416,
+        "passers": 217,
+        "passRate": 52.2
+      },
+      {
+        "year": 2025,
+        "applicants": 473,
+        "passers": 244,
+        "passRate": 51.6
+      }
+    ]
   }
 }

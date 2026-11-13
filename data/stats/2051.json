@@ -3,7 +3,7 @@
   "name": "궤도장비정비산업기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-11-06",
+  "updated": "2026-11-13",
   "schedule": [
     {
       "round": "제3회",
@@ -15,15 +15,15 @@
       "prac_reg_start": "2026-09-21",
       "prac_reg_end": "2026-09-28",
       "prac_exam_start": "2026-10-24",
-      "prac_exam_end": "2026-11-13",
+      "prac_exam_end": "2026-11-15",
       "prac_pass_start": "",
       "prac_pass_end": ""
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "69400",
+    "raw": "1차 : 19400, 2차 : 69400"
   },
   "info": [
     {
@@ -40,7 +40,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 23,
+        "passers": 5,
+        "passRate": 21.7
+      },
+      {
+        "year": 2022,
+        "applicants": 29,
+        "passers": 4,
+        "passRate": 13.8
+      },
+      {
+        "year": 2023,
+        "applicants": 45,
+        "passers": 7,
+        "passRate": 15.6
+      },
+      {
+        "year": 2024,
+        "applicants": 32,
+        "passers": 6,
+        "passRate": 18.8
+      },
+      {
+        "year": 2025,
+        "applicants": 27,
+        "passers": 5,
+        "passRate": 18.5
+      }
+    ],
     "practical": [
       {
         "year": 2021,

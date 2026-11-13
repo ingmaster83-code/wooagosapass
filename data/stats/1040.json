@@ -3,7 +3,7 @@
   "name": "건설기계설비기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-11-06",
+  "updated": "2026-11-13",
   "schedule": [
     {
       "round": "제1회",
@@ -43,7 +43,7 @@
       "prac_reg_start": "2026-09-21",
       "prac_reg_end": "2026-09-28",
       "prac_exam_start": "2026-10-24",
-      "prac_exam_end": "2026-11-13",
+      "prac_exam_end": "2026-11-15",
       "prac_pass_start": "",
       "prac_pass_end": ""
     }
