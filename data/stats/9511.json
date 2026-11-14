@@ -3,7 +3,7 @@
   "name": "직업상담사2급",
   "series": "기사",
   "field": "사회복지.종교",
-  "updated": "2026-11-07",
+  "updated": "2026-11-14",
   "schedule": [
     {
       "round": "제1회",
@@ -43,7 +43,7 @@
       "prac_reg_start": "2026-09-21",
       "prac_reg_end": "2026-09-28",
       "prac_exam_start": "2026-10-24",
-      "prac_exam_end": "2026-11-13",
+      "prac_exam_end": "2026-11-15",
       "prac_pass_start": "",
       "prac_pass_end": ""
     }
@@ -68,7 +68,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 24155,
+        "passers": 13364,
+        "passRate": 55.3
+      },
+      {
+        "year": 2022,
+        "applicants": 18059,
+        "passers": 8778,
+        "passRate": 48.6
+      },
+      {
+        "year": 2023,
+        "applicants": 16060,
+        "passers": 9440,
+        "passRate": 58.8
+      },
+      {
+        "year": 2024,
+        "applicants": 15513,
+        "passers": 9099,
+        "passRate": 58.7
+      },
+      {
+        "year": 2025,
+        "applicants": 15497,
+        "passers": 8819,
+        "passRate": 56.9
+      }
+    ],
     "practical": [
       {
         "year": 2021,

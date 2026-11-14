@@ -3,7 +3,7 @@
   "name": "보석디자인산업기사",
   "series": "기사",
   "field": "인쇄.목재.가구.공예",
-  "updated": "2026-11-07",
+  "updated": "2026-11-14",
   "schedule": [
     {
       "round": "제3회",
@@ -15,7 +15,7 @@
       "prac_reg_start": "2026-09-21",
       "prac_reg_end": "2026-09-28",
       "prac_exam_start": "2026-10-24",
-      "prac_exam_end": "2026-11-13",
+      "prac_exam_end": "2026-11-15",
       "prac_pass_start": "",
       "prac_pass_end": ""
     }
@@ -72,6 +72,37 @@
         "passRate": 63.0
       }
     ],
-    "practical": []
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 23,
+        "passers": 16,
+        "passRate": 69.6
+      },
+      {
+        "year": 2022,
+        "applicants": 16,
+        "passers": 10,
+        "passRate": 62.5
+      },
+      {
+        "year": 2023,
+        "applicants": 12,
+        "passers": 9,
+        "passRate": 75.0
+      },
+      {
+        "year": 2024,
+        "applicants": 11,
+        "passers": 10,
+        "passRate": 90.9
+      },
+      {
+        "year": 2025,
+        "applicants": 11,
+        "passers": 9,
+        "passRate": 81.8
+      }
+    ]
   }
 }

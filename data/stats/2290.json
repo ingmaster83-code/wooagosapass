@@ -3,7 +3,7 @@
   "name": "정보처리산업기사",
   "series": "기사",
   "field": "정보통신",
-  "updated": "2026-11-07",
+  "updated": "2026-11-14",
   "schedule": [
     {
       "round": "제1회",
@@ -43,15 +43,15 @@
       "prac_reg_start": "2026-09-21",
       "prac_reg_end": "2026-09-28",
       "prac_exam_start": "2026-10-24",
-      "prac_exam_end": "2026-11-13",
+      "prac_exam_end": "2026-11-15",
       "prac_pass_start": "",
       "prac_pass_end": ""
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "20800",
+    "raw": "1차 : 19400, 2차 : 20800"
   },
   "info": [
     {
@@ -68,7 +68,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 10431,
+        "passers": 4883,
+        "passRate": 46.8
+      },
+      {
+        "year": 2022,
+        "applicants": 8464,
+        "passers": 3491,
+        "passRate": 41.2
+      },
+      {
+        "year": 2023,
+        "applicants": 8707,
+        "passers": 4438,
+        "passRate": 51.0
+      },
+      {
+        "year": 2024,
+        "applicants": 8579,
+        "passers": 4137,
+        "passRate": 48.2
+      },
+      {
+        "year": 2025,
+        "applicants": 7533,
+        "passers": 4437,
+        "passRate": 58.9
+      }
+    ],
     "practical": [
       {
         "year": 2021,

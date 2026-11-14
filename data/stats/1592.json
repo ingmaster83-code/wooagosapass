@@ -3,7 +3,7 @@
   "name": "유기농업기사",
   "series": "기사",
   "field": "농림어업",
-  "updated": "2026-11-07",
+  "updated": "2026-11-14",
   "schedule": [
     {
       "round": "제1회",
@@ -43,7 +43,7 @@
       "prac_reg_start": "2026-09-21",
       "prac_reg_end": "2026-09-28",
       "prac_exam_start": "2026-10-24",
-      "prac_exam_end": "2026-11-13",
+      "prac_exam_end": "2026-11-15",
       "prac_pass_start": "",
       "prac_pass_end": ""
     }
@@ -68,7 +68,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1033,
+        "passers": 571,
+        "passRate": 55.3
+      },
+      {
+        "year": 2022,
+        "applicants": 895,
+        "passers": 545,
+        "passRate": 60.9
+      },
+      {
+        "year": 2023,
+        "applicants": 1025,
+        "passers": 635,
+        "passRate": 62.0
+      },
+      {
+        "year": 2024,
+        "applicants": 1129,
+        "passers": 642,
+        "passRate": 56.9
+      },
+      {
+        "year": 2025,
+        "applicants": 1379,
+        "passers": 792,
+        "passRate": 57.4
+      }
+    ],
     "practical": [
       {
         "year": 2021,
