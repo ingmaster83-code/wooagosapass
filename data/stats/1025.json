@@ -3,7 +3,7 @@
   "name": "프레스금형기사",
   "series": "기사",
   "field": "기계",
-  "updated": "2026-11-08",
+  "updated": "2026-11-15",
   "schedule": [
     {
       "round": "제2회",
@@ -21,9 +21,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "30200",
+    "raw": "1차 : 19400, 2차 : 30200"
   },
   "info": [
     {
@@ -40,7 +40,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 47,
+        "passers": 16,
+        "passRate": 34.0
+      },
+      {
+        "year": 2022,
+        "applicants": 37,
+        "passers": 13,
+        "passRate": 35.1
+      },
+      {
+        "year": 2023,
+        "applicants": 45,
+        "passers": 22,
+        "passRate": 48.9
+      },
+      {
+        "year": 2024,
+        "applicants": 46,
+        "passers": 12,
+        "passRate": 26.1
+      },
+      {
+        "year": 2025,
+        "applicants": 39,
+        "passers": 12,
+        "passRate": 30.8
+      }
+    ],
     "practical": [
       {
         "year": 2021,

@@ -3,8 +3,37 @@
   "name": "화약류관리기사",
   "series": "기사",
   "field": "광업자원",
-  "updated": "2026-11-08",
-  "schedule": [],
+  "updated": "2026-11-15",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-01-12",
+      "written_reg_end": "2026-01-15",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-11",
+      "prac_reg_start": "2026-03-23",
+      "prac_reg_end": "2026-03-26",
+      "prac_exam_start": "2026-04-18",
+      "prac_exam_end": "2026-05-06",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-15",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "19400",
     "practical": "46400",
@@ -25,7 +54,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 352,
+        "passers": 161,
+        "passRate": 45.7
+      },
+      {
+        "year": 2022,
+        "applicants": 281,
+        "passers": 110,
+        "passRate": 39.1
+      },
+      {
+        "year": 2023,
+        "applicants": 368,
+        "passers": 142,
+        "passRate": 38.6
+      },
+      {
+        "year": 2024,
+        "applicants": 378,
+        "passers": 138,
+        "passRate": 36.5
+      },
+      {
+        "year": 2025,
+        "applicants": 360,
+        "passers": 140,
+        "passRate": 38.9
+      }
+    ],
     "practical": [
       {
         "year": 2021,

@@ -3,7 +3,7 @@
   "name": "의료전자기능사",
   "series": "기능사",
   "field": "전기.전자",
-  "updated": "2026-11-08",
+  "updated": "2026-11-15",
   "schedule": [
     {
       "round": "2026년 정기 기능사 산업별 맞춤형 고교등 필기면제검정",
@@ -35,9 +35,9 @@
     }
   ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "14500",
+    "practical": "27500",
+    "raw": "1차 : 14500, 2차 : 27500"
   },
   "info": [
     {
@@ -54,7 +54,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 131,
+        "passers": 84,
+        "passRate": 64.1
+      },
+      {
+        "year": 2022,
+        "applicants": 208,
+        "passers": 92,
+        "passRate": 44.2
+      },
+      {
+        "year": 2023,
+        "applicants": 141,
+        "passers": 46,
+        "passRate": 32.6
+      },
+      {
+        "year": 2024,
+        "applicants": 206,
+        "passers": 73,
+        "passRate": 35.4
+      },
+      {
+        "year": 2025,
+        "applicants": 252,
+        "passers": 64,
+        "passRate": 25.4
+      }
+    ],
     "practical": [
       {
         "year": 2021,

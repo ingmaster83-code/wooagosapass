@@ -3,8 +3,51 @@
   "name": "측량및지형공간정보산업기사",
   "series": "기사",
   "field": "건설",
-  "updated": "2026-11-08",
-  "schedule": [],
+  "updated": "2026-11-15",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-01-12",
+      "written_reg_end": "2026-01-15",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-11",
+      "prac_reg_start": "2026-03-23",
+      "prac_reg_end": "2026-03-26",
+      "prac_exam_start": "2026-04-18",
+      "prac_exam_end": "2026-05-06",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-04-20",
+      "written_reg_end": "2026-04-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-25",
+      "prac_exam_start": "2026-07-18",
+      "prac_exam_end": "2026-08-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-15",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "19400",
     "practical": "36400",
@@ -25,7 +68,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1072,
+        "passers": 402,
+        "passRate": 37.5
+      },
+      {
+        "year": 2022,
+        "applicants": 1048,
+        "passers": 368,
+        "passRate": 35.1
+      },
+      {
+        "year": 2023,
+        "applicants": 1098,
+        "passers": 425,
+        "passRate": 38.7
+      },
+      {
+        "year": 2024,
+        "applicants": 931,
+        "passers": 351,
+        "passRate": 37.7
+      },
+      {
+        "year": 2025,
+        "applicants": 770,
+        "passers": 267,
+        "passRate": 34.7
+      }
+    ],
     "practical": [
       {
         "year": 2021,

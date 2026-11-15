@@ -3,14 +3,182 @@
   "name": "방수기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-11-08",
-  "schedule": [],
+  "updated": "2026-11-15",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "",
+      "written_reg_end": "",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "",
+      "prac_reg_start": "2026-02-02",
+      "prac_reg_end": "2026-02-05",
+      "prac_exam_start": "2026-03-14",
+      "prac_exam_end": "2026-04-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제2회",
+      "written_reg_start": "",
+      "written_reg_end": "",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "",
+      "prac_reg_start": "2026-04-27",
+      "prac_reg_end": "2026-04-30",
+      "prac_exam_start": "2026-05-30",
+      "prac_exam_end": "2026-06-14",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제3회",
+      "written_reg_start": "",
+      "written_reg_end": "",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-30",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-09-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제4회",
+      "written_reg_start": "",
+      "written_reg_end": "",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "",
+      "prac_reg_start": "2026-10-12",
+      "prac_reg_end": "2026-10-15",
+      "prac_exam_start": "2026-11-14",
+      "prac_exam_end": "2026-12-02",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제101회",
+      "written_reg_start": "",
+      "written_reg_end": "",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "",
+      "prac_reg_start": "2026-01-23",
+      "prac_reg_end": "2026-01-23",
+      "prac_exam_start": "2026-02-02",
+      "prac_exam_end": "2026-02-10",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제102회",
+      "written_reg_start": "",
+      "written_reg_end": "",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "",
+      "prac_reg_start": "2026-02-20",
+      "prac_reg_end": "2026-02-20",
+      "prac_exam_start": "2026-03-03",
+      "prac_exam_end": "2026-03-13",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제103회",
+      "written_reg_start": "",
+      "written_reg_end": "",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "",
+      "prac_reg_start": "2026-04-30",
+      "prac_reg_end": "2026-04-30",
+      "prac_exam_start": "2026-05-11",
+      "prac_exam_end": "2026-05-22",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제104회",
+      "written_reg_start": "",
+      "written_reg_end": "",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "",
+      "prac_reg_start": "2026-06-26",
+      "prac_reg_end": "2026-06-26",
+      "prac_exam_start": "2026-07-06",
+      "prac_exam_end": "2026-07-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제105회",
+      "written_reg_start": "",
+      "written_reg_end": "",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "",
+      "prac_reg_start": "2026-08-07",
+      "prac_reg_end": "2026-08-07",
+      "prac_exam_start": "2026-08-18",
+      "prac_exam_end": "2026-08-28",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제106회",
+      "written_reg_start": "",
+      "written_reg_end": "",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "",
+      "prac_reg_start": "2026-10-02",
+      "prac_reg_end": "2026-10-02",
+      "prac_exam_start": "2026-10-12",
+      "prac_exam_end": "2026-10-23",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제107회",
+      "written_reg_start": "",
+      "written_reg_end": "",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "",
+      "prac_reg_start": "2026-11-27",
+      "prac_reg_end": "2026-11-27",
+      "prac_exam_start": "2026-12-07",
+      "prac_exam_end": "2026-12-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "62700",
     "practical": "",
     "raw": ", 2차 : 62700"
   },
-  "info": [],
+  "info": [
+    {
+      "type": "출제경향",
+      "content": "- 건축물의 지하층, 지붕, 바닥, 벽체에 모르타르, 아스팔트 등의 각종 방수재를 바르거나 도포하는 능력을 평가\n- 공개문제 참조"
+    },
+    {
+      "type": "출제기준",
+      "content": "방수기능사 출제기준\r\n\r\n\r\n\r\n\r\n방수기능사 출제기준입니다.\r\n \r\n메뉴상단 고객지원-자료실-출제기준 에서도 보실 수 있습니다."
+    },
+    {
+      "type": "취득방법",
+      "content": "방수기능사 취득방법\r\n\r\n\r\n\r\n\r\n 시 행 처 : 한국산업인력공단 \r\n 시험과목 - 실기 : 방수작업 \r\n 검정방법 - 실기 : 작업형(2시간10분 정도)\r\n 합격기준 - 100점 만점에 60점 이상 \r\n\r\n\r\n\r\n\r\n\r\n\r\n \r\n안전등급(Safety Level) : 4등급\r\n\r\n\r\n\r\n\r\n\r\n▼\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\n\r\n\r\n위험\r\n\r\n경고\r\n\r\n주의\r\n\r\n관심\r\n\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n&bull; 시험장소 구분 \r\n\r\n실내, 실외\r\n\r\n \r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n&bull; 주요시설 및 장비\r\n\r\n토치램프, 칼\r\n\r\n\r\n\r\n \r\n\r\n\r\n\r\n&bull; 보호구 \r\n\r\n안전모, 작업화 등\r\n\r\n\r\n\r\n- 보호구(작업복 등) 착용, 정리정돈 상태, 안전사항 등이 채점 대상이 될 수 있습니다.\r\n- 반드시 수험자 지참공구 목록을 확인하여 주시기 바랍니다."
+    }
+  ],
   "stats": {
     "written": [
       {

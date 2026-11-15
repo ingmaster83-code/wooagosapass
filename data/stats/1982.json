@@ -3,12 +3,55 @@
   "name": "컬러리스트기사",
   "series": "기사",
   "field": "문화.예술.디자인.방송",
-  "updated": "2026-11-08",
-  "schedule": [],
+  "updated": "2026-11-15",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-01-12",
+      "written_reg_end": "2026-01-15",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-03-11",
+      "prac_reg_start": "2026-03-23",
+      "prac_reg_end": "2026-03-26",
+      "prac_exam_start": "2026-04-18",
+      "prac_exam_end": "2026-05-06",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-04-20",
+      "written_reg_end": "2026-04-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-06-10",
+      "prac_reg_start": "2026-06-22",
+      "prac_reg_end": "2026-06-25",
+      "prac_exam_start": "2026-07-18",
+      "prac_exam_end": "2026-08-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-07-20",
+      "written_reg_end": "2026-07-23",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-09-09",
+      "prac_reg_start": "2026-09-21",
+      "prac_reg_end": "2026-09-28",
+      "prac_exam_start": "2026-10-24",
+      "prac_exam_end": "2026-11-15",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
-    "written": "",
-    "practical": "",
-    "raw": ""
+    "written": "19400",
+    "practical": "34000",
+    "raw": "1차 : 19400, 2차 : 34000"
   },
   "info": [
     {
@@ -25,7 +68,38 @@
     }
   ],
   "stats": {
-    "written": [],
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 2574,
+        "passers": 1429,
+        "passRate": 55.5
+      },
+      {
+        "year": 2022,
+        "applicants": 1892,
+        "passers": 944,
+        "passRate": 49.9
+      },
+      {
+        "year": 2023,
+        "applicants": 2132,
+        "passers": 1061,
+        "passRate": 49.8
+      },
+      {
+        "year": 2024,
+        "applicants": 2030,
+        "passers": 890,
+        "passRate": 43.8
+      },
+      {
+        "year": 2025,
+        "applicants": 1879,
+        "passers": 871,
+        "passRate": 46.4
+      }
+    ],
     "practical": [
       {
         "year": 2021,
