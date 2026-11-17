@@ -3,8 +3,51 @@
   "name": "잠수기능사",
   "series": "기능사",
   "field": "건설",
-  "updated": "2026-11-10",
-  "schedule": [],
+  "updated": "2026-11-17",
+  "schedule": [
+    {
+      "round": "제1회",
+      "written_reg_start": "2026-01-06",
+      "written_reg_end": "2026-01-09",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-01-30",
+      "prac_reg_start": "2026-02-02",
+      "prac_reg_end": "2026-02-05",
+      "prac_exam_start": "2026-03-14",
+      "prac_exam_end": "2026-04-05",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제2회",
+      "written_reg_start": "2026-03-16",
+      "written_reg_end": "2026-03-20",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-04-22",
+      "prac_reg_start": "2026-04-27",
+      "prac_reg_end": "2026-04-30",
+      "prac_exam_start": "2026-05-30",
+      "prac_exam_end": "2026-06-14",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    },
+    {
+      "round": "제3회",
+      "written_reg_start": "2026-06-08",
+      "written_reg_end": "2026-06-11",
+      "written_exam_start": "",
+      "written_exam_end": "",
+      "written_pass": "2026-07-15",
+      "prac_reg_start": "2026-07-27",
+      "prac_reg_end": "2026-07-30",
+      "prac_exam_start": "2026-08-29",
+      "prac_exam_end": "2026-09-16",
+      "prac_pass_start": "",
+      "prac_pass_end": ""
+    }
+  ],
   "fee": {
     "written": "14500",
     "practical": "44700",
@@ -25,7 +68,69 @@
     }
   ],
   "stats": {
-    "written": [],
-    "practical": []
+    "written": [
+      {
+        "year": 2021,
+        "applicants": 1092,
+        "passers": 678,
+        "passRate": 62.1
+      },
+      {
+        "year": 2022,
+        "applicants": 1117,
+        "passers": 634,
+        "passRate": 56.8
+      },
+      {
+        "year": 2023,
+        "applicants": 840,
+        "passers": 490,
+        "passRate": 58.3
+      },
+      {
+        "year": 2024,
+        "applicants": 1144,
+        "passers": 697,
+        "passRate": 60.9
+      },
+      {
+        "year": 2025,
+        "applicants": 961,
+        "passers": 595,
+        "passRate": 61.9
+      }
+    ],
+    "practical": [
+      {
+        "year": 2021,
+        "applicants": 657,
+        "passers": 374,
+        "passRate": 56.9
+      },
+      {
+        "year": 2022,
+        "applicants": 857,
+        "passers": 435,
+        "passRate": 50.8
+      },
+      {
+        "year": 2023,
+        "applicants": 536,
+        "passers": 254,
+        "passRate": 47.4
+      },
+      {
+        "year": 2024,
+        "applicants": 641,
+        "passers": 319,
+        "passRate": 49.8
+      },
+      {
+        "year": 2025,
+        "applicants": 624,
+        "passers": 368,
+        "passRate": 59.0
+      }
+    ]
   }
 }
